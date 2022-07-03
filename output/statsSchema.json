@@ -1,0 +1,802 @@
+{
+	"AdeptsSurvivor": {
+		"DBD_FinishWithPerks_Idx0": {
+			"description": "Dwight Fairfield",
+			"characterIndex": 0
+		},
+		"DBD_FinishWithPerks_Idx1": {
+			"description": "Meg Thomas",
+			"characterIndex": 1
+		},
+		"DBD_FinishWithPerks_Idx2": {
+			"description": "Claudette Morel",
+			"characterIndex": 2
+		},
+		"DBD_FinishWithPerks_Idx3": {
+			"description": "Jake Park",
+			"characterIndex": 3
+		},
+		"DBD_FinishWithPerks_Idx4": {
+			"description": "Nea Karlsson",
+			"characterIndex": 4
+		},
+		"DBD_FinishWithPerks_Idx5": {
+			"description": "Laurie Strode",
+			"characterIndex": 5
+		},
+		"DBD_FinishWithPerks_Idx6": {
+			"description": "Ace Visconti",
+			"characterIndex": 6
+		},
+		"DBD_FinishWithPerks_Idx7": {
+			"description": "William \"Bill\" Overbeck",
+			"characterIndex": 7
+		},
+		"DBD_FinishWithPerks_Idx8": {
+			"description": "Feng Min",
+			"characterIndex": 8
+		},
+		"DBD_FinishWithPerks_Idx9": {
+			"description": "David King",
+			"characterIndex": 9
+		},
+		"DBD_FinishWithPerks_Idx10": {
+			"description": "Kate Denson",
+			"characterIndex": 10
+		},
+		"DBD_FinishWithPerks_Idx11": {
+			"description": "Quentin Smith",
+			"characterIndex": 11
+		},
+		"DBD_FinishWithPerks_Idx12": {
+			"description": "David Tapp",
+			"characterIndex": 12
+		},
+		"DBD_FinishWithPerks_Idx13": {
+			"description": "Adam Francis",
+			"characterIndex": 13
+		},
+		"DBD_FinishWithPerks_Idx14": {
+			"description": "Jeff Johansen",
+			"characterIndex": 14
+		},
+		"DBD_FinishWithPerks_Idx15": {
+			"description": "Jane Romero",
+			"characterIndex": 15
+		},
+		"DBD_FinishWithPerks_Idx16": {
+			"description": "Ash Williams",
+			"characterIndex": 16
+		},
+		"DBD_FinishWithPerks_Idx17": {
+			"description": "Nancy Wheeler",
+			"characterIndex": 17,
+			"disabled": true
+		},
+		"DBD_FinishWithPerks_Idx18": {
+			"description": "Steve Harrington",
+			"characterIndex": 18,
+			"disabled": true
+		},
+		"DBD_FinishWithPerks_Idx19": {
+			"description": "Yui Kimura",
+			"characterIndex": 19
+		},
+		"DBD_FinishWithPerks_Idx20": {
+			"description": "Zarina Kassir",
+			"characterIndex": 20
+		},
+		"DBD_FinishWithPerks_Idx21": {
+			"description": "Cheryl Mason",
+			"characterIndex": 21
+		},
+		"DBD_FinishWithPerks_Idx22": {
+			"description": "Felix Richter",
+			"characterIndex": 22
+		},
+		"DBD_FinishWithPerks_Idx23": {
+			"description": "Elodie Rakoto",
+			"characterIndex": 23
+		},
+		"DBD_FinishWithPerks_Idx24": {
+			"description": "Yun-Jin Lee",
+			"characterIndex": 24
+		},
+		"DBD_FinishWithPerks_Idx25": {
+			"description": "Jill Valentine",
+			"characterIndex": 25
+		},
+		"DBD_FinishWithPerks_Idx26": {
+			"description": "Leon Scott Kennedy",
+			"characterIndex": 26
+		},
+		"DBD_FinishWithPerks_Idx27": {
+			"description": "Mikaela Reid",
+			"characterIndex": 27
+		},
+		"DBD_FinishWithPerks_Idx28": {
+			"description": "Jonah Vasquez",
+			"characterIndex": 28
+		},
+		"DBD_FinishWithPerks_Idx29": {
+			"description": "Yoichi Asakawa",
+			"characterIndex": 29
+		},
+		"DBD_FinishWithPerks_Idx30": {
+			"description": "Haddie Kaur",
+			"characterIndex": 30
+		}
+	},
+	"AdeptsKiller": {
+		"ACH_UNLOCK_CHUCKLES_PERKS": {
+			"description": "The Trapper",
+			"characterIndex": 268435456
+		},
+		"ACH_UNLOCKBANSHEE_PERKS": {
+			"description": "The Wraith",
+			"characterIndex": 268435457
+		},
+		"ACH_UNLOCKHILLBILY_PERKS": {
+			"description": "The Hillbilly",
+			"characterIndex": 268435458
+		},
+		"DBD_FinishWithPerks_Idx268435459": {
+			"description": "The Nurse",
+			"characterIndex": 268435459
+		},
+		"DBD_FinishWithPerks_Idx268435460": {
+			"description": "The Hag",
+			"characterIndex": 268435460
+		},
+		"DBD_FinishWithPerks_Idx268435461": {
+			"description": "The Shape",
+			"characterIndex": 268435461
+		},
+		"DBD_FinishWithPerks_Idx268435462": {
+			"description": "The Doctor",
+			"characterIndex": 268435462
+		},
+		"DBD_FinishWithPerks_Idx268435463": {
+			"description": "The Huntress",
+			"characterIndex": 268435463
+		},
+		"DBD_FinishWithPerks_Idx268435464": {
+			"description": "The Cannibal",
+			"characterIndex": 268435464
+		},
+		"DBD_FinishWithPerks_Idx268435465": {
+			"description": "The Nightmare",
+			"characterIndex": 268435465
+		},
+		"DBD_FinishWithPerks_Idx268435466": {
+			"description": "The Pig",
+			"characterIndex": 268435466
+		},
+		"DBD_FinishWithPerks_Idx268435467": {
+			"description": "The Clown",
+			"characterIndex": 268435467
+		},
+		"DBD_FinishWithPerks_Idx268435468": {
+			"description": "The Spirit",
+			"characterIndex": 268435468
+		},
+		"DBD_FinishWithPerks_Idx268435469": {
+			"description": "The Legion",
+			"characterIndex": 268435469
+		},
+		"DBD_FinishWithPerks_Idx268435470": {
+			"description": "The Plague",
+			"characterIndex": 268435470
+		},
+		"DBD_FinishWithPerks_Idx268435471": {
+			"description": "The Ghostface",
+			"characterIndex": 268435471
+		},
+		"DBD_FinishWithPerks_Idx268435472": {
+			"description": "The Demogorgon",
+			"characterIndex": 268435472
+		},
+		"DBD_FinishWithPerks_Idx268435473": {
+			"description": "The Oni",
+			"characterIndex": 268435473
+		},
+		"DBD_FinishWithPerks_Idx268435474": {
+			"description": "The Deathslinger",
+			"characterIndex": 268435474
+		},
+		"DBD_FinishWithPerks_Idx268435475": {
+			"description": "The Executioner",
+			"characterIndex": 268435475
+		},
+		"DBD_FinishWithPerks_Idx268435476": {
+			"description": "The Blight",
+			"characterIndex": 268435476
+		},
+		"DBD_FinishWithPerks_Idx268435477": {
+			"description": "The Twins",
+			"characterIndex": 268435477
+		},
+		"DBD_FinishWithPerks_Idx268435478": {
+			"description": "The Trickster",
+			"characterIndex": 268435478
+		},
+		"DBD_FinishWithPerks_Idx268435479": {
+			"description": "The Nemesis",
+			"characterIndex": 268435479
+		},
+		"DBD_FinishWithPerks_Idx268435480": {
+			"description": "The Cenobite",
+			"characterIndex": 268435480
+		},
+		"DBD_FinishWithPerks_Idx268435481": {
+			"description": "The Artist",
+			"characterIndex": 268435481
+		},
+		"DBD_FinishWithPerks_Idx268435482": {
+			"description": "The Onryō",
+			"characterIndex": 268435482
+		},
+		"DBD_FinishWithPerks_Idx268435483": {
+			"description": "The Dredge",
+			"characterIndex": 268435483
+		}
+	},
+	"Rank": {
+		"DBD_KillerSkulls": {
+			"description": "Killer",
+			"category": "rank"
+		},
+		"DBD_CamperSkulls": {
+			"description": "Survivor",
+			"category": "rank"
+		}
+	},
+	"Wins": {
+		"DBD_SlasherMaxScoreByCategory": {
+			"description": "Wins as Killer:",
+			"category": "general_games"
+		},
+		"DBD_CamperMaxScoreByCategory": {
+			"description": "Wins as Survivor",
+			"category": "general_games"
+		},
+		"DBD_UnlockRanking": {
+			"description": "Pip Score",
+			"category": "misc"
+		}
+	},
+	"Bloodweb": {
+		"DBD_BloodwebPoints": {
+			"description": "Total Bloodpoints",
+			"category": "general"
+		},
+		"DBD_MaxBloodwebPointsOneCategory": {
+			"description": "Bloodpoints spent on one character",
+			"category": "general"
+		},
+		"DBD_BloodwebMaxPrestigeLevel": {
+			"description": "Prestige level reached",
+			"category": "general"
+		}
+	},
+	"Loadout": {
+		"DBD_CamperFullLoadout": {
+			"description": "Full loadout trials (Survivor)",
+			"category": "general_loadout"
+		},
+		"DBD_SlasherFullLoadout": {
+			"description": "Full loadout trials (Killer)",
+			"category": "general_loadout"
+		},
+		"DBD_BurnOffering_UltraRare": {
+			"description": "Ultra Rare offerings burned",
+			"category": "general_loadout"
+		},
+		"DBD_CamperKeepUltraRare": {
+			"description": "Ultra Rare addons warded as Survivor",
+			"category": "general_loadout"
+		},
+		"DBD_Chapter17_Camper_Stat1": {
+			"description": "Items depleted",
+			"category": "general_loadout"
+		},
+		"DBD_Event1_Stat3": {
+			"description": "Mystery boxes opened",
+			"category": "general_loadout"
+		}
+	},
+	"TrialSurvivor": {
+		"DBD_GeneratorPct_float": {
+			"description": "Generators repaired",
+			"category": "survivor_generator"
+		},
+		"DBD_Camper8_Stat1": {
+			"description": "Damaged gens repaired",
+			"category": "survivor_generator"
+		},
+		"DBD_Chapter18_Camper_Stat2_float": {
+			"description": "Gens repaired (0 perks equipped)",
+			"category": "survivor_generator"
+		},
+		"DBD_SkillCheckSuccess": {
+			"description": "Skill Check Success",
+			"category": "survivor_general"
+		},
+		"DBD_DLC3_Camper_Stat1": {
+			"description": "Hex totems cleansed",
+			"category": "survivor_general"
+		},
+		"DBD_Chapter21_Camper_Stat1": {
+			"description": "Hex totems blessed",
+			"category": "survivor_general"
+		},
+		"DBD_Chapter10_Camper_Stat1": {
+			"description": "Hooks sabotaged",
+			"category": "survivor_general"
+		},
+		"DBD_DLC7_Camper_Stat2": {
+			"description": "Exit gates opened",
+			"category": "survivor_general"
+		},
+		"DBD_DLC7_Camper_Stat1": {
+			"description": "Chests opened",
+			"category": "survivor_chest"
+		},
+		"DBD_Event1_Stat2": {
+			"description": "Chests opened in the basement",
+			"category": "survivor_chest"
+		}
+	},
+	"Healing": {
+		"DBD_HealPct_float": {
+			"description": "Full health states healed",
+			"category": "survivor_healing_total"
+		},
+		"DBD_Chapter16_Camper_Stat1_float": {
+			"description": "Obsession heals",
+			"category": "survivor_healing_chart"
+		},
+		"DBD_Chapter11_Camper_Stat1_float": {
+			"description": "Heals when injured",
+			"category": "survivor_healing_chart"
+		},
+		"DBD_Chapter17_Camper_Stat2_float": {
+			"description": "Heals when rest is injured",
+			"category": "survivor_healing_chart"
+		},
+		"DBD_Chapter15_Camper_Stat1": {
+			"description": "Dying survivors healed",
+			"category": "survivor_healing_chart"
+		},
+		"DBD_Chapter23_Camper_Stat2": {
+			"description": "Healed survivors that come to you first",
+			"category": "survivor_healing"
+		},
+		"DBD_UnhookOrHeal": {
+			"description": "Survivors saved (dying state/unhooked)",
+			"category": "survivor_healing"
+		},
+		"DBD_UnhookOrHeal_PostExit": {
+			"description": "Survivors saved (dying state/unhooked) in endgame",
+			"category": "survivor_healing"
+		},
+		"DBD_Chapter18_Camper_Stat1": {
+			"description": "Survivors saved from killer's grasp using pallets",
+			"category": "survivor_healing"
+		},
+		"DBD_Chapter21_Camper_Stat2": {
+			"description": "Survivors affected with boon totems",
+			"category": "survivor_healing"
+		},
+		"DBD_Chapter23_Camper_Stat1": {
+			"description": "Survivors affected with speed increase",
+			"category": "survivor_healing"
+		},
+		"DBD_Chapter9_Camper_Stat1": {
+			"description": "Unhooked yourself",
+			"category": "survivor_healing"
+		}
+	},
+	"Chase": {
+		"DBD_HitNearHook": {
+			"description": "Hit near hook",
+			"category": "survivor_chase1"
+		},
+		"DBD_Chapter14_Camper_Stat1": {
+			"description": "Protection hits for carried survivors",
+			"category": "survivor_chase1"
+		},
+		"DBD_Camper8_Stat2": {
+			"description": "Vaults during chase",
+			"category": "survivor_chase2"
+		},
+		"DBD_DLC9_Camper_Stat1": {
+			"description": "Attacks evaded by vaulting",
+			"category": "survivor_chase2"
+		},
+		"DBD_Chapter19_Camper_Stat1": {
+			"description": "Escaped killer by stunning them (pallet)",
+			"category": "survivor_chase3"
+		},
+		"DBD_Chapter19_Camper_Stat2": {
+			"description": "Basic Attacks and Projectiles dodged",
+			"category": "survivor_chase3"
+		},
+		"DBD_Chapter12_Camper_Stat1": {
+			"description": "Escaped killer's grasp",
+			"category": "survivor_chase3"
+		},
+		"DBD_Chapter24_Camper_Stat1": {
+			"description": "Escaped chase by hiding in a locker",
+			"category": "survivor_chase4"
+		}
+	},
+	"Escapes": {
+		"DBD_Escape": {
+			"description": "Escaped Alive",
+			"category": "survivor_escape_total"
+		},
+		"DBD_EscapeKO": {
+			"description": "Escaped in dying state",
+			"category": "survivor_escape_chart"
+		},
+		"DBD_EscapeThroughHatch": {
+			"description": "Escaped through hatch",
+			"category": "survivor_escape_chart"
+		},
+		"DBD_Chapter12_Camper_Stat2": {
+			"description": "Escaped through hatch in dying state",
+			"category": "survivor_escape_chart"
+		},
+		"DBD_EscapeNoBlood_Obsession": {
+			"description": "Escaped as obsession without getting hit",
+			"category": "survivor_escape_special"
+		},
+		"DBD_DLC8_Camper_Stat1": {
+			"description": "Escaped while being downed at most once",
+			"category": "survivor_escape_special"
+		},
+		"DBD_Camper9_Stat2": {
+			"description": "Escaped while being injured for over half a trial",
+			"category": "survivor_escape_special"
+		},
+		"DBD_HookedAndEscape": {
+			"description": "Escaped after unhooking yourself",
+			"category": "survivor_escape_special"
+		},
+		"DBD_Chapter22_Camper_Stat1": {
+			"description": "Escaped after getting injured during chase",
+			"category": "survivor_escape_special"
+		},
+		"DBD_CamperNewItem": {
+			"description": "Escaped with a new item",
+			"category": "survivor_escape_item"
+		},
+		"DBD_CamperEscapeWithItemFrom": {
+			"description": "Escaped with somebody else's item",
+			"category": "survivor_escape_item"
+		},
+		"DBD_AllEscapeThroughHatch": {
+			"description": "All survivors escaped through hatch",
+			"category": "survivor_escape_misc"
+		},
+		"DBD_LastSurvivorGeneratorEscape": {
+			"description": "Escaped after fixing last generator as lone survivor",
+			"category": "survivor_escape_misc"
+		},
+		"DBD_EscapeNoBlood_MapAsy_Asylum": {
+			"description": "Escaped Disturbed Ward uninjured",
+			"category": "survivor_escape_misc"
+		}
+	},
+	"EscapesSpecific": {
+		"DBD_FixSecondFloorGenerator_MapAsy_Asylum": {
+			"description": "Disturbed Ward (Crotus Prenn Asylum)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapAsy_Chapel": {
+			"description": "Father Campbell's Chapel (Crotus Prenn Asylum)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapHti_Manor": {
+			"description": "Family Residence (Yamaoka Estate)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapHti_Shrine": {
+			"description": "Sanctum of Wrath (Yamaoka Estate)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapBrl_MaHouse": {
+			"description": "Mother's Dwelling (Red Forest)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapBrl_Temple": {
+			"description": "Temple of Purgation (Red Forest)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapSub_Street": {
+			"description": "Lampkin Lane (Haddonfield)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapSwp_PaleRose": {
+			"description": "The Pale Rose (Blackwater Swamp)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapFin_Hideout": {
+			"description": "(Bathroom) Gideon Meat Plant (The Game)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapKny_Cottage": {
+			"description": "Mount Ormond Resort (Ormond)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapQat_Lab": {
+			"description": "Operation Theatre (Treatment Theatre)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapUkr_Saloon": {
+			"description": "Saloon (Grave of Glenvale)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapWal_Level_01": {
+			"description": "Music Room (Midwich Elementary School)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapEcl_Level_01": {
+			"description": "Raccoon City Police Station (Raccoon City)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapIon_Level_01": {
+			"description": "Eyrie of Crows (Forsaken Boneyard)",
+			"category": "survivor_escape_specific"
+		},
+		"DBD_FixSecondFloorGenerator_MapMtr_Level_1": {
+			"description": "Garden of Joy (Withered Isle)",
+			"category": "survivor_escape_specific"
+		}
+	},
+	"Kills": {
+		"DBD_SacrificedCampers": {
+			"description": "Survivors Sacrificed",
+			"category": "killer_kills"
+		},
+		"DBD_KilledCampers": {
+			"description": "Survivors Killed (Mori)",
+			"category": "killer_kills"
+		},
+		"DBD_Chapter11_Slasher_Stat1": {
+			"description": "All survivors killed before endgame collapse",
+			"category": "killer_kills_misc"
+		},
+		"DBD_DLC8_Slasher_Stat2": {
+			"description": "Survivors Killed/Sacrificed during endgame collapse",
+			"category": "killer_kills_misc"
+		},
+		"DBD_DLC7_Slasher_Stat2": {
+			"description": "Obsessions Sacrificed",
+			"category": "killer_kills_misc"
+		}
+	},
+	"Hooks": {
+		"DBD_DLC6_Slasher_Stat2": {
+			"description": "Hooked survivors in basement",
+			"category": "killer_hooks"
+		},
+		"DBD_Event1_Stat1": {
+			"description": "Hooked 3+ survivors in the basement at once",
+			"category": "killer_hooks"
+		},
+		"DBD_Chapter14_Slasher_Stat1": {
+			"description": "Hooked survivors while all remaining were injured",
+			"category": "killer_hooks"
+		},
+		"DBD_Chapter18_Slasher_Stat2": {
+			"description": "Hooked survivors during endgame collapse",
+			"category": "killer_hooks"
+		},
+		"DBD_Chapter20_Slasher_Stat2": {
+			"description": "Hooked survivors before a single generator is repaired",
+			"category": "killer_hooks"
+		}
+	},
+	"TrialKiller": {
+		"DBD_DLC9_Slasher_Stat1": {
+			"description": "Generators damaged with at least one survivor hooked",
+			"category": "killer_general_0"
+		},
+		"DBD_Chapter23_Slasher_Stat2": {
+			"description": "Generators damaged while Undetectable",
+			"category": "killer_general_0"
+		},
+		"DBD_Chapter13_Slasher_Stat1": {
+			"description": "Hatches closed",
+			"category": "killer_general_0"
+		},
+		"DBD_Chapter9_Slasher_Stat1": {
+			"description": "Survivors hit after they drop a pallet during chase",
+			"category": "killer_general_1"
+		},
+		"DBD_Chapter10_Slasher_Stat1": {
+			"description": "Survivors hit while carrying another survivor",
+			"category": "killer_general_1"
+		},
+		"DBD_Chapter15_Slasher_Stat2": {
+			"description": "Survivors interrupted while cleansing a totem",
+			"category": "killer_general_1"
+		},
+		"DBD_Chapter12_Slasher_Stat1": {
+			"description": "Survivors grabbed while repairing a generator",
+			"category": "killer_general_1"
+		},
+		"DBD_Chapter22_Slasher_Stat2": {
+			"description": "Survivors detected using Killer Instinct",
+			"category": "killer_general_1"
+		},
+		"DBD_Chapter21_Slasher_Stat2": {
+			"description": "Oblivious status effect applied",
+			"category": "killer_general_1"
+		},
+		"DBD_Chapter24_Slasher_Stat2": {
+			"description": "Survivors grabbed from a locker",
+			"category": "killer_general_1"
+		}
+	},
+	"Downs": {
+		"DBD_Chapter16_Slasher_Stat2": {
+			"description": "Oblivious survivors downed",
+			"category": "killer_downs_general"
+		},
+		"DBD_Chapter17_Slasher_Stat2": {
+			"description": "Survivors downed while Exposed",
+			"category": "killer_downs_general"
+		},
+		"DBD_Chapter19_Slasher_Stat2": {
+			"description": "Survivors downed while carrying another survivor",
+			"category": "killer_downs_general"
+		},
+		"DBD_Chapter13_Slasher_Stat2": {
+			"description": "Survivors downed next to raised pallets",
+			"category": "killer_downs_general"
+		},
+		"DBD_DLC6_Slasher_Stat1": {
+			"description": "(The Cannibal) Survivors downed with chainsaw",
+			"category": "killer_downs"
+		},
+		"DBD_ChainsawHit": {
+			"description": "(The Hillbilly) Survivors downed with chainsaw",
+			"category": "killer_downs"
+		},
+		"DBD_DLC9_Slasher_Stat2": {
+			"description": "(The Clown) Intoxicated survivors downed",
+			"category": "killer_downs"
+		},
+		"DBD_DLC5_Slasher_Stat2": {
+			"description": "(The Huntress) Survivors downed by 24m+ hatchet throw",
+			"category": "killer_downs"
+		},
+		"DBD_Chapter12_Slasher_Stat2": {
+			"description": "(The Ghostface) Marked survivors downed",
+			"category": "killer_downs"
+		},
+		"DBD_Chapter11_Slasher_Stat2": {
+			"description": "(The Plague) Survivors downed while having max Sickness",
+			"category": "killer_downs"
+		},
+		"DBD_Chapter14_Slasher_Stat2": {
+			"description": "(The Oni) Survivors downed with Demon Fury",
+			"category": "killer_downs"
+		},
+		"DBD_Chapter9_Slasher_Stat2": {
+			"description": "(The Spirit) Survivors downed after phase walk",
+			"category": "killer_downs"
+		},
+		"DBD_Chapter10_Slasher_Stat2": {
+			"description": "(The Legion) Deep wounded survivors downed",
+			"category": "killer_downs"
+		},
+		"DBD_Chapter15_Slasher_Stat1": {
+			"description": "(The Gunslinger) Survivors downed while speared",
+			"category": "killer_downs"
+		},
+		"DBD_Chapter18_Slasher_Stat1": {
+			"description": "(The Twins) Survivors downed with Victor clinging",
+			"category": "killer_downs"
+		},
+		"DBD_Chapter20_Slasher_Stat1": {
+			"description": "(The Nemesis) Survivors downed while contaminated",
+			"category": "killer_downs"
+		},
+		"DBD_Chapter22_Slasher_Stat1": {
+			"description": "(The Artist) Survivors downed with Dire Crows",
+			"category": "killer_downs"
+		}
+	},
+	"KillerSpecific": {
+		"DBD_TrapPickup": {
+			"description": "(The Trapper) Survivors trapped and picked up",
+			"category": "killer_specific"
+		},
+		"DBD_UncloakAttack": {
+			"description": "(The Wraith) Uncloak attacks",
+			"category": "killer_specific"
+		},
+		"DBD_SlasherChainAttack": {
+			"description": "(The Nurse) Blink attacks",
+			"category": "killer_specific"
+		},
+		"DBD_SlasherChainInterruptAfter3": {
+			"description": "(The Nurse) Survivors grabbed after triple blink",
+			"category": "killer_specific"
+		},
+		"DBD_SlasherTierIncrement": {
+			"description": "(The Shape) Evil Within tier ups",
+			"category": "killer_specific"
+		},
+		"DBD_SlasherPowerKillAllCampers": {
+			"description": "(The Shape) Trials where all survivors died from Tier III Evil Within",
+			"category": "killer_specific"
+		},
+		"DBD_DLC4_Slasher_Stat1": {
+			"description": "(The Doctor) Shocks",
+			"category": "killer_specific"
+		},
+		"DBD_DLC4_Slasher_Stat2": {
+			"description": "(The Doctor) Trials where all survivors suffered from madness 3",
+			"category": "killer_specific"
+		},
+		"DBD_DLC5_Slasher_Stat1": {
+			"description": "(The Huntress) Hatchets thrown",
+			"category": "killer_specific"
+		},
+		"DBD_DLC7_Slasher_Stat1": {
+			"description": "(The Nightmare) Survivors put to sleep",
+			"category": "killer_specific"
+		},
+		"DBD_DLC8_Slasher_Stat1": {
+			"description": "(The Pig) Reverse bear-traps put on survivors",
+			"category": "killer_specific"
+		},
+		"DBD_DLC3_Slasher_Stat1": {
+			"description": "(The Hag) Traps triggered",
+			"category": "killer_specific"
+		},
+		"DBD_DLC3_Slasher_Stat2": {
+			"description": "(The Hag) Trials where each survivor was hit after teleport",
+			"category": "killer_specific"
+		},
+		"DBD_Chapter16_Slasher_Stat1": {
+			"description": "(The Executioner) Survivors sent to Cage of Atonement",
+			"category": "killer_specific"
+		},
+		"DBD_Chapter17_Slasher_Stat1": {
+			"description": "(The Blight) Survivors hit with Lethal Rush",
+			"category": "killer_specific"
+		},
+		"DBD_Chapter19_Slasher_Stat1": {
+			"description": "(The Trickster) Max Lacerations dealt",
+			"category": "killer_specific"
+		},
+		"DBD_Chapter21_Slasher_Stat1": {
+			"description": "(The Cenobite) Survivors bound with a possessed chain",
+			"category": "killer_specific"
+		},
+		"DBD_Chapter23_Slasher_Stat1": {
+			"description": "(The Onryō) Condemned survivors",
+			"category": "killer_specific"
+		},
+		"DBD_Chapter24_Slasher_Stat1": {
+			"description": "(The Dredge) Downs during Nightfall",
+			"category": "killer_specific"
+		}
+	},
+	"Retired": {
+		"DBD_Chapter13_Slasher_Stat2_retired": {
+			"description": "(The Demogorgon) Survivors downed with Shred (RETIRED)",
+			"category": "killer_downs_retired"
+		},
+		"DBD_FixSecondFloorGenerator_MapQat_Lab_retired": {
+			"description": "The Underground Complex (Hawkins National Laboratory) (RETIRED)",
+			"category": "survivor_escape_specific_retired"
+		}
+	}
+}

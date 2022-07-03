@@ -15,7 +15,7 @@ class CosmeticsDB:
 
                 itemRarity = Format.PrettyRarity(value['Rarity'])
                 type = Format.PrettyCategory(value['Category'])
-                if key == 'NK_Torso01_Mods':
+                if key.endswith('Mods'):
                     pass
                 else:
                     ParsedStore[key] = { 
@@ -24,6 +24,7 @@ class CosmeticsDB:
                                             "Description": Format.ParseCosmeticsDescription(value),
                                             "IconFilePathList": 'images/' + value['UIData']['IconFilePathList'][0],
                                             "CollectionName": Format.ParseCollectionName(value),
+                                            "InclusionVersion": value['InclusionVersion'],
                                             "Type": type,
                                             "Character": value['AssociatedCharacter'],
                                             "Purchasable": False,
@@ -94,7 +95,7 @@ class CosmeticsDB:
                                     appendPrice.append(priceShards)
 
                 itemRarity = Format.PrettyRarity(value['Rarity'])
-                if key == 'NK_Torso01_Mods':
+                if key.endswith('Mods'):
                     pass
                 else:
                     ParsedStore[key] = { 
@@ -103,6 +104,7 @@ class CosmeticsDB:
                                             "Description": Format.ParseCosmeticsDescription(value),
                                             "IconFilePathList": 'images/' + value['UIData']['IconFilePathList'][0],
                                             "CollectionName": Format.ParseCollectionName(value),
+                                            "InclusionVersion": value['InclusionVersion'],
                                             "Type": type,
                                             "Character": value['AssociatedCharacter'],
                                             "Purchasable": purchasable,
@@ -206,6 +208,7 @@ class CosmeticsDB:
                                             "Description": Format.ParseCosmeticsDescription(value),
                                             "IconFilePathList": 'images/' + value['UIData']['IconFilePathList'][0],
                                             "CollectionName": value['CollectionName']['SourceString'],
+                                            "InclusionVersion": value['InclusionVersion'],
                                             "Type": prettyType,
                                             "Character": characterToID,
                                             "Unbreakable": isLinked,
