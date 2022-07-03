@@ -1,0 +1,1535 @@
+{
+    "ArdentRavenWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Ardent Raven Wreath",
+        "Description": "Grants <b>100%</b> bonus Bloodpoints in the Deviousness category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Crafted with a fiery, undying passion out of blackened branches and coals, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_ardentRavenWreath.png"
+    },
+    "ArdentShrikeWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Ardent Shrike Wreath",
+        "Description": "Grants <b>100%</b> bonus Bloodpoints in the Sacrifice category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Crafted with a fiery, undying passion out of sticks, strings and bones, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_ardentShrikeWreath.png"
+    },
+    "ArdentSpottedowlWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Ardent Spotted Owl Wreath",
+        "Description": "Grants <b>100%</b> bonus Bloodpoints in the Hunting category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Crafted with a fiery, undying passion out of sharp metals, ropes and feathers, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_ardentSpottedOwlWreath.png"
+    },
+    "ArdentTanagerWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Ardent Tanager Wreath",
+        "Description": "Grants <b>100%</b> bonus Bloodpoints in the Brutality category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Crafted with a fiery, undying passion out of bloody sticks and guts, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_ardentTanagerWreath.png"
+    },
+    "AzarovKey": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Azarov's Key",
+        "Description": "<b>Tremendously increases</b> the chances of being sent to the Autohaven Wreckers when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A broken key belonging to a vehicle of unknown brand. A keychain attached to it identifies the owner as a certain A. Azarov.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_azarovsKey.png"
+    },
+    "BlackSaltStatuette": {
+        "Type": "Luck",
+        "Tags": [
+            "Stack",
+            "White"
+        ],
+        "Available": "Available",
+        "Name": "Black Salt Statuette",
+        "Description": "<b>Moderately increases</b> luck of <b>all</b> Survivors.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A friable miniature statuette made of black salt representing a woman in a kneeling position offering a gift. Some believe it brings good fortune.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_blackSaltStatuette.png"
+    },
+    "BlackWard": {
+        "Type": "Protection",
+        "Tags": [
+            "Personal",
+            "Black",
+            "Ward"
+        ],
+        "Available": "Available",
+        "Name": "Black Ward",
+        "Description": "Burning this offering grants you protection against the loss of your add-ons at the end of the trial.<br><span class=\"FlavorText\">\"Hear my voice, spare my ways, protect me from the void.\"</span>",
+        "Role": "Killer",
+        "Rarity": "VeryRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_wardBlack.png"
+    },
+    "BogLaurelSachet": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Bog Laurel Sachet",
+        "Description": "Grants <b>50%</b> bonus Bloodpoints in the Objective category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A palm-sized hand-sewn sachet filled with dry leaves. Releases a faint tea-like aroma.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_bogLaurelSachet.png"
+    },
+    "BoundEnvelope": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Bound Envelope",
+        "Description": "Grants <b>25%</b> bonus Bloodpoints in <b>all</b> categories to all Survivors.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"An opened envelope re-sealed and bound with 4 colored ribbons.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_boundEnvelope.png"
+    },
+    "CattleTag28": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Cattle Tag-28",
+        "Description": "<b>Slightly increases</b> the chances of being sent to Coldwind Farm when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A bloodstained cattle tag identified with the number '28'.\"</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_cattleTag28.png"
+    },
+    "ChalkPouch": {
+        "Type": "Luck",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White"
+        ],
+        "Available": "Available",
+        "Name": "Chalk Pouch",
+        "Description": "<b>Slightly increases</b> luck.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A small cotton pouch filled with a white chalky powder of unknown origin. Some believe it brings good fortune.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_chalkPouch.png"
+    },
+    "CharredWeddingPhotograph": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Charred Wedding Photograph",
+        "Description": "<b>Tremendously increases</b> the chances of being sent to Crotus Prenn Asylum when burnt.<br><span class=\"FlavorText\">\"A burned portrait of a couple on their wedding day, the faces are completely charred and unidentifiable.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_charredWeddingPhotograph.png"
+    },
+    "ClearReagent": {
+        "Type": "Atmosphere",
+        "Tags": [
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Clear Reagent",
+        "Description": "<b>Slightly lessens</b> the Dark Mist.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"The Mist rolls in, traps all in Its deep madness. There is no running, no escape, no asylum, except for the clear waters of the pond lost in the forest.\" -Unknown, Notebook</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_clearReagent.png"
+    },
+    "ColdwindCattleTag81": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Coldwind Cattle Tag-81",
+        "Description": "<b>Considerably increases</b> the chances of being sent to Coldwind Farm when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A bloodstained cattle tag identified with 'Coldwind Farm' and the number '81'.\"</span>",
+        "Role": "None",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_cattleTag81.png"
+    },
+    "CreamChalkPouch": {
+        "Type": "Luck",
+        "Tags": [
+            "Stack",
+            "White",
+            "Personal"
+        ],
+        "Available": "Available",
+        "Name": "Cream Chalk Pouch",
+        "Description": "<b>Moderately increases</b> luck.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A small cotton pouch half-filled with a cream colored chalky powder of unknown origin. Releases a faint herbal aroma. Some believe it brings good fortune.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_creamChalkPouch.png"
+    },
+    "CrescentMoonBouquet": {
+        "Type": "Lighting",
+        "Tags": [],
+        "Available": "Retired",
+        "Name": "Crescent Moon Bouquet",
+        "Description": "Calls upon The Entity for a <b>dimmed moonlight</b>.<br><span class=\"FlavorText\">\"The moon slowly fades into a smile: 'Don't worry, your secret is safe with me.' Or is it a grin?\"</span>",
+        "Role": "None",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_crecentMoonBouquet.png"
+    },
+    "CrispleafAmaranthSachet": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Crispleaf Amaranth Sachet",
+        "Description": "Grants <b>50%</b> bonus Bloodpoints in the Survival category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A palm-sized hand-sewn sachet stuffed with bead-like grain. Amaranth is said to be everlasting.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_crispleafAmaranthSachet.png"
+    },
+    "CutCoin": {
+        "Type": "Chest",
+        "Tags": [
+            "Black",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Cut Coin",
+        "Description": "Calls on The Entity to prevent the appearance of <b>2</b> chests.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Two halves of a thick metallic coin.\"</span>",
+        "Role": "Killer",
+        "Rarity": "VeryRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_cutCoin.png"
+    },
+    "CypressMementoMori": {
+        "Type": "Killing",
+        "Tags": [
+            "Black",
+            "Mystery"
+        ],
+        "Available": "Available",
+        "Name": "Cypress Memento Mori",
+        "Description": "Grants the ability to <b>kill the last Survivor</b> by your hand during the next trial.<br><li>Secret.</li><br><span class=\"FlavorText\">\"You worked well, the last one is yours.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_momentoMoriCypress.png"
+    },
+    "DevoutRavenWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Devout Raven Wreath",
+        "Description": "Grants <b>75%</b> bonus Bloodpoints in the Deviousness category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Devoutly crafted out of blackened branches and coals, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_devoutRavenWreath.png"
+    },
+    "DevoutShrikeWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Devout Shrike Wreath",
+        "Description": "Grants <b>75%</b> bonus Bloodpoints in the Sacrifice category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Devoutly crafted out of sticks, strings and bones, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_devoutShrikeWreath.png"
+    },
+    "DevoutSpottedowlWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Devout Spotted Owl Wreath",
+        "Description": "Grants <b>75%</b> bonus Bloodpoints in the Hunting category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Devoutly crafted out of sharp metals, ropes and feathers, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_devoutSpottedOwlWreath.png"
+    },
+    "DevoutTanagerWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Devout Tanager Wreath",
+        "Description": "Grants <b>75%</b> bonus Bloodpoints in the Brutality category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Devoutly crafted out of bloody sticks and guts, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_devoutTanagerWreath.png"
+    },
+    "EbonyMementoMori": {
+        "Type": "Killing",
+        "Tags": [
+            "Black",
+            "Mystery"
+        ],
+        "Available": "Available",
+        "Name": "Ebony Memento Mori",
+        "Description": "Grants the ability to <b>kill all Survivors</b> who have reached the <b>second Hook State</b> by your hand during the next trial.<li>Secret.</li><br><span class=\"FlavorText\">\"I could swear It spoke to the beast. It came to a halt, as if calmly listening to the leaves rustling, and then\u2026 grinned.\"</span>",
+        "Role": "Killer",
+        "Rarity": "UltraRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_momentoMoriEbony.png"
+    },
+    "FaintReagent": {
+        "Type": "Atmosphere",
+        "Tags": [
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Faint Reagent",
+        "Description": "<b>Slightly thickens</b> the Dark Mist.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Paralyzed, I stand in the cold as death lingers.\"</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_faintReagent.png"
+    },
+    "FragrantBogLaurel": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Fragrant Bog Laurel",
+        "Description": "Grants <b>100%</b> bonus Bloodpoints in the Objective category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A beautiful purple flower that grows in the midst of the tainted swamp. Releases a strong tea-like aroma.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_fragrantBogLaurel.png"
+    },
+    "FragrantCrispleafAmaranth": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Fragrant Crispleaf Amaranth",
+        "Description": "Grants <b>100%</b> bonus Bloodpoints in the Survival category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"The pale green leaves are highlighted with peculiar crimson veins. Releases a strong radish aroma.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_fragrantCrispleafAmaranth.png"
+    },
+    "FragrantPrimroseBlossom": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Fragrant Primrose Blossom",
+        "Description": "Grants <b>100%</b> bonus Bloodpoints in the Altruism category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"Golden flowers harvested at their peak. Releases a strong earthy and comforting aroma.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_fragrantPrimroseBlossom.png"
+    },
+    "FragrantSweetWilliam": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Fragrant Sweet William",
+        "Description": "Grants <b>100%</b> bonus Bloodpoints in the Boldness category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A bunch of flowers with pink petals and a blood red core. Releases a strong spicy, clove-like scent.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_fragrantSweetWilliam.png"
+    },
+    "FreshBogLaurel": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Fresh Bog Laurel",
+        "Description": "Grants <b>75%</b> bonus Bloodpoints in the Objective category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A beautiful purple flower that grows in the midst of the tainted swamp. Releases a mild tea-like aroma.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_freshBogLaurel.png"
+    },
+    "FreshCrispleafAmaranth": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Fresh Crispleaf Amaranth",
+        "Description": "Grants <b>75%</b> bonus Bloodpoints in the Survival category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"The pale green leaves are highlighted with peculiar crimson veins. Amaranth is said to be everlasting.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_freshCrispleafAmaranth.png"
+    },
+    "FreshPrimroseBlossom": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Fresh Primrose Blossom",
+        "Description": "Grants <b>75%</b> bonus Bloodpoints in the Altruism category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"Golden flowers harvested at their peak. The primrose opens at the very last moment before the sun gives place to the night.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_freshPrimroseBlossom.png"
+    },
+    "FreshSweetWilliam": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Fresh Sweet William",
+        "Description": "Grants <b>75%</b> bonus Bloodpoints in the Boldness category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A bunch of flowers with pink petals and a blood red core. Releases a spicy, clove-like scent.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_freshSweetWilliam.png"
+    },
+    "FullMoonBouquet": {
+        "Type": "Lighting",
+        "Tags": [],
+        "Available": "Retired",
+        "Name": "Full Moon Bouquet",
+        "Description": "Calls upon The Entity for the <b>brightest moonlight</b>.<br><span class=\"FlavorText\">\"As the moon rises, the wolves howl, marking the beginning of the hunt.\"</span>",
+        "Role": "None",
+        "Rarity": "VeryRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_fullMoonBouquet.png"
+    },
+    "HazyReagent": {
+        "Type": "Atmosphere",
+        "Tags": [
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Hazy Reagent",
+        "Description": "<b>Moderately thickens</b> the Dark Mist.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"The Mist is alluring, hypnotizing. I love It and fear It at the same time.\" -Donna's Sketchbook</span>",
+        "Role": "None",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_hazyReagent.png"
+    },
+    "HeartLocket": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Heart Locket",
+        "Description": "<b>Tremendously increases</b> the chances of being sent to Coldwind Farm when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A silver heart locket necklace. The simple interior is engraved with the following: 'E+M'.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_heartLocket.png"
+    },
+    "HollowShell": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Hollow Shell",
+        "Description": "Grants <b>25%</b> bonus Bloodpoints in all categories.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"An unidentifiable cocoon which was breached by whatever was inside.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_hollowShell.png"
+    },
+    "IvoryChalkPouch": {
+        "Type": "Luck",
+        "Tags": [
+            "Stack",
+            "White",
+            "Personal"
+        ],
+        "Available": "Available",
+        "Name": "Ivory Chalk Pouch",
+        "Description": "<b>Considerably increases</b> luck.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A small leather pouch displaying a straight white line hand-sewn on one of its sides. The bag is filled with an ivory chalky powder that shines under the moonlight. Some believe it brings good fortune.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_ivoryChalkPouch.png"
+    },
+    "IvoryMementoMori": {
+        "Type": "Killing",
+        "Tags": [
+            "Black",
+            "Mystery"
+        ],
+        "Available": "Available",
+        "Name": "Ivory Memento Mori",
+        "Description": "Grants the ability to <b>kill one Survivor</b> who has reached the <b>second Hook State</b> by your hand during the next trial.<li>Secret.</li><br><span class=\"FlavorText\">\"Grant me the favor of killing one.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_momentoMoriIvory.png"
+    },
+    "LunacyTicket": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Lunacy Ticket",
+        "Description": "<b>Slightly increases</b> the chances of being sent to Crotus Prenn Asylum when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A worn and faded-out ticket of paper with unreadable information.\"</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_lunacyTicket.png"
+    },
+    "MacmillanLedgerPage": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "MacMillan Ledger Page",
+        "Description": "<b>Slightly increases</b> the chances of being sent to the MacMillan Estate when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A torn and faded-out ledger page with unreadable information except for the MacMillan stamp.\"</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_macmillianLedgerPage.png"
+    },
+    "MacMillanPhalanxBone": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "MacMillan's Phalanx Bone",
+        "Description": "<b>Tremendously increases</b> the chances of being sent to the MacMillan Estate when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"MacMillan's skeletal remains were found in the basement of the mine's storehouse. His leg bones shattered into pieces and a mining hammer lying in his lap.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_macmilliansPhalanxBone.png"
+    },
+    "MoldyOak": {
+        "Type": "Hook",
+        "Tags": [
+            "Black",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Moldy Oak",
+        "Description": "Calls upon The Entity to <b>Slightly decrease</b> the <b>distance</b> between sacrificial hooks appearing in the world.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A damp and decaying piece of oak replete with mold.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_moldyOak.png"
+    },
+    "MurkyReagent": {
+        "Type": "Atmosphere",
+        "Tags": [
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Murky Reagent",
+        "Description": "<b>Greatly thickens</b> the Dark Mist.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"The Mist seems to protect us from the beast, but it is a poison, a cancer, filling us with darkness and insanity.\" -Unknown, Notebook</span>",
+        "Role": "None",
+        "Rarity": "VeryRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_murkyReagent.png"
+    },
+    "NewMoonBouquet": {
+        "Type": "Lighting",
+        "Tags": [],
+        "Available": "Retired",
+        "Name": "New Moon Bouquet",
+        "Description": "Calls upon The Entity for the <b>darkest moonlight</b>.<br><span class=\"FlavorText\">\"Better go back to sleep, there is no moon this night.\"</span>",
+        "Role": "None",
+        "Rarity": "UltraRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_newMoonBouquet.png"
+    },
+    "PElliotLunacyTicket": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "P.Elliott Lunacy Ticket",
+        "Description": "<b>Considerably increases</b> the chances of being sent to Crotus Prenn Asylum when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A pink paper ticket identifying Philip Elliott as to be transferred to Crotus Prenn Asylum.\"</span>",
+        "Role": "None",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_pElliottLunacyTicket.png"
+    },
+    "PetrifiedOak": {
+        "Type": "Hook",
+        "Tags": [
+            "White",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Petrified Oak",
+        "Description": "Calms The Entity and <b>Slightly increases</b> the <b>distance</b> between sacrificial hooks appearing in the world.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A deteriorating piece of petrified wood.\"</span>",
+        "Role": "Camper",
+        "Rarity": "VeryRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_petrifiedOak.png"
+    },
+    "PrimroseBlossomSachet": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Primrose Blossom Sachet",
+        "Description": "Grants <b>50%</b> bonus Bloodpoints in the Altruism category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A palm-sized hand-sewn sachet containing 4 gold petals. The primrose opens at the very last moment before the sun gives place to the night.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_primroseBlossomSachet.png"
+    },
+    "PutridOak": {
+        "Type": "Hook",
+        "Tags": [
+            "Black",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Putrid Oak",
+        "Description": "Calls upon The Entity to <b>Considerably decrease</b> the <b>distance</b> between sacrificial hooks appearing in the world.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A ruined piece of oak oozing with a black putrescent liquid.\"</span>",
+        "Role": "Killer",
+        "Rarity": "VeryRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_putridOak.png"
+    },
+    "QuarterMoonBouquet": {
+        "Type": "Lighting",
+        "Tags": [],
+        "Available": "Retired",
+        "Name": "Quarter Moon Bouquet",
+        "Description": "Calls upon The Entity for a <b>brighter moonlight</b>.<br><span class=\"FlavorText\">\"The old moon shows her face, looking down on the prey.\"</span>",
+        "Role": "None",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_quarterMoonBouquet.png"
+    },
+    "RavenWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Raven Wreath",
+        "Description": "Grants <b>50%</b> bonus Bloodpoints in the Deviousness category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Crafted out of blackened branches and coals, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_ravenWreath.png"
+    },
+    "RottenOak": {
+        "Type": "Hook",
+        "Tags": [
+            "Black",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Rotten Oak",
+        "Description": "Calls upon The Entity to <b>Moderately decrease</b> the <b>distance</b> between sacrificial hooks appearing in the world.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A decomposing piece of oak in which strange markings have been etched.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/iconFavors_rottenOak.png"
+    },
+    "SaltPouch": {
+        "Type": "Luck",
+        "Tags": [
+            "Stack",
+            "White"
+        ],
+        "Available": "Available",
+        "Name": "Salt Pouch",
+        "Description": "<b>Slightly increases</b> luck of <b>all</b> Survivors.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A small cotton pouch filled with black salt crystals. Some believe it brings good fortune. Don't spill it.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_saltPouch.png"
+    },
+    "ScratchedCoin": {
+        "Type": "Chest",
+        "Tags": [
+            "Black",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Scratched Coin",
+        "Description": "Calls on The Entity to prevent the appearance of <b>1</b> chest.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A defaced coin of unknown origin.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_scratchedCoin.png"
+    },
+    "SealedEnvelope": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "White",
+            "NotAvailableInPartyMode",
+            "Personal"
+        ],
+        "Available": "Available",
+        "Name": "Sealed Envelope",
+        "Description": "Grants <b>25%</b> bonus Bloodpoints in all categories.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"An unaddressed and unopened envelope yellowed by time. Its message will never be known.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_sealedEnvelope.png"
+    },
+    "ShinyCoin": {
+        "Type": "Chest",
+        "Tags": [
+            "White",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Shiny Coin",
+        "Description": "Calls on The Entity to create <b>2</b> more chests.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A clean and polished piece of gold.\"</span>",
+        "Role": "Camper",
+        "Rarity": "VeryRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_shinyCoin.png"
+    },
+    "ShreddedPlate": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Shredded Plate",
+        "Description": "<b>Slightly increases</b> the chances of being sent to the Autohaven Wreckers when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A heavily rusted, bent and torn metal sheet.\"</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_plateShredded.png"
+    },
+    "ShrikeWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Shrike Wreath",
+        "Description": "Grants <b>50%</b> bonus Bloodpoints in the Sacrifice category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Crafted out of sticks, strings and bones, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_shrikeWreath.png"
+    },
+    "ShroudofBinding": {
+        "Type": "Position",
+        "Tags": [
+            "White",
+            "Mystery"
+        ],
+        "Available": "Available",
+        "Name": "Shroud of Binding",
+        "Description": "All Survivors start the trial together.<br><li>Secret.</li><br><span class=\"FlavorText\">\"A square and washed out piece of fabric with small knots on each end.\"</span>",
+        "Role": "Camper",
+        "Rarity": "VeryRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_shroudOfBinding.png"
+    },
+    "ShroudofSeparation": {
+        "Type": "Position",
+        "Tags": [
+            "Black",
+            "Mystery"
+        ],
+        "Available": "Available",
+        "Name": "Shroud of Separation",
+        "Description": "All Survivors start the trial separated.<br><li>Secret.</li><br><span class=\"FlavorText\">\"A thin black shroud which is falling apart.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_shroudOfSeparation.png"
+    },
+    "ShroudofUnion": {
+        "Type": "Position",
+        "Tags": [
+            "White",
+            "Mystery"
+        ],
+        "Available": "Available",
+        "Name": "Shroud of Union",
+        "Description": "You start the trial with someone else.<br><li>Secret.</li><br><span class=\"FlavorText\">\"A knotted piece of fabric.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_shroudOfUnion.png"
+    },
+    "SignedLedgerPage": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Signed Ledger Page",
+        "Description": "<b>Considerably increases</b> the chances of being sent to the MacMillan Estate when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A faded-out ledger page referring to mining related equipment and other transactions. Signed by Archie MacMillan.\"</span>",
+        "Role": "None",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_signedLedgerPage.png"
+    },
+    "SpottedOwlWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Spotted Owl Wreath",
+        "Description": "Grants <b>50%</b> bonus Bloodpoints in the Hunting category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Crafted out of sharp metals, ropes and feathers, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_spottedOwlWreath.png"
+    },
+    "SweetWilliamSachet": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Personal",
+            "White",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Sweet William Sachet",
+        "Description": "Grants <b>50%</b> bonus Bloodpoints in the Boldness category.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A palm-sized hand-sewn sachet containing a mix of pale petals and glaucous bluish leaves. Releases a strong spicy, clove-like scent.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_sweetWilliamSachet.png"
+    },
+    "TanagerWreath": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "Black",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Tanager Wreath",
+        "Description": "Grants <b>50%</b> bonus Bloodpoints in the Brutality category.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Crafted out of bloody sticks and guts, this wreath calls on The Entity's blessing for more blood.\"</span>",
+        "Role": "Killer",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/iconFavors_tanagerWreath.png"
+    },
+    "TarnishedCoin": {
+        "Type": "Chest",
+        "Tags": [
+            "White",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Tarnished Coin",
+        "Description": "Calls on The Entity to create <b>1</b> more chest.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A round piece of metal which has lost all sheen.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_tarnishedCoin.png"
+    },
+    "VigosShroud": {
+        "Type": "Position",
+        "Tags": [
+            "Personal",
+            "Mystery",
+            "White"
+        ],
+        "Available": "Available",
+        "Name": "Vigo's Shroud",
+        "Description": "You start the trial as far as possible from the Killer.<br><li>Secret.</li><br><span class=\"FlavorText\">\"I found marvels through the years in The Fog, but only now do I understand how to bend The Fog's irrefragable rules.\" -Vigo's Journal</span>",
+        "Role": "Camper",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_vigosShroud.png"
+    },
+    "VirginiaPlate": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Virginia Plate",
+        "Description": "<b>Considerably increases</b> the chances of being sent to the Autohaven Wreckers when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A rusted and bent license plate from the state of Virginia.\"</span>",
+        "Role": "None",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/iconFavors_plateVirginia.png"
+    },
+    "WhiteWard": {
+        "Type": "Protection",
+        "Tags": [
+            "Personal",
+            "White",
+            "Ward"
+        ],
+        "Available": "Available",
+        "Name": "White Ward",
+        "Description": "Burning this offering grants you protection against the loss of your item and add-ons.<br><span class=\"FlavorText\">\"Keep me from evil, defend me, and pass away.\"</span>",
+        "Role": "Camper",
+        "Rarity": "VeryRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_wardWhite.png"
+    },
+    "VigosJarOfSaltyLips": {
+        "Type": "Luck",
+        "Tags": [
+            "Stack",
+            "White"
+        ],
+        "Available": "Available",
+        "Name": "Vigo's Jar of Salty Lips",
+        "Description": "<b>Considerably increases</b> luck of <b>all</b> Survivors.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A tightly sealed glass jar containing torn human lips floating in a murky brine. Some believe it brings good fortune.\"</span>",
+        "Role": "Camper",
+        "Rarity": "VeryRare",
+        "Image": "images/UI/Icons/Favors/iconFavors_jarOfSaltyLips.png"
+    },
+    "MuddySplinter": {
+        "Type": "Killer",
+        "Tags": [
+            "NotAvailableInPartyMode",
+            "Black",
+            "Mystery",
+            "NOT_AVAILABLE_FOR_Witch"
+        ],
+        "Available": "Retired",
+        "Name": "Muddy Splinter",
+        "Description": "Allows you to take on the role of <b>The Hag</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br><span class=\"FlavorText\">\"Avoid walking in the mud or The Hag will eat your bones.\"</span>",
+        "Role": "Killer",
+        "Rarity": "UltraRare",
+        "Image": "images/UI/Icons/Favors/DLC3/iconFavors_muddySplinter.png"
+    },
+    "FumingCordage": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Fuming Cordage",
+        "Description": "<b>Slightly increases</b> the chances of being sent to Backwater Swamp when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A burnt piece of marine rope still emitting a warm smoke.\"</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/DLC3/iconFavors_fumingCordage.png"
+    },
+    "FumingWelcomeSign": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Fuming Welcome Sign",
+        "Description": "<b>Considerably increases</b> the chances of being sent to Backwater Swamp when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A welcome sign made from a coarse piece of water polished cypress board. The sign is charred and still fuming.\"</span>",
+        "Role": "None",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/DLC3/iconFavors_fumingWelcomeSign.png"
+    },
+    "GranmasCookbook": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Grandma's Cookbook",
+        "Description": "<b>Tremendously increases</b> the chances of being sent to Backwater Swamp when burnt.<br><span class=\"FlavorText\">\"A leather-bound binder containing horrible human meat recipes such as the granny-slappin\u2019 good chili.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/DLC3/iconFavors_granmasCookbook.png"
+    },
+    "EscapeCake": {
+        "Type": "Points",
+        "Tags": [
+            "White",
+            "Stack",
+            "Personal",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Escape! Cake",
+        "Description": "Grants <b>100%</b> bonus Bloodpoints in all categories.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"This picture of a cake sure is real.\"</span>",
+        "Role": "Camper",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/Anniversary/iconFavors_escapeCake.png"
+    },
+    "SurvivorPudding": {
+        "Type": "Points",
+        "Tags": [
+            "Black",
+            "Stack",
+            "Personal",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Survivor Pudding",
+        "Description": "Grants <b>100%</b> bonus Bloodpoints in all categories.<br><li>Personal.</li><li>Stacks.</li><br><span class=\"FlavorText\">\"A heavily salted pudding\u2026\"</span>",
+        "Role": "Killer",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/Anniversary/iconFavors_survivorPudding.png"
+    },
+    "BloodyPartyStreamers": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Bloody Party Streamers",
+        "Description": "Grants <b>100%</b> bonus Bloodpoints in all categories for all players this trial.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A reminder of a bloody good time when people came together, but left screaming.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/Anniversary/iconFavors_bloodyPartyStreamers.png"
+    },
+    "Anniversary2019Offering": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Gruesome Gateau",
+        "Description": "A terrific stomach-churning cake to mark our three years together. Grants <b>103%</b> bonus Bloodpoints in all categories for all players this trial.<br><li>Stacks</li><br><span class=\"FlavorText\">\u201cHappy Anniversary! Here's to our three years together!\"<br>\u2013 The Dead by Daylight Team</span>",
+        "Role": "None",
+        "Rarity": "SpecialEvent",
+        "Image": "images/UI/Icons/Favors/Anniversary/iconFavors_gruesomeGateau.png"
+    },
+    "Anniversary2020Offering": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Ghastly Gateau",
+        "Description": "A spectacularly grim cake to mark our four years together. 1% tastier than a Gruesome Gateau. Grants <b>104%</b> bonus Bloodpoints in all categories for all players this trial.<br><li>Stacks</li><br><span class=\"FlavorText\">\"Happy Anniversary! Here's to many more!\"<br>- The Dead by Daylight Team</span>",
+        "Role": "None",
+        "Rarity": "SpecialEvent",
+        "Image": "images/UI/Icons/Favors/Anniversary/iconFavors_4thAnniversary.png"
+    },
+    "Anniversary2021Offering": {
+        "Type": "Points",
+        "Tags": [
+            "NotAvailableInPartyMode",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Sacrificial Cake",
+        "Description": "A revolting cake that marks our five years together. The slightest taste fills you with an incomprehensible energy, reaching out to something beyond. Grants <b>105%</b> bonus Bloodpoints in all categories for all players this trial.<li>Stacks</li><br><span class=\"FlavorText\">\"Happy anniversary! We\u2019re dying to celebrate many more with you!\" <br>- The Dead by Daylight Team</span>",
+        "Role": "None",
+        "Rarity": "SpecialEvent",
+        "Image": "images/UI/Icons/Favors/Anniversary/iconsFavors_5thAnniversary.png"
+    },
+    "BoneSplinter": {
+        "Type": "Killer",
+        "Tags": [
+            "NotAvailableInPartyMode",
+            "Black",
+            "Mystery",
+            "NOT_AVAILABLE_FOR_Cannibal"
+        ],
+        "Available": "Retired",
+        "Name": "Bone Splinter",
+        "Description": "Allows you to take on the role of <b>The Cannibal</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br><span class=\"FlavorText\">\"You like this face? \" -Hitchhiker</span>",
+        "Role": "Killer",
+        "Rarity": "UltraRare",
+        "Image": "images/UI/Icons/Favors/Cannibal/iconFavors_boneSplinter.png"
+    },
+    "BlackSplinter": {
+        "Type": "Killer",
+        "Tags": [
+            "NotAvailableInPartyMode",
+            "Black",
+            "Mystery",
+            "NOT_AVAILABLE_FOR_Shape"
+        ],
+        "Available": "Retired",
+        "Name": "Black Splinter",
+        "Description": "Allows you to take on the role of <b>The Shape</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br><span class=\"FlavorText\">\"He came home!\" - Dr. Sam Loomis</span>",
+        "Role": "Killer",
+        "Rarity": "UltraRare",
+        "Image": "images/UI/Icons/Favors/DLC2/iconFavors_blackSplinter.png"
+    },
+    "StrodeRealtyKey": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Strode Realty Key",
+        "Description": "<b>Tremendously increases</b> the chances of being sent to Haddonfield when burnt.<br><span class=\"FlavorText\">\"A house key, mundane in appearance. A cardboard key-tag attached to it reads 'Strode Real Estate', followed by a handwritten address: '45 Lampkin Lane'.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/DLC2/iconFavors_strodeRealtyKey.png"
+    },
+    "DecrepitClapboard": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Decrepit Clapboard",
+        "Description": "<b>Considerably increases</b> the chances of being sent to Haddonfield when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A moldy and rotten beaded oak clapboard like the ones found on most houses of Haddonfield.\"</span>",
+        "Role": "None",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/DLC2/iconFavors_decrepitClapboard.png"
+    },
+    "HarvestFestivalLeaflet": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Harvest Festival Leaflet",
+        "Description": "<b>Slightly increases</b> the chances of being sent to Haddonfield when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A washed out informational leaflet for the '78 Haddonfield Harvest Festival. A large cartoon pumpkin is depicted on the front.\"</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/DLC2/iconFavors_harvestFestivalLeaflet.png"
+    },
+    "ShockSplinter": {
+        "Type": "Killer",
+        "Tags": [
+            "NotAvailableInPartyMode",
+            "Black",
+            "Mystery",
+            "NOT_AVAILABLE_FOR_Killer07"
+        ],
+        "Available": "Retired",
+        "Name": "Shock Splinter",
+        "Description": "Allows you to take on the role of The Doctor for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br><span class=\"FlavorText\">\"Your secrets are safe with me.\"</span>",
+        "Role": "Killer",
+        "Rarity": "UltraRare",
+        "Image": "images/UI/Icons/Favors/DLC4/iconFavors_shockSplinter.png"
+    },
+    "EmergencyCertificate": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Emergency Certificate",
+        "Description": "<b>Slightly increases</b> the chances of being sent to L\u00e9ry's Memorial Institute when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A yellow carbon-copy certificate which admits a patient into immediate detention for emergency treatment. Copied information are smudged and unreadable.\"</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/DLC4/iconFavors_emergencyCertificate.png"
+    },
+    "PsychiatricAssessmentReport": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Psychiatric Assessment Report",
+        "Description": "<b>Considerably increases</b> the chances of being sent to L\u00e9ry's Memorial Institute when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A Psychiatric report signed by Herman Carter. It describes the memory deterioration of a patient and contains suggestions for next steps in the procedure.\"</span>",
+        "Role": "None",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/DLC4/iconFavors_psychiatricAssessmentReport.png"
+    },
+    "ShatteredGlasses": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Shattered Glasses",
+        "Description": "<b>Tremendously increases</b> the chances of being sent to L\u00e9ry's Memorial Institute when burnt.<br><span class=\"FlavorText\">\"Bent reading glasses. Speckles of dried blood can be seen on the shattered lens.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/DLC4/iconFavors_shatteredGlasses.png"
+    },
+    "PaintedRiverRock": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Painted River Rock",
+        "Description": "<b>Slightly increases</b> the chances of being sent to Red Forest when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A slick and soft rock, polished by a stream. Decorated with red, black and white paint to depict a serious looking bear.\"</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/DLC5/iconFavors_paintedRiverRock.png"
+    },
+    "ChildrensBook": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme",
+            "NotAvailableInPartyMode"
+        ],
+        "Available": "Available",
+        "Name": "Children's Book",
+        "Description": "<b>Considerably increases</b> the chances of being sent to Red Forest when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"An ancient and decrepit story book, the pages of which have been lost to the elements.\"</span>",
+        "Role": "None",
+        "Rarity": "Uncommon",
+        "Image": "images/UI/Icons/Favors/DLC5/iconFavors_childrensBook.png"
+    },
+    "TheLastMask": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "The Last Mask",
+        "Description": "<b>Tremendously increases</b> the chances of being sent to Red Forest when burnt.<br><span class=\"FlavorText\">\"A beautifully crafted tiger mask that would fit snug on a child's face. A faded note in Cyrillic letters can be found scripted on the back.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/DLC5/iconFavors_theLastMask.png"
+    },
+    "EclipseThemeOffering": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "RPD Badge",
+        "Description": "<b>Tremendously increases</b> the chance of being sent to Raccoon City police station when burnt.<br><span class=\"FlavorText\">\"If we stay here that monster will find us.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/Eclipse/iconsFavors_RPDBadge.png"
+    },
+    "SmokingSplinter": {
+        "Type": "Killer",
+        "Tags": [
+            "NotAvailableInPartyMode",
+            "Black",
+            "Mystery",
+            "NOT_AVAILABLE_FOR_Nightmare"
+        ],
+        "Available": "Retired",
+        "Name": "Smoking Splinter",
+        "Description": "Allows you to take on the role of <b>The Nightmare</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br>",
+        "Role": "Killer",
+        "Rarity": "UltraRare",
+        "Image": "images/UI/Icons/Favors/England/iconFavors_smokingSplinter.png"
+    },
+    "ThePiedPiper": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "The Pied Piper",
+        "Description": "<b>Tremendously increases</b> the chances of being sent to Springwood when burnt.<br><span class=\"FlavorText\">\"Betrayed by the town, he exacts his revenge by taking all their children.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/England/iconFavors_thePiedPiper.png"
+    },
+    "GlassSplinter": {
+        "Type": "Killer",
+        "Tags": [
+            "NotAvailableInPartyMode",
+            "Black",
+            "Mystery",
+            "NOT_AVAILABLE_FOR_Pig"
+        ],
+        "Available": "Retired",
+        "Name": "Glass Splinter",
+        "Description": "Allows you to take on the role of <b>The Pig</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br><span class=\"FlavorText\">\"Amanda, do not be afraid. Your life has just begun.\"-Jigsaw</span>",
+        "Role": "Killer",
+        "Rarity": "UltraRare",
+        "Image": "images/UI/Icons/Favors/Finland/iconFavors_glassSplinter.png"
+    },
+    "Jigsawpiece": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Jigsaw Piece",
+        "Description": "<b>Tremendously increases</b> the chances of being sent to Gideon Meat Packing Plant when burnt.<br><span class=\"FlavorText\">\"Congratulations. You are still alive. Most people are so ungrateful to be alive. But not you. Not anymore.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/Finland/iconFavors_jigsawPiece.png"
+    },
+    "JapaneseCountrySide": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Yamaoka Family Crest",
+        "Description": "<b>Tremendously increases</b> the chances of being sent to Yamaoka Estate when burnt.<br><span class=\"FlavorText\">\"You never leave a broken home. You only run away until the memories stop haunting you.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/Haiti/iconFavors_yamaokasCrest.png"
+    },
+    "HalloweenOffering": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "NotAvailableInPartyMode",
+            "Personal"
+        ],
+        "Available": "Available",
+        "Name": "Pustula Petals",
+        "Description": "Calls upon The Entity to generate <B>1 Blighted Hook</B> and <B>1 Blighted Generator</B>.<li>As a Killer, hook a Survivor on a <B>Blighted Hook</B> for the first time to earn bonus Bloodpoints.</li><li>As a Survivor, find and repair a <B>Blighted Generator</B> to earn bonus Bloodpoints.</li><li>Using this offering increases the amount of Bloodpoints earned for these interactions.</li><li>NOTE: During the event, 1 default Blighted Hook and 1 default Blighted Generator will spawn in the map.</li><li>Stacks.</li><li><i>Only playable during the Midnight Grove Event.</i></li><BR><span class=\"FlavorText\">\"The pustulas fill the air with a rancid odor that some may find enticing.\"</span>",
+        "Role": "None",
+        "Rarity": "SpecialEvent",
+        "Image": "images/UI/Icons/Favors/Halloween/iconFavors_pustulaPetals.png"
+    },
+    "Halloween2021Offering": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "NotAvailableInPartyMode",
+            "Personal"
+        ],
+        "Available": "Available",
+        "Name": "Cursed Seed",
+        "Description": "Calls upon The Entity to generate <B>1 tangled hook</B> and <B>1 tangled generator</B>.<li>As a Killer, hook a Survivor on a <B>tangled hook</B> for the first time to earn bonus Bloodpoints.</li><li>As a Survivor, find and repair a <B>tangled generator</B> to earn bonus Bloodpoints.</li><li>Using this offering increases the amount of Bloodpoints earned for these interactions.</li><li>NOTE: During the event, 1 default tangled hook and 1 default tangled generator will spawn on the map.</li><li>Stacks.</li><li><i>Only playable during The Midnight Grove event.</i></li><BR><span class=\"FlavorText\">\"The seed crackles as if what's within is attempting to burst free.\"</span>",
+        "Role": "None",
+        "Rarity": "SpecialEvent",
+        "Image": "images/UI/Icons/Favors/Halloween2021/iconFavors_CursedSeed.png"
+    },
+    "IonThemeOffering": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Crow's Eye",
+        "Description": "<b>Tremendously increases</b> the chance to be sent to Forsaken Boneyard when burnt.<br><span class=\"FlavorText\">\"The dark, beady eye shifts back and forth as if searching for a bloody strip of carrion.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/Ion/iconFavors_crowsEye.png"
+    },
+    "KenyaThemeOffering": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Damaged Photo",
+        "Description": "<b>Tremendously increases</b> the chance to be sent to Ormond when burnt.<br><br><b>Aug. 28th, \u201896</b><br><span class=\"FlavorText\">\u201cA dormant darkness lies beneath his childlike smile, about to be awaken.\u201d</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/Kenya/iconFavors_damagedPhoto.png"
+    },
+    "RedMoney": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "NotAvailableInPartyMode",
+            "Personal"
+        ],
+        "Available": "Available",
+        "Name": "Red Envelope",
+        "Description": "A gesture of generosity to bring good fortune to the unfortunate. Calls upon The Entity to generate <b>1 Red Envelope</b> per player.<br><ul><li>The aura of your own envelope is revealed to you at the start of the trial.</li><li>Interacting with your own Red Envelope reveals its aura to all other players in the trial until claimed.</li><li>Opening another player's Red Envelope awards you with a random amount of Bloodpoints.</li><li>When another player opens your envelope during the trial, you are awarded Bloodpoints and a cosmetic from the <b>Lurking Stripes</b> collection.</li></ul>",
+        "Role": "None",
+        "Rarity": "SpecialEvent",
+        "Image": "images/UI/Icons/Favors/LunarNewYear/iconFavors_redMoneyPacket.png"
+    },
+    "MeteorThemeOffering": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Ichorous Loam",
+        "Description": "<b>Tremendously increases</b> the chance to be sent to Garden of Joy when burnt.<br><br><span class=\"FlavorText\">\"Expel malthought from your mind, from your heart, from your mouth to prevent the darkness from corrupting your truth. For to let darkness find seed in your soul is to invite the Druanee.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/Meteor/iconFavors_IchorousLoam.png"
+    },
+    "SummerOffering": {
+        "Type": "Points",
+        "Tags": [
+            "Stack",
+            "NotAvailableInPartyMode",
+            "Personal"
+        ],
+        "Available": "Available",
+        "Name": "BBQ Invitation",
+        "Description": "Calls upon The Entity to generate <B>1 Grill Hook</B> and <B>1 Frozen Cocktail Machine</B>.<li>As a Killer, hook a Survivor on a <B>Grill Hook</B> for the first time to gain a <B>Survivor Chop</B>. Grants bonus Bloodpoints.</li><li>As a Survivor, complete repairs on a <B>Frozen Cocktail Machine</B> for all Survivors to gain a <B>Frosty Margarita</B>. Grants bonus Bloodpoints.</li><li><i>Only playable during Scorching Summer BBQ Event. NOTE: During the event, 2 default Grill Hooks and 2 default Frozen Cocktail Machines will spawn in the map.</i></li><li>Stacks.</li><BR><span class=\"FlavorText\">\"Kick back and relax in the moonlight with an ice cold drink and some barbecued meats. The Entity has invited you to enjoy yourself this fine evening.\"</span>",
+        "Role": "None",
+        "Rarity": "SpecialEvent",
+        "Image": "images/UI/Icons/Favors/Summer/iconFavors_bbqInvitation.png"
+    },
+    "UkraineThemeOffering": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Dusty Noose",
+        "Description": "<b>Tremendously\u00a0increases</b>\u00a0the chance to be sent to Grave of Glenvale\u00a0when burnt.<br><span class=\"FlavorText\">\u201cAsk anyone trying to survive on this dust-choked land and they\u2019ll tell you what a noose really is\u2014a damn mercy.\u201d</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/Ukraine/iconFavors_dustyNoose.png"
+    },
+    "WalesThemeOffering": {
+        "Type": "World",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Mary\u2019s Letter",
+        "Description": "<b>Tremendously\u00a0increases</b>\u00a0the chance to be sent to Midwich\u00a0Elementary School\u00a0when burnt.<br><span class=\"FlavorText\">\"In my restless dreams, I see that town.\"</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/Wales/iconFavors_marysLetter.png"
+    },
+    "SacrificalWard": {
+        "Type": "ProceduralGeneration",
+        "Tags": [
+            "Stack",
+            "Theme"
+        ],
+        "Available": "Available",
+        "Name": "Sacrificial Ward",
+        "Description": "Calls upon The Entity to reject all offerings that alter the chance of being sent to a specific realm.<br>This can only be canceled if four identical realm offerings are played.<br><span class=\"FlavorText\">\u201cWith blind eyes, we surrender our will and appeal to you for guidance.\u201d</span>",
+        "Role": "None",
+        "Rarity": "Rare",
+        "Image": "images/UI/Icons/Favors/Yemen/iconFavors_wardSacrificial.png"
+    },
+    "TornBlueprint": {
+        "Type": "ProceduralGeneration",
+        "Tags": [
+            "Personal",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Torn Blueprint",
+        "Description": "Reveals the aura of the basement hooks to you for <b>20 seconds</b> at the start of the trial. <b>Tremendously</b> increases the chance of spawning the basement in the main building, if the map has a main building.<br><span class=\"FlavorText\">\"Though brittle and torn, the design is mostly legible.\u201d</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/Yemen/iconFavors_tornBlueprint.png"
+    },
+    "BloodiedBlueprint": {
+        "Type": "ProceduralGeneration",
+        "Tags": [
+            "Personal",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Bloodied Blueprint",
+        "Description": "Reveals the aura of the basement hooks to you for <b>20 seconds</b> at the start of the trial. <b>Tremendously</b> increases the chance of spawning the basement in the Killer Shack, if the map has a Killer Shack.<br><span class=\"FlavorText\">\"Spatters of dried blood partially conceal the design.\u201d</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/Yemen/iconFavors_bloodiedBlueprint.png"
+    },
+    "VigosBlueprint": {
+        "Type": "ProceduralGeneration",
+        "Tags": [
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Vigo\u2019s Blueprint",
+        "Description": "<b>Tremendously</b> increases the chance of spawning the Hatch in the main building, if the map has a main building.<br><span class=\"FlavorText\">\u201cA clever design that has the letter V etched on the bottom.\"</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/Yemen/iconFavors_vigosBlueprint.png"
+    },
+    "AnnotatedBlueprint": {
+        "Type": "ProceduralGeneration",
+        "Tags": [
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Annotated Blueprint",
+        "Description": "<b>Tremendously</b> increases the chance of spawning the Hatch in the Killer Shack, if the map has a Killer Shack.<br><span class=\"FlavorText\">\"Essential information is scribbled along the side, but by whom?\u201d</span>",
+        "Role": "None",
+        "Rarity": "Common",
+        "Image": "images/UI/Icons/Favors/Yemen/iconFavors_annotatedBlueprint.png"
+    },
+    "Anniversary2022Offering": {
+        "Type": "Points",
+        "Tags": [
+            "NotAvailableInPartyMode",
+            "Stack"
+        ],
+        "Available": "Available",
+        "Name": "Frightful Flan",
+        "Description": "It may be a masquerade ball, but there is no masking the foul odor of this quivering yellow mass.<br>Consuming it, however, fills you with vigor.<br><br>Grants <b>106%</b> bonus Bloodpoints in all categories for all players this trial.<li>Stacks.</li><br><span class=\"FlavorText\">\"Happy Anniversary! We made you this cake/pie/pudding/unspeakable horror.\" <br>- The Dead by Daylight Team</span>",
+        "Role": "None",
+        "Rarity": "SpecialEvent",
+        "Image": "images/UI/Icons/Favors/Anniversary/iconsFavors_6thAnniversary.png"
+    }
+}
