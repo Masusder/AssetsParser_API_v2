@@ -228,6 +228,31 @@
             }
         ]
     },
+    "AV_outfit_017": {
+        "CosmeticId": "AV_outfit_017",
+        "CosmeticName": "Kenny\u2019s Uniform",
+        "Description": "The outfit of a relentless killer from a lost realm.",
+        "IconFilePathList": "images/UI/Icons/Customization/Ace/AV_outfit_017.png",
+        "CollectionName": "Attack on Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 6,
+        "Unbreakable": true,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "AV_Head017",
+            "AV_Torso017",
+            "AV_Legs017"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
+    },
     "HS_outfit_009": {
         "CosmeticId": "HS_outfit_009",
         "CosmeticName": "Inspirational Teacher",
@@ -775,6 +800,27 @@
             "CM_Head009_01",
             "CM_Torso009_01",
             "CM_Legs009_01"
+        ],
+        "Prices": []
+    },
+    "CM_outfit_020": {
+        "CosmeticId": "CM_outfit_020",
+        "CosmeticName": "Science Girl",
+        "Description": "She created an alter-ego for herself as a child, imagining herself as a genius inventor and hero.",
+        "IconFilePathList": "images/UI/Icons/Customization/Claudette/CM_outfit_020.png",
+        "CollectionName": "Science Girl Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 2,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "OutfitItems": [
+            "CM_Head020",
+            "CM_Torso020",
+            "CM_Legs020"
         ],
         "Prices": []
     },
@@ -1414,6 +1460,31 @@
             }
         ]
     },
+    "DF_outfit_020": {
+        "CosmeticId": "DF_outfit_020",
+        "CosmeticName": "Eren\u2019s Uniform",
+        "Description": "The outfit of a skilled fighter from a lost realm.",
+        "IconFilePathList": "images/UI/Icons/Customization/Dwight/DF_outfit_020.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 0,
+        "Unbreakable": true,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "DF_Head020",
+            "DF_Torso020",
+            "DF_Legs020"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
+    },
     "FM_outfit_008": {
         "CosmeticId": "FM_outfit_008",
         "CosmeticName": "Rare Loot Collector",
@@ -1488,7 +1559,7 @@
         ],
         "Prices": [
             {
-                "Shards": 10750
+                "Shards": 21500
             }
         ]
     },
@@ -1798,6 +1869,34 @@
         ],
         "Prices": []
     },
+    "FM_outfit_020": {
+        "CosmeticId": "FM_outfit_020",
+        "CosmeticName": "Stan Outfit",
+        "Description": "She was a big fan of pop of all kinds, but one group was her favorite.",
+        "IconFilePathList": "images/UI/Icons/Customization/Feng/FM_outfit_020.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 8,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "FM_Head020",
+            "FM_Torso020",
+            "FM_Legs020"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
+            }
+        ]
+    },
     "JP_outfit_010": {
         "CosmeticId": "JP_outfit_010",
         "CosmeticName": "Nonconformist",
@@ -2068,7 +2167,7 @@
         "Description": "A survival trip on a beachfront afforded him a little time to hit the waves\u2014time that was cut short by a shark attack.",
         "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_outfit_017.png",
         "CollectionName": "Waterfront Massacre Collection",
-        "InclusionVersion": "6.0.0",
+        "InclusionVersion": "6.1.0",
         "Type": "outfit",
         "Character": 3,
         "Unbreakable": false,
@@ -2082,6 +2181,52 @@
             "JP_Legs017"
         ],
         "Prices": []
+    },
+    "JP_outfit_012_01": {
+        "CosmeticId": "JP_outfit_012_01",
+        "CosmeticName": "All White Everything",
+        "Description": "While still living in the city, he was invited to a prestigious party with an obnoxious dress code.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_outfit_012_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 3,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "OutfitItems": [
+            "JP_Head012_01",
+            "JP_Torso08_01",
+            "JP_Legs08_01"
+        ],
+        "Prices": []
+    },
+    "JP_outfit_018": {
+        "CosmeticId": "JP_outfit_018",
+        "CosmeticName": "Levi\u2019s Uniform",
+        "Description": "The outfit of an aloof leader from a lost realm.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_outfit_018.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 3,
+        "Unbreakable": true,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "JP_Head018",
+            "JP_Torso018",
+            "JP_Legs018"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
     },
     "MS_outfit_008": {
         "CosmeticId": "MS_outfit_008",
@@ -2322,6 +2467,27 @@
             }
         ]
     },
+    "MS_outfit_014_01": {
+        "CosmeticId": "MS_outfit_014_01",
+        "CosmeticName": "Promo Ensemble",
+        "Description": "An outfit from her friend\u2019s fashion label.  She wore it out on the town to help with advertising. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Jane/MS_outfit_014_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 15,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "MS_Head014_01",
+            "MS_Torso008_01",
+            "MS_Legs008_01"
+        ],
+        "Prices": []
+    },
     "KS_outfit_009": {
         "CosmeticId": "KS_outfit_009",
         "CosmeticName": "Into the Sunset",
@@ -2512,6 +2678,27 @@
             "KS_Head015",
             "KS_Torso015",
             "KS_Legs015"
+        ],
+        "Prices": []
+    },
+    "KS_outfit_010_01": {
+        "CosmeticId": "KS_outfit_010_01",
+        "CosmeticName": "Rowdy Two-Piece",
+        "Description": "A kind of suit usually worn by mixologists and martial artists.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jeff/KS_outfit_010_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 14,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "KS_Head010_01",
+            "KS_Torso008_01",
+            "KS_Legs012_01"
         ],
         "Prices": []
     },
@@ -2709,16 +2896,20 @@
         "Type": "outfit",
         "Character": 10,
         "Unbreakable": false,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-06-21T14:59:59",
+        "StartDate": "2022-06-07T15:00:00",
         "Rarity": "VeryRare",
         "OutfitItems": [
             "GS_Head015",
             "GS_Torso015",
             "GS_Legs015"
         ],
-        "Prices": []
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
     },
     "GS_outfit_016": {
         "CosmeticId": "GS_outfit_016",
@@ -2816,6 +3007,59 @@
         "Prices": [
             {
                 "Cells": 1080
+            }
+        ]
+    },
+    "GS_outfit_019": {
+        "CosmeticId": "GS_outfit_019",
+        "CosmeticName": "Historia\u2019s Uniform",
+        "Description": "The outfit of a mysterious claimant from a lost realm.",
+        "IconFilePathList": "images/UI/Icons/Customization/Kate/GS_outfit_019.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 10,
+        "Unbreakable": true,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "GS_Head019",
+            "GS_Torso019",
+            "GS_Legs019"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
+    },
+    "GS_outfit_020": {
+        "CosmeticId": "GS_outfit_020",
+        "CosmeticName": "A Little Bit Country",
+        "Description": "Her music appealed to the pop crowd, but she still stuck to her roots.",
+        "IconFilePathList": "images/UI/Icons/Customization/Kate/GS_outfit_020.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 10,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "GS_Head020",
+            "GS_Torso020",
+            "GS_Legs020"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
             }
         ]
     },
@@ -3171,6 +3415,52 @@
             "MT_Legs005_01"
         ],
         "Prices": []
+    },
+    "MT_outfit_013_01": {
+        "CosmeticId": "MT_outfit_013_01",
+        "CosmeticName": "Summer Jobseeker",
+        "Description": "University was on the horizon, but in the meantime, she needed to make some extra cash.",
+        "IconFilePathList": "images/UI/Icons/Customization/Meg/MT_outfit_013_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 1,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "MT_Head013_01",
+            "MT_Torso016_01",
+            "MT_Legs006_02"
+        ],
+        "Prices": []
+    },
+    "MT_outfit_019": {
+        "CosmeticId": "MT_outfit_019",
+        "CosmeticName": "Annie\u2019s Uniform",
+        "Description": "The outfit of a duplicitous agent from a lost realm.",
+        "IconFilePathList": "images/UI/Icons/Customization/Meg/MT_outfit_019.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 1,
+        "Unbreakable": true,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "MT_Head019",
+            "MT_Torso019",
+            "MT_Legs019"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
     },
     "QF_outfit_02": {
         "CosmeticId": "QF_outfit_02",
@@ -3587,8 +3877,8 @@
         "Character": 4,
         "Unbreakable": false,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "OutfitItems": [
             "NK_Head021",
@@ -3598,6 +3888,34 @@
         "Prices": [
             {
                 "Cells": 1080
+            }
+        ]
+    },
+    "NK_outfit_022": {
+        "CosmeticId": "NK_outfit_022",
+        "CosmeticName": "Rhamnusia\u2019s Retribution",
+        "Description": "Inspired by a goddess who acted against those who succumbed to hubris, she used her art to tear down the city\u2019s vanity.",
+        "IconFilePathList": "images/UI/Icons/Customization/Nea/NK_outfit_022.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 4,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-08-16T14:59:59",
+        "StartDate": "2022-08-02T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "NK_Head022",
+            "NK_Torso022",
+            "NK_Legs022"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
             }
         ]
     },
@@ -4261,6 +4579,31 @@
             "S23_Head017",
             "S23_Torso017",
             "S23_Legs017"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
+    },
+    "S23_outfit_018": {
+        "CosmeticId": "S23_outfit_018",
+        "CosmeticName": "Armin\u2019s Uniform",
+        "Description": "The outfit of an intelligent officer from a lost realm. ",
+        "IconFilePathList": "images/UI/Icons/Customization/S23/S23_outfit_018.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 22,
+        "Unbreakable": true,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "S23_Head018",
+            "S23_Torso018",
+            "S23_Legs018"
         ],
         "Prices": [
             {
@@ -5088,6 +5431,34 @@
             }
         ]
     },
+    "S25_outfit_013": {
+        "CosmeticId": "S25_outfit_013",
+        "CosmeticName": "Judge to the Stars",
+        "Description": "Her ability to spot talent was unmatched, so they asked her to judge a major talent show.",
+        "IconFilePathList": "images/UI/Icons/Customization/S25/S25_outfit_013.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 24,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "S25_Head013",
+            "S25_Torso013",
+            "S25_Legs013"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
+            }
+        ]
+    },
     "S26_Outfit_02": {
         "CosmeticId": "S26_Outfit_02",
         "CosmeticName": "Claire Redfield",
@@ -5560,6 +5931,27 @@
             }
         ]
     },
+    "S28_outfit_014": {
+        "CosmeticId": "S28_outfit_014",
+        "CosmeticName": "Hecate\u2019s Offering",
+        "Description": "Inspired by her research into the Greek goddess of witchcraft, she made this outfit as tribute.",
+        "IconFilePathList": "images/UI/Icons/Customization/S28/S28_outfit_014.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 27,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "S28_Head014",
+            "S28_Torso014",
+            "S28_Legs014"
+        ],
+        "Prices": []
+    },
     "S29_outfit_01_CV01": {
         "CosmeticId": "S29_outfit_01_CV01",
         "CosmeticName": "Brilliant Look",
@@ -5860,6 +6252,27 @@
                 "Shards": 21600
             }
         ]
+    },
+    "S29_outfit_009": {
+        "CosmeticId": "S29_outfit_009",
+        "CosmeticName": "Infiltration Gear",
+        "Description": "He needed answers. And he needed to get them silently.",
+        "IconFilePathList": "images/UI/Icons/Customization/S29/S29_outfit_009.png",
+        "CollectionName": "Covert Codebreaker Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 28,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "S29_Head009",
+            "S29_Torso009",
+            "S29_Legs009"
+        ],
+        "Prices": []
     },
     "S30_outfit_006": {
         "CosmeticId": "S30_outfit_006",
@@ -6862,6 +7275,31 @@
             }
         ]
     },
+    "SwedenSurvivor_outfit_017": {
+        "CosmeticId": "SwedenSurvivor_outfit_017",
+        "CosmeticName": "Mikasa\u2019s Uniform",
+        "Description": "The outfit of a determined warrior from a lost realm.",
+        "IconFilePathList": "images/UI/Icons/Customization/Yui/SwedenSurvivor_outfit_017.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 19,
+        "Unbreakable": true,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "SwedenSurvivor_Head017",
+            "SwedenSurvivor_Torso017",
+            "SwedenSurvivor_Legs017"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
+    },
     "US_outfit_006": {
         "CosmeticId": "US_outfit_006",
         "CosmeticName": "Grant Applicant",
@@ -7364,6 +7802,31 @@
             }
         ]
     },
+    "US_outfit_016": {
+        "CosmeticId": "US_outfit_016",
+        "CosmeticName": "Hange\u2019s Uniform",
+        "Description": "The outfit of a curious innovator from a lost realm.",
+        "IconFilePathList": "images/UI/Icons/Customization/Zarina/US_outfit_016.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 20,
+        "Unbreakable": true,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "US_Head016",
+            "US_Torso016",
+            "US_Legs016"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
+    },
     "GK_outfit_009": {
         "CosmeticId": "GK_outfit_009",
         "CosmeticName": "Seething Entertainer",
@@ -7410,7 +7873,7 @@
         ],
         "Prices": [
             {
-                "Shards": 10750
+                "Shards": 21500
             }
         ]
     },
@@ -7559,6 +8022,27 @@
             "GK_Head02_04",
             "GK_Body02_04",
             "GK_W013_01"
+        ],
+        "Prices": []
+    },
+    "GK_outfit_014_01": {
+        "CosmeticId": "GK_outfit_014_01",
+        "CosmeticName": "Jesterfied",
+        "Description": "What\u2019s black, white, and red all over? Whatever it is, it\u2019s coming and it has a knife.",
+        "IconFilePathList": "images/UI/Icons/Customization/Clown/GK_outfit_014_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 268435467,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "GK_Head014_01",
+            "GK_Body014_01",
+            "GK_W014_01"
         ],
         "Prices": []
     },
@@ -7808,8 +8292,8 @@
         "Character": 268435462,
         "Unbreakable": false,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "OutfitItems": [
             "DO_Head014",
@@ -8448,8 +8932,8 @@
         "Character": 268435474,
         "Unbreakable": false,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "OutfitItems": [
             "UK_Head010",
@@ -8729,16 +9213,20 @@
         "Type": "outfit",
         "Character": 268435458,
         "Unbreakable": false,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-07-25T23:59:59",
+        "StartDate": "2022-07-12T00:00:00",
         "Rarity": "VeryRare",
         "OutfitItems": [
             "TC_Torso011",
             "TC_Legs011",
             "TC_W011"
         ],
-        "Prices": []
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
     },
     "TC_outfit_01_03": {
         "CosmeticId": "TC_outfit_01_03",
@@ -9525,6 +10013,27 @@
             }
         ]
     },
+    "K21_outfit_011": {
+        "CosmeticId": "K21_outfit_011",
+        "CosmeticName": "Invasive Species",
+        "Description": "He travelled to North Africa to investigate a strange new flora causing madness among the colonists.",
+        "IconFilePathList": "images/UI/Icons/Customization/K21/K21_outfit_011.png",
+        "CollectionName": "Enter The Bleed Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 268435476,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "K21_Head011",
+            "K21_Body011",
+            "K21_W011"
+        ],
+        "Prices": []
+    },
     "K22_outfit_01_CV01": {
         "CosmeticId": "K22_outfit_01_CV01",
         "CosmeticName": "Shreds of Dignity",
@@ -10247,6 +10756,34 @@
         ],
         "Prices": []
     },
+    "K23_outfit_012": {
+        "CosmeticId": "K23_outfit_012",
+        "CosmeticName": "Stage General",
+        "Description": "He saved one of his most dramatic looks for a guest appearance on a talent show.",
+        "IconFilePathList": "images/UI/Icons/Customization/K23/K23_outfit_012.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 268435478,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "K23_Head012",
+            "K23_Body012",
+            "K23_Weapon012"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
+            }
+        ]
+    },
     "K24_outfit_007": {
         "CosmeticId": "K24_outfit_007",
         "CosmeticName": "Nemesis Blight  ",
@@ -10489,6 +11026,34 @@
             }
         ]
     },
+    "K26_outfit_009": {
+        "CosmeticId": "K26_outfit_009",
+        "CosmeticName": "Image of the Furies",
+        "Description": "The Erinyes were deities of vengeance, drawn to the blood of a god. ",
+        "IconFilePathList": "images/UI/Icons/Customization/K26/K26_outfit_009.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 268435481,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-08-16T14:59:59",
+        "StartDate": "2022-08-02T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "K26_Head009",
+            "K26_Body009",
+            "K26_W009"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
+            }
+        ]
+    },
     "K27_outfit_006": {
         "CosmeticId": "K27_outfit_006",
         "CosmeticName": "Rotten Remains",
@@ -10604,14 +11169,14 @@
         "Description": "With its flesh decayed, only a sickening collection of bones remains.",
         "IconFilePathList": "images/UI/Icons/Customization/K28/K28_outfit_02.png",
         "CollectionName": "Grave Amalgamation Collection",
-        "InclusionVersion": "6.0.0",
+        "InclusionVersion": "6.1.0",
         "Type": "outfit",
         "Character": 268435483,
         "Unbreakable": false,
         "Purchasable": true,
-        "EndDate": "2022-06-21T14:59:59",
-        "StartDate": "2022-06-07T15:00:00",
-        "Rarity": "Uncommon",
+        "EndDate": "2022-08-09T14:59:59",
+        "StartDate": "2022-07-26T15:00:00",
+        "Rarity": "VeryRare",
         "OutfitItems": [
             "K28_Head02",
             "K28_Body02",
@@ -10619,10 +11184,10 @@
         ],
         "Prices": [
             {
-                "Cells": 270
+                "Cells": 1080
             },
             {
-                "Shards": 5400
+                "Shards": 21600
             }
         ]
     },
@@ -10637,8 +11202,8 @@
         "Character": 268435483,
         "Unbreakable": false,
         "Purchasable": true,
-        "EndDate": "2022-06-12T14:59:59",
-        "StartDate": "2022-05-29T15:00:00",
+        "EndDate": "2022-06-21T14:59:59",
+        "StartDate": "2022-06-07T15:00:00",
         "Rarity": "VeryRare",
         "OutfitItems": [
             "K28_Head006",
@@ -11103,6 +11668,27 @@
         ],
         "Prices": []
     },
+    "KK_outfit_009_01": {
+        "CosmeticId": "KK_outfit_009_01",
+        "CosmeticName": "Fluorescent Fear",
+        "Description": "Perfect for an all-night rave. Or an all-night murder spree.",
+        "IconFilePathList": "images/UI/Icons/Customization/Legion/KK_outfit_009_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 268435469,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "KK_Mask009_01",
+            "KK_Body009_01",
+            "KK_W009_01"
+        ],
+        "Prices": []
+    },
     "MM_outfit_02": {
         "CosmeticId": "MM_outfit_02",
         "CosmeticName": "Escaped Patient",
@@ -11297,6 +11883,27 @@
             "TN_Head006_02",
             "TN_Body006_02",
             "TN_W006_02"
+        ],
+        "Prices": []
+    },
+    "TN_outfit_014": {
+        "CosmeticId": "TN_outfit_014",
+        "CosmeticName": "The Accident",
+        "Description": "The ambulance that was supposed to take her to the hospital never made it.",
+        "IconFilePathList": "images/UI/Icons/Customization/Nurse/TN_outfit_014.png",
+        "CollectionName": "Grim Resolutions Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 268435459,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "OutfitItems": [
+            "TN_Head014",
+            "TN_Body014",
+            "TN_W014"
         ],
         "Prices": []
     },
@@ -11720,6 +12327,31 @@
         "Prices": [
             {
                 "Cells": 1080
+            }
+        ]
+    },
+    "SwedenKiller_outfit_012": {
+        "CosmeticId": "SwedenKiller_outfit_012",
+        "CosmeticName": "Armored Titan",
+        "Description": "A violent and deadly creature from a lost realm.",
+        "IconFilePathList": "images/UI/Icons/Customization/Oni/SwedenKiller_outfit_012.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 268435473,
+        "Unbreakable": true,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "UltraRare",
+        "OutfitItems": [
+            "SwedenKiller_Mask012",
+            "SwedenKiller_Body012",
+            "SwedenKiller_W012"
+        ],
+        "Prices": [
+            {
+                "Cells": 1485
             }
         ]
     },
@@ -12204,6 +12836,52 @@
             },
             {
                 "Shards": 21600
+            }
+        ]
+    },
+    "HK_outfit_010_01": {
+        "CosmeticId": "HK_outfit_010_01",
+        "CosmeticName": "Shimmering Birthright",
+        "Description": "An opulent suit of ancient armor, lost for generations until it mysteriously reappeared one day.  ",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_outfit_010_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 268435468,
+        "Unbreakable": false,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "OutfitItems": [
+            "HK_Head010_01",
+            "HK_Body010_01",
+            "HK_W010_01"
+        ],
+        "Prices": []
+    },
+    "HK_outfit_016": {
+        "CosmeticId": "HK_outfit_016",
+        "CosmeticName": "War Hammer Titan",
+        "Description": "A monstrous and calculating creature from a lost realm.",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_outfit_016.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "outfit",
+        "Character": 268435468,
+        "Unbreakable": true,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "UltraRare",
+        "OutfitItems": [
+            "HK_Head016",
+            "HK_Body016",
+            "HK_W016"
+        ],
+        "Prices": [
+            {
+                "Cells": 1485
             }
         ]
     },
@@ -21159,6 +21837,9 @@
         "Prices": [
             {
                 "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -21701,6 +22382,9 @@
         "Prices": [
             {
                 "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -22262,6 +22946,9 @@
         "Prices": [
             {
                 "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -22473,6 +23160,63 @@
         "EndDate": "2018-06-25T23:59:59",
         "StartDate": "2018-06-12T00:00:00",
         "Rarity": "SpecialEvent",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "AV_Head017": {
+        "CosmeticId": "AV_Head017",
+        "CosmeticName": "Ruthless Professional",
+        "Description": "It was the garb of someone who was willing to do anything to get the job done.",
+        "IconFilePathList": "images/UI/Icons/Customization/Ace/AV_Head017.png",
+        "CollectionName": "Attack on Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 6,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "AV_Torso017": {
+        "CosmeticId": "AV_Torso017",
+        "CosmeticName": "Glistening Armor",
+        "Description": "A career as a military captain was perfect cover for his sordid hobby.",
+        "IconFilePathList": "images/UI/Icons/Customization/Ace/AV_Torso017.png",
+        "CollectionName": "Attack on Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 6,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "AV_Legs017": {
+        "CosmeticId": "AV_Legs017",
+        "CosmeticName": "Murderer\u2019s Slacks",
+        "Description": "His knack and taste for killing spoke to his true motivation: God-like power.",
+        "IconFilePathList": "images/UI/Icons/Customization/Ace/AV_Legs017.png",
+        "CollectionName": "Attack on Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 6,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
         "Prices": [
             {
                 "Cells": 400
@@ -25757,6 +26501,63 @@
         "Prices": [
             {
                 "Cells": 400
+            }
+        ]
+    },
+    "CM_Head020": {
+        "CosmeticId": "CM_Head020",
+        "CosmeticName": "Space Buns & Goggles",
+        "Description": "She pulled her hair up into two big buns, just as her mother taught her.",
+        "IconFilePathList": "images/UI/Icons/Customization/Claudette/CM_Head020.png",
+        "CollectionName": "Science Girl Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 2,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
+            }
+        ]
+    },
+    "CM_Torso020": {
+        "CosmeticId": "CM_Torso020",
+        "CosmeticName": "Super Suit",
+        "Description": "She came up with the patterns and logos, and her mother lovingly sewed it together. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Claudette/CM_Torso020.png",
+        "CollectionName": "Science Girl Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 2,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
+            }
+        ]
+    },
+    "CM_Legs020": {
+        "CosmeticId": "CM_Legs020",
+        "CosmeticName": "Botany Bottoms",
+        "Description": "Shorts perfect for pulling weeds\u2014for science!",
+        "IconFilePathList": "images/UI/Icons/Customization/Claudette/CM_Legs020.png",
+        "CollectionName": "Science Girl Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 2,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
             }
         ]
     },
@@ -29661,6 +30462,63 @@
             }
         ]
     },
+    "DF_Head020": {
+        "CosmeticId": "DF_Head020",
+        "CosmeticName": "Vengeful Son",
+        "Description": "It was the uniform of a man whose mother was killed by a Titan, filling his heart with hatred.",
+        "IconFilePathList": "images/UI/Icons/Customization/Dwight/DF_Head020.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 0,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "DF_Torso020": {
+        "CosmeticId": "DF_Torso020",
+        "CosmeticName": "Scout Pullover",
+        "Description": "Despite the opportunity to join the Military Police Regiment, he opted into the dangerous life of a Scout.",
+        "IconFilePathList": "images/UI/Icons/Customization/Dwight/DF_Torso020.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 0,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "DF_Legs020": {
+        "CosmeticId": "DF_Legs020",
+        "CosmeticName": "Avenger\u2019s Pants",
+        "Description": "His thirst for vengeance drove him to the brink as he went to extremes to take down the Titans.",
+        "IconFilePathList": "images/UI/Icons/Customization/Dwight/DF_Legs020.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 0,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "FM_Head001": {
         "CosmeticId": "FM_Head001",
         "CosmeticName": "Supernova Bang & Ponytail",
@@ -31552,6 +32410,72 @@
             }
         ]
     },
+    "FM_Head020": {
+        "CosmeticId": "FM_Head020",
+        "CosmeticName": "Perky Tails",
+        "Description": "A bouncy hairstyle inspired by her favorite member.",
+        "IconFilePathList": "images/UI/Icons/Customization/Feng/FM_Head020.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 8,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "FM_Torso020": {
+        "CosmeticId": "FM_Torso020",
+        "CosmeticName": "Girl Group Crop Top",
+        "Description": "She used the prize money from a local tournament to deck herself out in merch.",
+        "IconFilePathList": "images/UI/Icons/Customization/Feng/FM_Torso020.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 8,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "FM_Legs020": {
+        "CosmeticId": "FM_Legs020",
+        "CosmeticName": "Stepping Skirt",
+        "Description": "Casual and fun, she knew she could cut a rug in this skirt.",
+        "IconFilePathList": "images/UI/Icons/Customization/Feng/FM_Legs020.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 8,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
     "JP_Head001": {
         "CosmeticId": "JP_Head001",
         "CosmeticName": "Camper's Cowboy Hat",
@@ -33317,7 +34241,7 @@
         "Description": "A messy nest of hair, crackling with salt from the brackish sea.",
         "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_Head017.png",
         "CollectionName": "Waterfront Massacre Collection",
-        "InclusionVersion": "6.0.0",
+        "InclusionVersion": "6.1.0",
         "Type": "Head",
         "Character": 3,
         "Purchasable": false,
@@ -33336,7 +34260,7 @@
         "Description": "An optimist might say the board is half-surviving, but he just thinks of it as half-eaten.",
         "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_Torso017.png",
         "CollectionName": "Waterfront Massacre Collection",
-        "InclusionVersion": "6.0.0",
+        "InclusionVersion": "6.1.0",
         "Type": "Torso",
         "Character": 3,
         "Purchasable": false,
@@ -33355,7 +34279,7 @@
         "Description": "In retrospect, a less flashy pair of surf shorts might have prevented attracting the sea\u2019s greatest predator.",
         "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_Legs017.png",
         "CollectionName": "Waterfront Massacre Collection",
-        "InclusionVersion": "6.0.0",
+        "InclusionVersion": "6.1.0",
         "Type": "Legs",
         "Character": 3,
         "Purchasable": false,
@@ -33365,6 +34289,120 @@
         "Prices": [
             {
                 "Cells": 400
+            }
+        ]
+    },
+    "JP_Head018": {
+        "CosmeticId": "JP_Head018",
+        "CosmeticName": "Distant Specialist",
+        "Description": "The original person to wear this had a cold demeanor, which belied a compassionate and honorable approach to command.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_Head018.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 3,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "JP_Torso018": {
+        "CosmeticId": "JP_Torso018",
+        "CosmeticName": "Clean Ascot",
+        "Description": "His obsession with cleanliness spoke to his perfectionist mentality.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_Torso018.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 3,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "JP_Legs018": {
+        "CosmeticId": "JP_Legs018",
+        "CosmeticName": "Duelist\u2019s Pants",
+        "Description": "Preferring to work on his own, many of his Titan kills were made unassisted.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_Legs018.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 3,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "JP_Head012_01": {
+        "CosmeticId": "JP_Head012_01",
+        "CosmeticName": "Careless Mop",
+        "Description": "It was that summer he learned the simple joy of letting your hair just do its own thing.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_Head012_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 3,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
+            }
+        ]
+    },
+    "JP_Torso08_01": {
+        "CosmeticId": "JP_Torso08_01",
+        "CosmeticName": "Pale-on-Pale Combination",
+        "Description": "He found the shirt in the back of his closet and borrowed the jacket from a friend. The scarf really tied the whole thing together.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_Torso08_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 3,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
+            }
+        ]
+    },
+    "JP_Legs08_01": {
+        "CosmeticId": "JP_Legs08_01",
+        "CosmeticName": "Ivory Jeans",
+        "Description": "They were originally light blue, but he wore them hard in the sun and heat and they faded even more.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jake/JP_Legs08_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 3,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
             }
         ]
     },
@@ -34691,6 +35729,63 @@
             }
         ]
     },
+    "MS_Head014_01": {
+        "CosmeticId": "MS_Head014_01",
+        "CosmeticName": "Flower Hairpiece",
+        "Description": "She added the flower to her hair to tie the look together.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jane/MS_Head014_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 15,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "MS_Torso008_01": {
+        "CosmeticId": "MS_Torso008_01",
+        "CosmeticName": "Blooming Crop Top",
+        "Description": "Part of her deal with the label was to wear their off-the-rack summer styles while out on the town.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jane/MS_Torso008_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 15,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "MS_Legs008_01": {
+        "CosmeticId": "MS_Legs008_01",
+        "CosmeticName": "Floral Beach Pants",
+        "Description": "Perfectly comfortable for lounging around the house, getting groceries, or signing autographs.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jane/MS_Legs008_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 15,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "KS_Head007": {
         "CosmeticId": "KS_Head007",
         "CosmeticName": "Corpse Paint",
@@ -35860,6 +36955,63 @@
             }
         ]
     },
+    "KS_Head010_01": {
+        "CosmeticId": "KS_Head010_01",
+        "CosmeticName": "Relaxed Bun",
+        "Description": "Low-maintenance, simple, cool for the summer.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jeff/KS_Head010_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 14,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "KS_Torso008_01": {
+        "CosmeticId": "KS_Torso008_01",
+        "CosmeticName": "Tartan Blazer",
+        "Description": "It\u2019s been in his closet for so long that it\u2019s come back in style again.",
+        "IconFilePathList": "images/UI/Icons/Customization/Jeff/KS_Torso008_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 14,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "KS_Legs012_01": {
+        "CosmeticId": "KS_Legs012_01",
+        "CosmeticName": "Checked Pants",
+        "Description": "Pants so loud they almost clash with themselves. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Jeff/KS_Legs012_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 14,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "GS_Head006": {
         "CosmeticId": "GS_Head006",
         "CosmeticName": "Morning Daze Shades",
@@ -36071,9 +37223,9 @@
         "InclusionVersion": "Legacy",
         "Type": "Head",
         "Character": 10,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-06-21T14:59:59",
+        "StartDate": "2022-06-07T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -36465,9 +37617,9 @@
         "InclusionVersion": "Legacy",
         "Type": "Legs",
         "Character": 10,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-06-21T14:59:59",
+        "StartDate": "2022-06-07T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -36966,9 +38118,9 @@
         "InclusionVersion": "Legacy",
         "Type": "Torso",
         "Character": 10,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-06-21T14:59:59",
+        "StartDate": "2022-06-07T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -37367,6 +38519,129 @@
         "Prices": [
             {
                 "Cells": 400
+            }
+        ]
+    },
+    "GS_Head019": {
+        "CosmeticId": "GS_Head019",
+        "CosmeticName": "Secretive Noble",
+        "Description": "This soldier\u2019s lineage made her a target, forcing her to assume a false identity.",
+        "IconFilePathList": "images/UI/Icons/Customization/Kate/GS_Head019.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 10,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "GS_Torso019": {
+        "CosmeticId": "GS_Torso019",
+        "CosmeticName": "Tattered Dress",
+        "Description": "She was raised to believe she was a mistake, and often wished she had never been born.",
+        "IconFilePathList": "images/UI/Icons/Customization/Kate/GS_Torso019.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 10,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "GS_Legs019": {
+        "CosmeticId": "GS_Legs019",
+        "CosmeticName": "Royal\u2019s Boots",
+        "Description": "Someone special once told her to live a life she is proud of, and she tries to live up to that duty every day.",
+        "IconFilePathList": "images/UI/Icons/Customization/Kate/GS_Legs019.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 10,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "GS_Head020": {
+        "CosmeticId": "GS_Head020",
+        "CosmeticName": "Wraparound Mic",
+        "Description": "This microphone allowed to her move around the entire stage with her guitar.",
+        "IconFilePathList": "images/UI/Icons/Customization/Kate/GS_Head020.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 10,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "GS_Torso020": {
+        "CosmeticId": "GS_Torso020",
+        "CosmeticName": "Sequined Top",
+        "Description": "A dazzling top that catches the eye and never lets it go.",
+        "IconFilePathList": "images/UI/Icons/Customization/Kate/GS_Torso020.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 10,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "GS_Legs020": {
+        "CosmeticId": "GS_Legs020",
+        "CosmeticName": "Linedancin\u2019 Jeans",
+        "Description": "A surprisingly effective combination of mobility and protection.",
+        "IconFilePathList": "images/UI/Icons/Customization/Kate/GS_Legs020.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 10,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -39599,6 +40874,120 @@
             }
         ]
     },
+    "MT_Head013_01": {
+        "CosmeticId": "MT_Head013_01",
+        "CosmeticName": "Business Time",
+        "Description": "A professional cut that no employer could say no to.",
+        "IconFilePathList": "images/UI/Icons/Customization/Meg/MT_Head013_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 1,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "MT_Torso016_01": {
+        "CosmeticId": "MT_Torso016_01",
+        "CosmeticName": "Pink Pastels",
+        "Description": "A fashionable jacket that\u2019s still hardy enough to withstand the interview sweats.",
+        "IconFilePathList": "images/UI/Icons/Customization/Meg/MT_Torso016_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 1,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "MT_Legs006_02": {
+        "CosmeticId": "MT_Legs006_02",
+        "CosmeticName": "Reconstituted Leggings",
+        "Description": "An unlikely but unforgettable pair of pants that ensure no interviewer would forget her.",
+        "IconFilePathList": "images/UI/Icons/Customization/Meg/MT_Legs006_02.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 1,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "MT_Head019": {
+        "CosmeticId": "MT_Head019",
+        "CosmeticName": "Apathetic Impostor",
+        "Description": "The uniform belonged to a recruit who joined the Cadet Corps as an undercover agent.",
+        "IconFilePathList": "images/UI/Icons/Customization/Meg/MT_Head019.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 1,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "MT_Torso019": {
+        "CosmeticId": "MT_Torso019",
+        "CosmeticName": "Casual Hoodie",
+        "Description": "Her betrayal cost the Scout Regiment countless lives.",
+        "IconFilePathList": "images/UI/Icons/Customization/Meg/MT_Torso019.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 1,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "MT_Legs019": {
+        "CosmeticId": "MT_Legs019",
+        "CosmeticName": "Mole\u2019s Pants",
+        "Description": "Despite being among the best fighters in her class, she seemed to lack motivation for the cause.",
+        "IconFilePathList": "images/UI/Icons/Customization/Meg/MT_Legs019.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 1,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "QF_Head006": {
         "CosmeticId": "QF_Head006",
         "CosmeticName": "Guilty Conscience",
@@ -41798,8 +43187,8 @@
         "Type": "Head",
         "Character": 4,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -41817,8 +43206,8 @@
         "Type": "Torso",
         "Character": 4,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -41836,12 +43225,78 @@
         "Type": "Legs",
         "Character": 4,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
                 "Cells": 400
+            }
+        ]
+    },
+    "NK_Head022": {
+        "CosmeticId": "NK_Head022",
+        "CosmeticName": "Feathered Earcuff",
+        "Description": "Her bold accessories spoke to her cutting-edge taste and fearlessness.",
+        "IconFilePathList": "images/UI/Icons/Customization/Nea/NK_Head022.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 4,
+        "Purchasable": true,
+        "EndDate": "2022-08-16T14:59:59",
+        "StartDate": "2022-08-02T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "NK_Torso022": {
+        "CosmeticId": "NK_Torso022",
+        "CosmeticName": "Sweater of the Ancients",
+        "Description": "Her sweatshirt harkened back to a time when art was made by the people.",
+        "IconFilePathList": "images/UI/Icons/Customization/Nea/NK_Torso022.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 4,
+        "Purchasable": true,
+        "EndDate": "2022-08-16T14:59:59",
+        "StartDate": "2022-08-02T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "NK_Legs022": {
+        "CosmeticId": "NK_Legs022",
+        "CosmeticName": "Winged High-Tops",
+        "Description": "She spent much of her time running; not out of fear, but out of determination to see her project completed.",
+        "IconFilePathList": "images/UI/Icons/Customization/Nea/NK_Legs022.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 4,
+        "Purchasable": true,
+        "EndDate": "2022-08-16T14:59:59",
+        "StartDate": "2022-08-02T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -43499,6 +44954,63 @@
             }
         ]
     },
+    "S23_Head018": {
+        "CosmeticId": "S23_Head018",
+        "CosmeticName": "Studious Comrade",
+        "Description": "The original owner of this uniform was fascinated by the world outside the Wall.",
+        "IconFilePathList": "images/UI/Icons/Customization/S23/S23_Head018.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 22,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "S23_Torso018": {
+        "CosmeticId": "S23_Torso018",
+        "CosmeticName": "Officer Coat",
+        "Description": "His brilliance led to his promotion to Officer in the Scout Regiment.",
+        "IconFilePathList": "images/UI/Icons/Customization/S23/S23_Torso018.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 22,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "S23_Legs018": {
+        "CosmeticId": "S23_Legs018",
+        "CosmeticName": "Strategist\u2019s Boots",
+        "Description": "Despite his physical frailty, he proved invaluable due to his tactical prowess.",
+        "IconFilePathList": "images/UI/Icons/Customization/S23/S23_Legs018.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 22,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "S24_Head006": {
         "CosmeticId": "S24_Head006",
         "CosmeticName": "Happy Antlers",
@@ -43575,6 +45087,9 @@
         "Prices": [
             {
                 "Cells": 250
+            },
+            {
+                "Shards": 4500
             }
         ]
     },
@@ -43865,6 +45380,9 @@
         "Prices": [
             {
                 "Cells": 250
+            },
+            {
+                "Shards": 4500
             }
         ]
     },
@@ -44221,6 +45739,9 @@
         "Prices": [
             {
                 "Cells": 250
+            },
+            {
+                "Shards": 4500
             }
         ]
     },
@@ -45288,7 +46809,7 @@
     "S25_Torso01_02": {
         "CosmeticId": "S25_Torso01_02",
         "CosmeticName": "Faux-Leopard Coat ",
-        "Description": "A light crop top that hangs loosely without being baggy. Best for a warm climate. ",
+        "Description": "A faux-fur coat thrown over a ruffled, velvet blouse for a corporate and edgy look. ",
         "IconFilePathList": "images/UI/Icons/Customization/S25/S25_Torso01_02.png",
         "CollectionName": "Producer Extraordinaire ",
         "InclusionVersion": "Legacy",
@@ -45310,7 +46831,7 @@
     "S25_Torso01_03": {
         "CosmeticId": "S25_Torso01_03",
         "CosmeticName": "Faux Snow-Fox Coat ",
-        "Description": "A light crop top that hangs loosely without being baggy. Best for a warm climate. ",
+        "Description": "A faux-fur coat thrown over a ruffled, velvet blouse for a corporate and edgy look. ",
         "IconFilePathList": "images/UI/Icons/Customization/S25/S25_Torso01_03.png",
         "CollectionName": "Producer Extraordinaire ",
         "InclusionVersion": "Legacy",
@@ -45458,6 +46979,72 @@
             },
             {
                 "Shards": 4500
+            }
+        ]
+    },
+    "S25_Head013": {
+        "CosmeticId": "S25_Head013",
+        "CosmeticName": "Chic Beret",
+        "Description": "Few people knew how to stand out while behind the scenes like her.",
+        "IconFilePathList": "images/UI/Icons/Customization/S25/S25_Head013.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 24,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "S25_Torso013": {
+        "CosmeticId": "S25_Torso013",
+        "CosmeticName": "Commanding Epaulets",
+        "Description": "Even on something as fun as a talent show, she made sure everyone knew who was in charge.",
+        "IconFilePathList": "images/UI/Icons/Customization/S25/S25_Torso013.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 24,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "S25_Legs013": {
+        "CosmeticId": "S25_Legs013",
+        "CosmeticName": "Authority Pants",
+        "Description": "Competitors were intimidated by her demeanor. They were right to be.",
+        "IconFilePathList": "images/UI/Icons/Customization/S25/S25_Legs013.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 24,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -46584,6 +48171,63 @@
             }
         ]
     },
+    "S28_Head014": {
+        "CosmeticId": "S28_Head014",
+        "CosmeticName": "Mystical Updo",
+        "Description": "With her hair tied up, she could show off the gorgeous earrings she made herself.",
+        "IconFilePathList": "images/UI/Icons/Customization/S28/S28_Head014.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 27,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "S28_Torso014": {
+        "CosmeticId": "S28_Torso014",
+        "CosmeticName": "Golden Bangles",
+        "Description": "A series of glittering pieces of jewellery, dedicated to the mysteries of the night.",
+        "IconFilePathList": "images/UI/Icons/Customization/S28/S28_Torso014.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 27,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "S28_Legs014": {
+        "CosmeticId": "S28_Legs014",
+        "CosmeticName": "Studded Shoes",
+        "Description": "Many treated her, even now, with fear for her wiccan practices; sometimes, she leaned into it.",
+        "IconFilePathList": "images/UI/Icons/Customization/S28/S28_Legs014.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 27,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "S29_Torso01_CV01": {
         "CosmeticId": "S29_Torso01_CV01",
         "CosmeticName": "Citrus Shirt",
@@ -47251,6 +48895,63 @@
             }
         ]
     },
+    "S29_Head009": {
+        "CosmeticId": "S29_Head009",
+        "CosmeticName": "Operator Cap",
+        "Description": "An unassuming hat that kept the light out of his eyes, and others from noticing him.",
+        "IconFilePathList": "images/UI/Icons/Customization/S29/S29_Head009.png",
+        "CollectionName": "Covert Codebreaker Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 28,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "S29_Torso009": {
+        "CosmeticId": "S29_Torso009",
+        "CosmeticName": "Tech Fatigues",
+        "Description": "The dull olive color allowed him to blend into the background in both urban and natural environments.",
+        "IconFilePathList": "images/UI/Icons/Customization/S29/S29_Torso009.png",
+        "CollectionName": "Covert Codebreaker Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 28,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "S29_Legs009": {
+        "CosmeticId": "S29_Legs009",
+        "CosmeticName": "Tactical Cargos",
+        "Description": "Camouflaged to avoid being spotted while on his vital mission. ",
+        "IconFilePathList": "images/UI/Icons/Customization/S29/S29_Legs009.png",
+        "CollectionName": "Covert Codebreaker Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 28,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "S30_Head006": {
         "CosmeticId": "S30_Head006",
         "CosmeticName": "Well-Worn Beanie",
@@ -47486,8 +49187,8 @@
     },
     "S31_Head01_01": {
         "CosmeticId": "S31_Head01_01",
-        "CosmeticName": "Crimson Pendant",
-        "Description": "A sentimental necklace inherited from her mother.",
+        "CosmeticName": "Turquoise Jewelry",
+        "Description": "Earrings and a nose ring shimmering with vibrant colors.",
         "IconFilePathList": "images/UI/Icons/Customization/S31/S31_Head01_01.png",
         "CollectionName": "Content Creator Collection",
         "InclusionVersion": "6.0.0",
@@ -47552,8 +49253,8 @@
     },
     "S31_Head01_02": {
         "CosmeticId": "S31_Head01_02",
-        "CosmeticName": "Verdant Pendant",
-        "Description": "A sentimental necklace inherited from her mother.",
+        "CosmeticName": "Magenta Jewelry",
+        "Description": "Earrings and a nose ring shimmering with vibrant colors.",
         "IconFilePathList": "images/UI/Icons/Customization/S31/S31_Head01_02.png",
         "CollectionName": "Content Creator Collection",
         "InclusionVersion": "6.0.0",
@@ -47618,8 +49319,8 @@
     },
     "S31_Head01_03": {
         "CosmeticId": "S31_Head01_03",
-        "CosmeticName": "Golden Pendant",
-        "Description": "A sentimental necklace inherited from her mother.",
+        "CosmeticName": "Brassy Jewelry",
+        "Description": "Earrings and a nose ring shimmering with vibrant colors.",
         "IconFilePathList": "images/UI/Icons/Customization/S31/S31_Head01_03.png",
         "CollectionName": "Content Creator Collection",
         "InclusionVersion": "6.0.0",
@@ -49767,6 +51468,63 @@
             }
         ]
     },
+    "SwedenSurvivor_Head017": {
+        "CosmeticId": "SwedenSurvivor_Head017",
+        "CosmeticName": "Cynical Daughter",
+        "Description": "The murder of this soldier\u2019s parents taught her at an early age that only the strong survive.",
+        "IconFilePathList": "images/UI/Icons/Customization/Yui/SwedenSurvivor_Head017.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 19,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "SwedenSurvivor_Torso017": {
+        "CosmeticId": "SwedenSurvivor_Torso017",
+        "CosmeticName": "Crimson Scarf",
+        "Description": "This scarf holds great meaning to her, a gift from one of her oldest friends.",
+        "IconFilePathList": "images/UI/Icons/Customization/Yui/SwedenSurvivor_Torso017.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 19,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "SwedenSurvivor_Legs017": {
+        "CosmeticId": "SwedenSurvivor_Legs017",
+        "CosmeticName": "Protector\u2019s Pants",
+        "Description": "She promised herself she would defend her closest friends, the only family she had left.",
+        "IconFilePathList": "images/UI/Icons/Customization/Yui/SwedenSurvivor_Legs017.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 19,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "US_Head006": {
         "CosmeticId": "US_Head006",
         "CosmeticName": "Short Curls",
@@ -50983,6 +52741,63 @@
             }
         ]
     },
+    "US_Head016": {
+        "CosmeticId": "US_Head016",
+        "CosmeticName": "Freethinking Inventor",
+        "Description": "The owner of this uniform\u2019s brilliant mind led them to complete many groundbreaking innovations.",
+        "IconFilePathList": "images/UI/Icons/Customization/Zarina/US_Head016.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 20,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "US_Torso016": {
+        "CosmeticId": "US_Torso016",
+        "CosmeticName": "Commander\u2019s Duster",
+        "Description": "Without their inventions, many of the Scouts\u2019 battles would have ended in defeat.",
+        "IconFilePathList": "images/UI/Icons/Customization/Zarina/US_Torso016.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 20,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "US_Legs016": {
+        "CosmeticId": "US_Legs016",
+        "CosmeticName": "Researcher\u2019s Pants",
+        "Description": "Some considered their methods extreme, but they did the experiments they did in the name of defeating the Titans.",
+        "IconFilePathList": "images/UI/Icons/Customization/Zarina/US_Legs016.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Legs",
+        "Character": 20,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "GK_Body006": {
         "CosmeticId": "GK_Body006",
         "CosmeticName": "Got Nothing in My Pockets",
@@ -51926,6 +53741,9 @@
         "Prices": [
             {
                 "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -51945,6 +53763,9 @@
         "Prices": [
             {
                 "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -51964,6 +53785,9 @@
         "Prices": [
             {
                 "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -52037,6 +53861,63 @@
         "EndDate": "2018-06-25T23:59:59",
         "StartDate": "2018-06-12T00:00:00",
         "Rarity": "SpecialEvent",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "GK_Head014_01": {
+        "CosmeticId": "GK_Head014_01",
+        "CosmeticName": "Patterned Top Hat",
+        "Description": "The sunburn left when wearing this hat was very strange.",
+        "IconFilePathList": "images/UI/Icons/Customization/Clown/GK_Head014_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 268435467,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "GK_Body014_01": {
+        "CosmeticId": "GK_Body014_01",
+        "CosmeticName": "Dizzying Patterns",
+        "Description": "When asked what kind of pattern he wanted for this costume, his answer was simply, \u201cyes.\u201d",
+        "IconFilePathList": "images/UI/Icons/Customization/Clown/GK_Body014_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 268435467,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "GK_W014_01": {
+        "CosmeticId": "GK_W014_01",
+        "CosmeticName": "Violence, Esq.",
+        "Description": "A old-fashioned straight razor, perfect for putting up against necks.",
+        "IconFilePathList": "images/UI/Icons/Customization/Clown/GK_W014_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Weapon",
+        "Character": 268435467,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
         "Prices": [
             {
                 "Cells": 400
@@ -53522,8 +55403,8 @@
         "Type": "Head",
         "Character": 268435462,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -53544,8 +55425,8 @@
         "Type": "Torso",
         "Character": 268435462,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -53566,8 +55447,8 @@
         "Type": "Weapon",
         "Character": 268435462,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -54973,8 +56854,8 @@
         "Type": "Head",
         "Character": 268435474,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -54992,8 +56873,8 @@
         "Type": "Torso",
         "Character": 268435474,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -55011,8 +56892,8 @@
         "Type": "Weapon",
         "Character": 268435474,
         "Purchasable": true,
-        "EndDate": "2022-06-28T14:59:59",
-        "StartDate": "2022-06-14T15:00:00",
+        "EndDate": "2022-06-29T14:59:59",
+        "StartDate": "2022-06-15T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -56403,6 +58284,9 @@
         "Prices": [
             {
                 "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -56434,9 +58318,9 @@
         "InclusionVersion": "Legacy",
         "Type": "Torso",
         "Character": 268435458,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-07-26T14:59:59",
+        "StartDate": "2022-07-12T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -56794,6 +58678,9 @@
         "Prices": [
             {
                 "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -56825,9 +58712,9 @@
         "InclusionVersion": "Legacy",
         "Type": "Head",
         "Character": 268435458,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-07-26T14:59:59",
+        "StartDate": "2022-07-12T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -57219,9 +59106,9 @@
         "InclusionVersion": "Legacy",
         "Type": "Weapon",
         "Character": 268435458,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-07-26T14:59:59",
+        "StartDate": "2022-07-12T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -57522,6 +59409,9 @@
         "Prices": [
             {
                 "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -60001,6 +61891,63 @@
             }
         ]
     },
+    "K21_Head011": {
+        "CosmeticId": "K21_Head011",
+        "CosmeticName": "Melting Headwrap",
+        "Description": "Perhaps it was sweat\u2026 perhaps his headwear was changing form. He couldn\u2019t be sure.",
+        "IconFilePathList": "images/UI/Icons/Customization/K21/K21_Head011.png",
+        "CollectionName": "Enter The Bleed Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 268435476,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "K21_Body011": {
+        "CosmeticId": "K21_Body011",
+        "CosmeticName": "Phosphoric Pores ",
+        "Description": "He tried to take as many samples as he could, but before long, the samples were taking him.",
+        "IconFilePathList": "images/UI/Icons/Customization/K21/K21_Body011.png",
+        "CollectionName": "Enter The Bleed Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 268435476,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "K21_W011": {
+        "CosmeticId": "K21_W011",
+        "CosmeticName": "Psychedelic Staff",
+        "Description": "As time passed near the Tree of Death, the difference between reality and unreality bent and warped.",
+        "IconFilePathList": "images/UI/Icons/Customization/K21/K21_W011.png",
+        "CollectionName": "Enter The Bleed Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Weapon",
+        "Character": 268435476,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "K22_Head01_CV01": {
         "CosmeticId": "K22_Head01_CV01",
         "CosmeticName": "Wanderer\u2019s Kerchief (Off-White)",
@@ -61726,6 +63673,72 @@
             }
         ]
     },
+    "K23_Head012": {
+        "CosmeticId": "K23_Head012",
+        "CosmeticName": "Feathered Coif",
+        "Description": "A delicate, angelic hairdo worn by one who is anything but.",
+        "IconFilePathList": "images/UI/Icons/Customization/K23/K23_Head012.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 268435478,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "K23_Body012": {
+        "CosmeticId": "K23_Body012",
+        "CosmeticName": "Military Swagger",
+        "Description": "He chose a look with a more severe, serious vibe. ",
+        "IconFilePathList": "images/UI/Icons/Customization/K23/K23_Body012.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 268435478,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "K23_Weapon012": {
+        "CosmeticId": "K23_Weapon012",
+        "CosmeticName": "Bludgeoning Bouquet",
+        "Description": "A beautiful gift\u2014one which he gladly delivers directly to the face.",
+        "IconFilePathList": "images/UI/Icons/Customization/K23/K23_Weapon012.png",
+        "CollectionName": "Pop Superstar Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Weapon",
+        "Character": 268435478,
+        "Purchasable": true,
+        "EndDate": "2022-08-25T14:59:59",
+        "StartDate": "2022-08-11T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
     "K24_Head007": {
         "CosmeticId": "K24_Head007",
         "CosmeticName": "Putrid Breath",
@@ -62344,6 +64357,72 @@
             }
         ]
     },
+    "K26_Head009": {
+        "CosmeticId": "K26_Head009",
+        "CosmeticName": "Eye For An Eye",
+        "Description": "Her face twisted into a grim visage of hatred.",
+        "IconFilePathList": "images/UI/Icons/Customization/K26/K26_Head009.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 268435481,
+        "Purchasable": true,
+        "EndDate": "2022-08-16T14:59:59",
+        "StartDate": "2022-08-02T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "K26_Body009": {
+        "CosmeticId": "K26_Body009",
+        "CosmeticName": "Robe of Reprisal",
+        "Description": "She took inspiration from the ancient goddesses, swearing vengeance against those who crossed her.",
+        "IconFilePathList": "images/UI/Icons/Customization/K26/K26_Body009.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 268435481,
+        "Purchasable": true,
+        "EndDate": "2022-08-16T14:59:59",
+        "StartDate": "2022-08-02T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "K26_W009": {
+        "CosmeticId": "K26_W009",
+        "CosmeticName": "Blade of Strife",
+        "Description": "It practically drips with hatred.",
+        "IconFilePathList": "images/UI/Icons/Customization/K26/K26_W009.png",
+        "CollectionName": "Greek Legends Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Weapon",
+        "Character": 268435481,
+        "Purchasable": true,
+        "EndDate": "2022-08-16T14:59:59",
+        "StartDate": "2022-08-02T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
     "K27_Head006": {
         "CosmeticId": "K27_Head006",
         "CosmeticName": "Mucky Hair",
@@ -62605,19 +64684,19 @@
         "Description": "No eyes remain in its sockets, but this skull still scans its environment, hungry for prey.",
         "IconFilePathList": "images/UI/Icons/Customization/K28/K28_Head02.png",
         "CollectionName": "Grave Amalgamation Collection",
-        "InclusionVersion": "6.0.0",
-        "Type": "Weapon",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
         "Character": 268435483,
         "Purchasable": true,
-        "EndDate": "2022-06-21T14:59:59",
-        "StartDate": "2022-06-07T15:00:00",
+        "EndDate": "2022-08-09T14:59:59",
+        "StartDate": "2022-07-26T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
-                "Cells": 100
+                "Cells": 400
             },
             {
-                "Shards": 1800
+                "Shards": 7200
             }
         ]
     },
@@ -62627,19 +64706,19 @@
         "Description": "Whatever animates this abomination continues to do so, even after the skin and sinew have sloughed away.",
         "IconFilePathList": "images/UI/Icons/Customization/K28/K28_Body02.png",
         "CollectionName": "Grave Amalgamation Collection",
-        "InclusionVersion": "6.0.0",
-        "Type": "Weapon",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
         "Character": 268435483,
         "Purchasable": true,
-        "EndDate": "2022-06-21T14:59:59",
-        "StartDate": "2022-06-07T15:00:00",
+        "EndDate": "2022-08-09T14:59:59",
+        "StartDate": "2022-07-26T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
-                "Cells": 100
+                "Cells": 400
             },
             {
-                "Shards": 1800
+                "Shards": 7200
             }
         ]
     },
@@ -62649,19 +64728,19 @@
         "Description": "Stiff and cold, its horrifying limb smashes and strikes harder than ever.",
         "IconFilePathList": "images/UI/Icons/Customization/K28/K28_W02.png",
         "CollectionName": "Grave Amalgamation Collection",
-        "InclusionVersion": "6.0.0",
+        "InclusionVersion": "6.1.0",
         "Type": "Weapon",
         "Character": 268435483,
         "Purchasable": true,
-        "EndDate": "2022-06-21T14:59:59",
-        "StartDate": "2022-06-07T15:00:00",
+        "EndDate": "2022-08-09T14:59:59",
+        "StartDate": "2022-07-26T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
-                "Cells": 100
+                "Cells": 400
             },
             {
-                "Shards": 1800
+                "Shards": 7200
             }
         ]
     },
@@ -62675,8 +64754,8 @@
         "Type": "Head",
         "Character": 268435483,
         "Purchasable": true,
-        "EndDate": "2022-06-12T14:59:59",
-        "StartDate": "2022-05-29T15:00:00",
+        "EndDate": "2022-06-21T14:59:59",
+        "StartDate": "2022-06-07T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -62694,8 +64773,8 @@
         "Type": "Torso",
         "Character": 268435483,
         "Purchasable": true,
-        "EndDate": "2022-06-12T14:59:59",
-        "StartDate": "2022-05-29T15:00:00",
+        "EndDate": "2022-06-21T14:59:59",
+        "StartDate": "2022-06-07T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -62713,8 +64792,8 @@
         "Type": "Weapon",
         "Character": 268435483,
         "Purchasable": true,
-        "EndDate": "2022-06-12T14:59:59",
-        "StartDate": "2022-05-29T15:00:00",
+        "EndDate": "2022-06-21T14:59:59",
+        "StartDate": "2022-06-07T15:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -63810,7 +65889,7 @@
     "KK_W014": {
         "CosmeticId": "KK_W014",
         "CosmeticName": "Sparkling Knife",
-        "Description": "She snatched a gem-embedded knife and followed the man outside. She chased him down an alley. Wanting to impress Frank, she stabbed the man in the back, twice. He stopped and stumbled while Suzie snatched his wallet. She left him in the cold street, bleeding.",
+        "Description": "She snatched a gem-embedded knife and followed the man outside. She chased him down an alley. Wanting to impress Frank, she stabbed the man in the back, twice. He stopped and stumbled while Susie snatched his wallet. She left him in the cold street, bleeding.",
         "IconFilePathList": "images/UI/Icons/Customization/Legion/KK_W014.png",
         "CollectionName": "Scarlet Swarm ",
         "InclusionVersion": "Legacy",
@@ -64406,7 +66485,7 @@
     "KK_W014_01": {
         "CosmeticId": "KK_W014_01",
         "CosmeticName": "Shimmering Knife",
-        "Description": "She snatched a gem-embedded knife and followed the man outside. She chased him down an alley. Wanting to impress Frank, she stabbed the man in the back, twice. He stopped and stumbled while Suzie snatched his wallet. She left him in the cold street, bleeding.",
+        "Description": "She snatched a gem-embedded knife and followed the man outside. She chased him down an alley. Wanting to impress Frank, she stabbed the man in the back, twice. He stopped and stumbled while Susie snatched his wallet. She left him in the cold street, bleeding.",
         "IconFilePathList": "images/UI/Icons/Customization/Legion/KK_W014_01.png",
         "CollectionName": "Sophomore Jitters",
         "InclusionVersion": "Legacy",
@@ -64419,6 +66498,9 @@
         "Prices": [
             {
                 "Cells": 250
+            },
+            {
+                "Shards": 4500
             }
         ]
     },
@@ -64627,6 +66709,63 @@
         "Prices": [
             {
                 "Cells": 250
+            }
+        ]
+    },
+    "KK_Mask009_01": {
+        "CosmeticId": "KK_Mask009_01",
+        "CosmeticName": "Skull Shroud",
+        "Description": "By the time you see the sign of death, it\u2019s already too late.",
+        "IconFilePathList": "images/UI/Icons/Customization/Legion/KK_Mask009_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 268435469,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "KK_Body009_01": {
+        "CosmeticId": "KK_Body009_01",
+        "CosmeticName": "Taped-Up Jumpsuit",
+        "Description": "Looks like something out of a 1980\u2019s idea of the 2020\u2019s.",
+        "IconFilePathList": "images/UI/Icons/Customization/Legion/KK_Body009_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 268435469,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "KK_W009_01": {
+        "CosmeticId": "KK_W009_01",
+        "CosmeticName": "Glowing Karambit",
+        "Description": "The sickening orange sheen catches the moonlight right before it is jabbed into its victim.",
+        "IconFilePathList": "images/UI/Icons/Customization/Legion/KK_W009_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Weapon",
+        "Character": 268435469,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
             }
         ]
     },
@@ -65812,6 +67951,9 @@
         "Prices": [
             {
                 "Cells": 250
+            },
+            {
+                "Shards": 4500
             }
         ]
     },
@@ -65831,6 +67973,9 @@
         "Prices": [
             {
                 "Cells": 250
+            },
+            {
+                "Shards": 4500
             }
         ]
     },
@@ -65850,6 +67995,9 @@
         "Prices": [
             {
                 "Cells": 250
+            },
+            {
+                "Shards": 4500
             }
         ]
     },
@@ -65983,6 +68131,63 @@
         "IconFilePathList": "images/UI/Icons/Customization/Nurse/TN_W006_02.png",
         "CollectionName": "Spring Ensembles",
         "InclusionVersion": "5.7.0",
+        "Type": "Weapon",
+        "Character": 268435459,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
+            }
+        ]
+    },
+    "TN_Head014": {
+        "CosmeticId": "TN_Head014",
+        "CosmeticName": "Medical Shrapnel",
+        "Description": "As the vehicle turned and tumbled off of the road, its contents crashed into her.",
+        "IconFilePathList": "images/UI/Icons/Customization/Nurse/TN_Head014.png",
+        "CollectionName": "Grim Resolutions Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 268435459,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
+            }
+        ]
+    },
+    "TN_Body014": {
+        "CosmeticId": "TN_Body014",
+        "CosmeticName": "Annihilated Uniform",
+        "Description": "Her outfit, already crimson with the blood of her victims, ran bright red from her fresh wounds.",
+        "IconFilePathList": "images/UI/Icons/Customization/Nurse/TN_Body014.png",
+        "CollectionName": "Grim Resolutions Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 268435459,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
+            }
+        ]
+    },
+    "TN_W014": {
+        "CosmeticId": "TN_W014",
+        "CosmeticName": "Improvised Steel",
+        "Description": "She was forced to cut herself loose from the wreckage with whatever she could pluck from the wreckage\u2014or herself.",
+        "IconFilePathList": "images/UI/Icons/Customization/Nurse/TN_W014.png",
+        "CollectionName": "Grim Resolutions Collection",
+        "InclusionVersion": "6.1.0",
         "Type": "Weapon",
         "Character": 268435459,
         "Purchasable": false,
@@ -67024,7 +69229,7 @@
     },
     "SwedenKiller_W011": {
         "CosmeticId": "SwedenKiller_W011",
-        "CosmeticName": "Celestial Kanabo",
+        "CosmeticName": "Celestial Sword",
         "Description": "Ornamented kanabo cleansed with moon water to keep it from rust. ",
         "IconFilePathList": "images/UI/Icons/Customization/Oni/SwedenKiller_W011.png",
         "CollectionName": "Fire Moon Festival",
@@ -67038,6 +69243,63 @@
         "Prices": [
             {
                 "Cells": 400
+            }
+        ]
+    },
+    "SwedenKiller_Mask012": {
+        "CosmeticId": "SwedenKiller_Mask012",
+        "CosmeticName": "Immovable Object",
+        "Description": "He took the form of a defensively-minded behemoth capable of unspeakable violence.",
+        "IconFilePathList": "images/UI/Icons/Customization/Oni/SwedenKiller_Mask012.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 268435473,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "UltraRare",
+        "Prices": [
+            {
+                "Cells": 550
+            }
+        ]
+    },
+    "SwedenKiller_Body012": {
+        "CosmeticId": "SwedenKiller_Body012",
+        "CosmeticName": "Adamantine Form",
+        "Description": "Its body could form armor so powerful that not even artillery could pierce it.",
+        "IconFilePathList": "images/UI/Icons/Customization/Oni/SwedenKiller_Body012.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 268435473,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "UltraRare",
+        "Prices": [
+            {
+                "Cells": 550
+            }
+        ]
+    },
+    "SwedenKiller_W012": {
+        "CosmeticId": "SwedenKiller_W012",
+        "CosmeticName": "Hardened Edge",
+        "Description": "Its blade was as impenetrable as its skin, and just as deadly.",
+        "IconFilePathList": "images/UI/Icons/Customization/Oni/SwedenKiller_W012.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Weapon",
+        "Character": 268435473,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "UltraRare",
+        "Prices": [
+            {
+                "Cells": 550
             }
         ]
     },
@@ -69858,6 +72120,120 @@
         "Prices": [
             {
                 "Cells": 400
+            }
+        ]
+    },
+    "HK_Head016": {
+        "CosmeticId": "HK_Head016",
+        "CosmeticName": "Deadly Constructor",
+        "Description": "She appeared as a versatile monster whose unique skills could cause all sorts of chaos.",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_Head016.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 268435468,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "UltraRare",
+        "Prices": [
+            {
+                "Cells": 550
+            }
+        ]
+    },
+    "HK_Body016": {
+        "CosmeticId": "HK_Body016",
+        "CosmeticName": "Architectural Form",
+        "Description": "It was capable of making durable and dangerous objects at will.",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_Body016.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 268435468,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "UltraRare",
+        "Prices": [
+            {
+                "Cells": 550
+            }
+        ]
+    },
+    "HK_W016": {
+        "CosmeticId": "HK_W016",
+        "CosmeticName": "Crystalized Blade",
+        "Description": "The hardened crystals formed into a deadly weapon capable of impaling nearly anything.",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_W016.png",
+        "CollectionName": "Attack On Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Weapon",
+        "Character": 268435468,
+        "Purchasable": true,
+        "EndDate": "2022-08-02T14:59:59",
+        "StartDate": "2022-07-19T15:00:00",
+        "Rarity": "UltraRare",
+        "Prices": [
+            {
+                "Cells": 550
+            }
+        ]
+    },
+    "HK_Head010_01": {
+        "CosmeticId": "HK_Head010_01",
+        "CosmeticName": "Golden Jaw",
+        "Description": "The mask did little to obscure the fury that hid beneath the surface.",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_Head010_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Head",
+        "Character": 268435468,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
+            }
+        ]
+    },
+    "HK_Body010_01": {
+        "CosmeticId": "HK_Body010_01",
+        "CosmeticName": "Glorious Armor",
+        "Description": "Its dazzling appearance contrasted with the darkness in her heart.",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_Body010_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Torso",
+        "Character": 268435468,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
+            }
+        ]
+    },
+    "HK_W010_01": {
+        "CosmeticId": "HK_W010_01",
+        "CosmeticName": "Fossilized Blade",
+        "Description": "Jagged and dull, its hideous edge took all her anger and fury to wield.",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_W010_01.png",
+        "CollectionName": "Midsummer Mayhem Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Weapon",
+        "Character": 268435468,
+        "Purchasable": false,
+        "EndDate": "2018-06-25T23:59:59",
+        "StartDate": "2018-06-12T00:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
             }
         ]
     },
@@ -81105,6 +83481,500 @@
         "Rarity": "SpecialEvent",
         "Prices": []
     },
+    "NO_001": {
+        "CosmeticId": "NO_001",
+        "CosmeticName": "Bizarre Bunny",
+        "Description": "An adorable rabbit! Something about it seems a little weird, though.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_001.png",
+        "CollectionName": "Discordance",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "NO_002": {
+        "CosmeticId": "NO_002",
+        "CosmeticName": "Bursting Bunny",
+        "Description": "What\u2019s its head doing? What is that sound they\u2019re making? That can\u2019t be right.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_002.png",
+        "CollectionName": "Discordance",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Rare",
+        "Prices": []
+    },
+    "NO_003": {
+        "CosmeticId": "NO_003",
+        "CosmeticName": "Bloodcurdling Bunny",
+        "Description": "Maybe it\u2019s time to start running.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_003.png",
+        "CollectionName": "Discordance",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "VeryRare",
+        "Prices": []
+    },
+    "NO_004": {
+        "CosmeticId": "NO_004",
+        "CosmeticName": "Beastly Bunny",
+        "Description": "Oh no. No no no. No NO NO NO ",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_004.png",
+        "CollectionName": "Discordance",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "UltraRare",
+        "Prices": []
+    },
+    "NO_005": {
+        "CosmeticId": "NO_005",
+        "CosmeticName": "Carrot Hoarder",
+        "Description": "A seemingly trustworthy rabbit. This one seems vegan, at least.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_005.png",
+        "CollectionName": "Discordance",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "NO_006": {
+        "CosmeticId": "NO_006",
+        "CosmeticName": "Podcast Player",
+        "Description": "A phone, mostly used to watch a popular web series.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_006.png",
+        "CollectionName": "Survivor Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Rare",
+        "Prices": []
+    },
+    "NO_007": {
+        "CosmeticId": "NO_007",
+        "CosmeticName": "Abby",
+        "Description": "Science Girl\u2019s faithful sidekick.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_007.png",
+        "CollectionName": "Survivor Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Rare",
+        "Prices": []
+    },
+    "NO_008": {
+        "CosmeticId": "NO_008",
+        "CosmeticName": "Jonah Vasquez Figurine",
+        "Description": "A brilliant codebreaker, hounded by a series of numbers he couldn\u2019t quite crack.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_008.png",
+        "CollectionName": "Vinyl Dolls",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "VeryRare",
+        "Prices": []
+    },
+    "NO_009": {
+        "CosmeticId": "NO_009",
+        "CosmeticName": "Science Girl Issue #1",
+        "Description": "It may not be worth as much as some first issues, but it means a lot to Claudette.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_009.png",
+        "CollectionName": "Survivor Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "NO_010": {
+        "CosmeticId": "NO_010",
+        "CosmeticName": "Obliterated Ambulance",
+        "Description": "The ambulance they took Sally in never made it to the hospital, and she was assumed dead.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_010.png",
+        "CollectionName": "Killer Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Rare",
+        "Prices": []
+    },
+    "NO_011": {
+        "CosmeticId": "NO_011",
+        "CosmeticName": "Blighted Crow",
+        "Description": "The Bleed did things to the flora and fauna that Talbot would spend the rest of his life trying to understand.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_011.png",
+        "CollectionName": "Killer Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "VeryRare",
+        "Prices": []
+    },
+    "NO_012": {
+        "CosmeticId": "NO_012",
+        "CosmeticName": "Stolen Pocketwatch",
+        "Description": "A pocketwatch that belonged in life  to another nurse at Crotus Prenn.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_012.png",
+        "CollectionName": "Killer Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "NO_013": {
+        "CosmeticId": "NO_013",
+        "CosmeticName": "Science Girl Logo",
+        "Description": "Claudette\u2019s logo for her childhood alter ego: Science Girl.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_013.png",
+        "CollectionName": "Survivor Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_014": {
+        "CosmeticId": "NO_014",
+        "CosmeticName": "The Padded Room",
+        "Description": "A room for a patient of Crotus Prenn, intended to keep them safe from themselves.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_014.png",
+        "CollectionName": "Killer Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_015": {
+        "CosmeticId": "NO_015",
+        "CosmeticName": "The Auris",
+        "Description": "Evidence that the Observer was once, in fact, here.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_015.png",
+        "CollectionName": "Discordance",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_016": {
+        "CosmeticId": "NO_016",
+        "CosmeticName": "Poisonous Foxglove",
+        "Description": "If its beauty isn\u2019t heartstopping enough, the poison within it certainly is.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_016.png",
+        "CollectionName": "Killer Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Rare",
+        "Prices": []
+    },
+    "NO_017": {
+        "CosmeticId": "NO_017",
+        "CosmeticName": "Deadly Fluffle",
+        "Description": "A fluffle is a group of rabbits. Sometimes seeing a fluffle means it\u2019s time to run. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_017.png",
+        "CollectionName": "Discordance",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_018": {
+        "CosmeticId": "NO_018",
+        "CosmeticName": "Vigo\u2019s Journal",
+        "Description": "His scribbles and scratchings speak to a brilliant mind that began to lose grip on reality.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_018.png",
+        "CollectionName": "Killer Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "NO_019": {
+        "CosmeticId": "NO_019",
+        "CosmeticName": "Foul Fungus",
+        "Description": "A scraping from the Tree of Death. The smell permeates even thick glass.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_019.png",
+        "CollectionName": "Killer Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_020": {
+        "CosmeticId": "NO_020",
+        "CosmeticName": "Gnaw-rly Waves",
+        "Description": "The easiest way to learn if the water is safe is to find out, conclusively, that it isn\u2019t.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_020.png",
+        "CollectionName": "Survivor Memorabilia",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Rare",
+        "Prices": []
+    },
+    "NO_021": {
+        "CosmeticId": "NO_021",
+        "CosmeticName": "Terror Carousel",
+        "Description": "A mortifying carnival ride clearly inspired by a designer\u2019s nightmares.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_021.png",
+        "CollectionName": "Midsummer Mayhem",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "UltraRare",
+        "Prices": []
+    },
+    "NO_022": {
+        "CosmeticId": "NO_022",
+        "CosmeticName": "Killer Corn Husk",
+        "Description": "A corn husk doll made to conceal a hidden blade.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_022.png",
+        "CollectionName": "Midsummer Mayhem",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Rare",
+        "Prices": []
+    },
+    "NO_023": {
+        "CosmeticId": "NO_023",
+        "CosmeticName": "Curious Chemist",
+        "Description": "He followed a lead to North Africa to learn of a curious new lifeform.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_023.png",
+        "CollectionName": "Enter The Bleed Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_024": {
+        "CosmeticId": "NO_024",
+        "CosmeticName": "Intellectual Chemist",
+        "Description": "Surrounded by some of humanity\u2019s most depraved members, he reflected on the human condition.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_024.png",
+        "CollectionName": "Enter The Bleed Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_025": {
+        "CosmeticId": "NO_025",
+        "CosmeticName": "Tenacious Chemist",
+        "Description": "Confronted with this terrifying thing called the Bleed, he steeled his nerves and went in.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_025.png",
+        "CollectionName": "Enter The Bleed Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_026": {
+        "CosmeticId": "NO_026",
+        "CosmeticName": "Mystified Chemist",
+        "Description": "Surrounded by bizarre and surreal blue and purple vines, he approached the situation the only way he knew how. Like a chemist.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_026.png",
+        "CollectionName": "Enter The Bleed Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_027": {
+        "CosmeticId": "NO_027",
+        "CosmeticName": "Sublime Chemist",
+        "Description": "In the Bleed, something within him changed.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_027.png",
+        "CollectionName": "Enter The Bleed Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "NO_028": {
+        "CosmeticId": "NO_028",
+        "CosmeticName": "Analytical Agent",
+        "Description": "He was a professional codebreaker for the Agency, an elite puzzle-solver.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_028.png",
+        "CollectionName": "Covert Codebreaker Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_029": {
+        "CosmeticId": "NO_029",
+        "CosmeticName": "Rebellious Agent",
+        "Description": "His superiors didn't like how close he was getting to the truth.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_029.png",
+        "CollectionName": "Covert Codebreaker Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_030": {
+        "CosmeticId": "NO_030",
+        "CosmeticName": "Uncertain Agent",
+        "Description": "One name didn't fit the list he decoded: among billionaires and corporations, a high school teacher.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_030.png",
+        "CollectionName": "Covert Codebreaker Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_031": {
+        "CosmeticId": "NO_031",
+        "CosmeticName": "Embroiled Agent",
+        "Description": "The teacher led him deeper down the rabbit hole.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_031.png",
+        "CollectionName": "Covert Codebreaker Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Common",
+        "Prices": []
+    },
+    "NO_032": {
+        "CosmeticId": "NO_032",
+        "CosmeticName": "Unearthing Agent",
+        "Description": "He, and only he, could root out the corruption that went all the way to the top.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_032.png",
+        "CollectionName": "Covert Codebreaker Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "NO_033": {
+        "CosmeticId": "NO_033",
+        "CosmeticName": "Killer of the Sea",
+        "Description": "Thankfully, they haven't started killing on land. Yet.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_033.png",
+        "CollectionName": "Midsummer Mayhem",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Rare",
+        "Prices": []
+    },
+    "NO_034": {
+        "CosmeticId": "NO_034",
+        "CosmeticName": "Scout Regiment Crest",
+        "Description": "The Scout Regiment handled the most dangerous tasks in the fight against the Titans.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_034.png",
+        "CollectionName": "Attack on Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "NO_035": {
+        "CosmeticId": "NO_035",
+        "CosmeticName": "Military Police Regiment Crest",
+        "Description": "Only the best and brightest were invited to apply to this branch of the military.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_035.png",
+        "CollectionName": "Attack on Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "NO_036": {
+        "CosmeticId": "NO_036",
+        "CosmeticName": "Garrison Regiment Crest",
+        "Description": "Their duty was to maintain order inside the Walls.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_036.png",
+        "CollectionName": "Attack on Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "NO_037": {
+        "CosmeticId": "NO_037",
+        "CosmeticName": "Cadet Corps Crest",
+        "Description": "The Cadet Corps did its best to give new soldiers the tools they needed to survive.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_037.png",
+        "CollectionName": "Attack on Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "NO_038": {
+        "CosmeticId": "NO_038",
+        "CosmeticName": "Wall Titan",
+        "Description": "Nobody could have expected what they\u2019d see when a hole was punched in the wall.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/NO_038.png",
+        "CollectionName": "Attack on Titan Collection",
+        "InclusionVersion": "6.1.0",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
     "UN_Charm003": {
         "CosmeticId": "UN_Charm003",
         "CosmeticName": "Fog Whisperers",
@@ -86199,6 +89069,357 @@
         "Character": 268435457,
         "Purchasable": false,
         "Rarity": "Rare",
+        "Prices": []
+    },
+    "K01_PCharm003": {
+        "CosmeticId": "K01_PCharm003",
+        "CosmeticName": "Iridescent Agitation Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K01_PCharm003.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "K01_PCharm002": {
+        "CosmeticId": "K01_PCharm002",
+        "CosmeticName": "Iridescent Brutal Strength Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K01_PCharm002.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "K01_PCharm001": {
+        "CosmeticId": "K01_PCharm001",
+        "CosmeticName": "Iridescent Unnerving Presence Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K01_PCharm001.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "K02_PCharm001": {
+        "CosmeticId": "K02_PCharm001",
+        "CosmeticName": "Iridescent Predator Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K02_PCharm001.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "K02_PCharm003": {
+        "CosmeticId": "K02_PCharm003",
+        "CosmeticName": "Iridescent Shadowborn Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K02_PCharm003.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "K02_PCharm002": {
+        "CosmeticId": "K02_PCharm002",
+        "CosmeticName": "Iridescent Bloodhound Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K02_PCharm002.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "K03_PCharm002": {
+        "CosmeticId": "K03_PCharm002",
+        "CosmeticName": "Iridescent Lightborn Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K03_PCharm002.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "K03_PCharm001": {
+        "CosmeticId": "K03_PCharm001",
+        "CosmeticName": "Iridescent Enduring Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K03_PCharm001.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "K03_PCharm003": {
+        "CosmeticId": "K03_PCharm003",
+        "CosmeticName": "Iridescent Tinkerer Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K03_PCharm003.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S01_PCharm001": {
+        "CosmeticId": "S01_PCharm001",
+        "CosmeticName": "Iridescent Bond Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S01_PCharm001.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S01_PCharm002": {
+        "CosmeticId": "S01_PCharm002",
+        "CosmeticName": "Iridescent Prove Thyself Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S01_PCharm002.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S01_PCharm003": {
+        "CosmeticId": "S01_PCharm003",
+        "CosmeticName": "Iridescent Leader Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S01_PCharm003.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S04_PCharm003": {
+        "CosmeticId": "S04_PCharm003",
+        "CosmeticName": "Iridescent Saboteur Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S04_PCharm003.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S04_PCharm002": {
+        "CosmeticId": "S04_PCharm002",
+        "CosmeticName": "Iridescent Calm Spirit Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S04_PCharm002.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S04_PCharm001": {
+        "CosmeticId": "S04_PCharm001",
+        "CosmeticName": "Iridescent Iron Will Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S04_PCharm001.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S02_PCharm003": {
+        "CosmeticId": "S02_PCharm003",
+        "CosmeticName": "Iridescent Adrenaline Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S02_PCharm003.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S02_PCharm002": {
+        "CosmeticId": "S02_PCharm002",
+        "CosmeticName": "Iridescent Sprint Burst Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S02_PCharm002.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S02_PCharm001": {
+        "CosmeticId": "S02_PCharm001",
+        "CosmeticName": "Iridescent Quick & Quiet Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S02_PCharm001.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S03_PCharm002": {
+        "CosmeticId": "S03_PCharm002",
+        "CosmeticName": "Iridescent Botany Knowledge Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S03_PCharm002.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S03_PCharm001": {
+        "CosmeticId": "S03_PCharm001",
+        "CosmeticName": "Iridescent Empathy Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S03_PCharm001.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S03_PCharm003": {
+        "CosmeticId": "S03_PCharm003",
+        "CosmeticName": "Iridescent Self-Care Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S03_PCharm003.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S07_PCharm001": {
+        "CosmeticId": "S07_PCharm001",
+        "CosmeticName": "Iridescent Open-Handed Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S07_PCharm001.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S07_PCharm002": {
+        "CosmeticId": "S07_PCharm002",
+        "CosmeticName": "Iridescent Up the Ante Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S07_PCharm002.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "S07_PCharm003": {
+        "CosmeticId": "S07_PCharm003",
+        "CosmeticName": "Iridescent Ace in the Hole Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/S07_PCharm003.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "K05_PCharm001": {
+        "CosmeticId": "K05_PCharm001",
+        "CosmeticName": "Iridescent Hex: The Third Seal Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K05_PCharm001.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "K05_PCharm002": {
+        "CosmeticId": "K05_PCharm002",
+        "CosmeticName": "Iridescent Hex: Ruin Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K05_PCharm002.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "K05_PCharm003": {
+        "CosmeticId": "K05_PCharm003",
+        "CosmeticName": "Iridescent Hex: Devour Hope Charm",
+        "Description": "A keepsake gained upon mastery of a particular skill.",
+        "IconFilePathList": "images/UI/Icons/Customization/PerkCharms/K05_PCharm003.png",
+        "CollectionName": null,
+        "InclusionVersion": "6.1.0 PTB",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
         "Prices": []
     }
 }

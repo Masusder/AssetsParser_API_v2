@@ -4,7 +4,6 @@ import json
 import sys
 from jsonmerge import merge
 from colorama import Fore
-from utils.controllers.dlc import DlcDB
 
 # Local imports
 from utils.ui import UI, Style
@@ -20,6 +19,7 @@ from utils.controllers.offerings import OfferingsDB
 from utils.controllers.tomes import TomesDB
 from utils.controllers.rifts import RiftsDB
 from utils.controllers.items import ItemsDB
+from utils.controllers.dlc import DlcDB
 
 def main():
     UI.start()
@@ -56,6 +56,7 @@ def main():
             item_list.extend(glob.glob("DeadByDaylight\Content\Data\Dlc\*\Charms\CustomizationItemDB.json"))
             item_list.extend(glob.glob("DeadByDaylight\Content\Data\Dlc\*\Charms\Secret\CustomizationItemDB.json"))
             item_list.extend(glob.glob('DeadByDaylight\Content\Data\CustomizationItemDB.json'))
+            item_list.extend(glob.glob('DeadByDaylight\Content\Data\Main\Charms\PerkCharms\CustomizationItemDB.json'))
 
             for file in cosmetics_list:
                 print(Fore.LIGHTGREEN_EX + file + Fore.WHITE)
@@ -65,7 +66,7 @@ def main():
                         parsed = CosmeticsDB.CosmeticsDB(json_)
                     cosmetics = merge(cosmetics, parsed)
                 except Exception as e:
-                    print(Fore.RED + e + Fore.WHITE)
+                    print(e)
 
             for file2 in item_list:
                 print(Fore.LIGHTGREEN_EX + file2 + Fore.WHITE)
@@ -75,7 +76,7 @@ def main():
                         parsed2 = CosmeticsDB.DefaultItemCosmeticsDB(json_)
                     cosmetics = merge(cosmetics, parsed2)
                 except Exception as f:
-                    print(Fore.RED + f + Fore.WHITE)
+                    print(f)
             print()
             print(Style.BOLD + 'Total len of all items is', len(cosmetics.items()))
             print('-----------------------------------------------' + Style.END)
@@ -97,7 +98,7 @@ def main():
                         parsed = PerksDB.PerksDB(json_)
                     perks = merge(perks, parsed)
                 except Exception as e :
-                    print(Fore.RED + e + Fore.WHITE)
+                    print(e)
             print()
             print(Style.BOLD + 'Total len of all items is', len(perks.items()))
             print('-----------------------------------------------' + Style.END)
@@ -119,7 +120,7 @@ def main():
                         parsed = CharactersDB.CharactersDB(json_)
                     characters = merge(characters, parsed)
                 except Exception as e :
-                    print(Fore.RED + e + Fore.WHITE)
+                    print(e)
             print()
             print(Style.BOLD + 'Total len of all items is', len(characters.items()))
             print('-----------------------------------------------' + Style.END)
@@ -140,7 +141,7 @@ def main():
                         parsed = JournalsDB.ArchiveJournalDB(json_)
                     journals = merge(journals, parsed)
                 except Exception as e :
-                    print(Fore.RED + e + Fore.WHITE)
+                    print(e)
             print()
             print(Style.BOLD + 'Total len of all items is', len(journals.items()))
             print('-----------------------------------------------' + Style.END)
@@ -161,7 +162,7 @@ def main():
                         parsed = MapsDB.ProceduralMapsDB(json_)
                     maps = merge(maps, parsed)
                 except Exception as e :
-                    print(Fore.RED + e + Fore.WHITE)
+                    print(e)
             print()
             print(Style.BOLD + 'Total len of all items is', len(maps.items()))
             print('-----------------------------------------------' + Style.END)
@@ -183,7 +184,7 @@ def main():
                         parsed = DlcDB.DlcDB(json_)
                     dlc = merge(dlc, parsed)
                 except Exception as e :
-                    print(Fore.RED + e + Fore.WHITE)
+                    print(e)
             print()
             print(Style.BOLD + 'Total len of all items is', len(dlc.items()))
             print('-----------------------------------------------' + Style.END)
@@ -205,7 +206,7 @@ def main():
                         parsed = AddonsDB.ItemAddonsDB(json_)
                     addons = merge(addons, parsed)
                 except Exception as e :
-                    print(Fore.RED + e + Fore.WHITE)
+                    print(e)
             print()
             print(Style.BOLD + 'Total len of all items is', len(addons.items()))
             print('-----------------------------------------------' + Style.END)
@@ -227,7 +228,7 @@ def main():
                         parsed = OfferingsDB.OfferingDB(json_)
                     offerings = merge(offerings, parsed)
                 except Exception as e :
-                    print(Fore.RED + e + Fore.WHITE)
+                    print(e)
             print()
             print(Style.BOLD + 'Total len of all items is', len(offerings.items()))
             print('-----------------------------------------------' + Style.END)
@@ -248,7 +249,7 @@ def main():
                         parsed = TomesDB.TomesDB(json_)
                     tomes = merge(tomes, parsed)
                 except Exception as e :
-                    print(Fore.RED + e + Fore.WHITE)
+                    print(e)
             print()
             print(Style.BOLD + 'Total len of all items is', len(tomes.items()))
             print('-----------------------------------------------' + Style.END)
@@ -269,7 +270,7 @@ def main():
                         parsed = RiftsDB.RiftsDB(json_)
                     rifts = merge(rifts, parsed)
                 except Exception as e :
-                    print(Fore.RED + e + Fore.WHITE)
+                    print(e)
             print()
             print(Style.BOLD + 'Total len of all items is', len(rifts.items()))
             print('-----------------------------------------------' + Style.END)
@@ -291,7 +292,7 @@ def main():
                         parsed = ItemsDB.ItemsDB(json_)
                     items = merge(items, parsed)
                 except Exception as e :
-                    print(Fore.RED + e + Fore.WHITE)
+                    print(e)
             print()
             print(Style.BOLD + 'Total len of all items is', len(items.items()))
             print('-----------------------------------------------' + Style.END)

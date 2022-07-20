@@ -65,6 +65,8 @@ class TomesDB:
                         description = str(description).replace('_GFX::CQGYIcon', '<img src="images/Archives/Glyphs/ChallengeIcon_yellowGlyph.png" style="vertical-align:middle;" height="25px" width="25px">')
                     elif objectiveKey == 'GreenGlyph':
                         description = str(description).replace('_GFX::CQGGIcon', '<img src="images/Archives/Glyphs/ChallengeIcon_greenGlyph.png" style="vertical-align:middle;" height="25px" width="25px">')
+                    elif objectiveKey == 'OrangeGlyph':
+                        description = str(description).replace('_GFX::CQGOIcon', '<img src="images/Archives/Glyphs/ChallengeIcon_orangeGlyph.png" style="vertical-align:middle;" height="25px" width="25px">')
 
                     objectiveParams = parsedQuestObjective[0]['Rows'][objectiveKey]['DescriptionParameters']
                     for i in range(len(objectiveParams)):
