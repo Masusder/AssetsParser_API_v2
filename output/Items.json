@@ -5,7 +5,7 @@
         "Rarity": "VeryRare",
         "Type": "Item",
         "Name": "Alex's Toolbox",
-        "Description": "A metal box containing mainly saws and vice grips of varying sizes but also other tools. Even though the content of this Toolbox is clearly aimed at destructive deeds, it can be used to repair various mechanical components as well.<br><li><b>24 charges</b>.</li><li><b>Increases</b> repair speed by <b>10%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><li><b>Increases</b> sabotage speed by <b>50%</b>.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>80</b> charges.</span><br>\n<span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\"Most of the tools are identified as 'owned by Alex'.\"</span>",
+        "Description": "A metal box containing mainly saws and vice grips of varying sizes but also other tools. Even though the content of this Toolbox is clearly aimed at destructive deeds, it can be used to repair various mechanical components as well.<br><li><b>24 charges</b>.</li><li><b>Increases</b> repair speed by <b>10%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><li><b>Increases</b> sabotage speed by <b>50%</b>.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>90</b> charges.</span><br><span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\"Most of the tools are identified as 'owned by Alex'.\"</span>",
         "IconFilePathList": "UI/Icons/Items/iconItems_toolboxAlexs.png",
         "ID": "Item_Camper_AlexsToolbox"
     },
@@ -35,7 +35,7 @@
         "Rarity": "Rare",
         "Type": "Item",
         "Name": "Commodious Toolbox",
-        "Description": "A large metal box containing basic tools and extra mechanical parts. Even without training, can be used to repair or break various mechanical components.<br><li><b>32 charges</b>.</li><li><b>Increases</b> repair speed by <b>50%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>80</b> charges.</span><br>\n<span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span>",
+        "Description": "A large metal box containing basic tools and extra mechanical parts. Even without training, can be used to repair or break various mechanical components.<br><li><b>32 charges</b>.</li><li><b>Increases</b> repair speed by <b>50%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>90</b> charges.</span><br><span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span>",
         "IconFilePathList": "UI/Icons/Items/iconItems_toolboxCommodious.png",
         "ID": "Item_Camper_CommodiousToolbox"
     },
@@ -55,7 +55,7 @@
         "Rarity": "VeryRare",
         "Type": "Item",
         "Name": "Engineer's Toolbox",
-        "Description": "Metal box with highly specialized tools meant for engineering. Most of the tools can still be used by neophytes to make fast repairs or break various mechanical components.<br><li><b>16 charges</b>.</li><li><b>Increases</b> repair speed by <b>100%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><li><b>Decreases</b> sabotage speed by <b>25%</b>.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>80</b> charges.</span><br>\n<span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\"I've created tools beyond compare and stood paralyzed as they were stolen from me. These are but a poor replica, spat out by The Fog.\" \u2013Vigo's Journal</span>",
+        "Description": "Metal box with highly specialized tools meant for engineering. Most of the tools can still be used by neophytes to make fast repairs or break various mechanical components.<br><li><b>16 charges</b>.</li><li><b>Increases</b> repair speed by <b>100%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><li><b>Decreases</b> sabotage speed by <b>25%</b>.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>90</b> charges.</span><br><span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\"I've created tools beyond compare and stood paralyzed as they were stolen from me. These are but a poor replica, spat out by The Fog.\" \u2013Vigo's Journal</span>",
         "IconFilePathList": "UI/Icons/Items/iconItems_toolboxEngineers.png",
         "ID": "Item_Camper_EngineerToolbox"
     },
@@ -115,7 +115,7 @@
         "Rarity": "Rare",
         "Type": "Item",
         "Name": "Mechanic's Toolbox",
-        "Description": "Metal box with specialized mechanics tools. Even without training, can be used to repair or break various mechanical components.<br><li><b>16 charges</b>.</li><li><b>Increases</b> repair speed by <b>75%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><li><b>Decreases</b> sabotage speed by <b>10%</b>.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>80</b> charges.</span><br>\n<span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br>",
+        "Description": "Metal box with specialized mechanics tools. Even without training, can be used to repair or break various mechanical components.<br><li><b>16 charges</b>.</li><li><b>Increases</b> repair speed by <b>75%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><li><b>Decreases</b> sabotage speed by <b>10%</b>.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>90</b> charges.</span><br><span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br>",
         "IconFilePathList": "UI/Icons/Items/iconItems_toolboxMechanics.png",
         "ID": "Item_Camper_MechanicsToolbox"
     },
@@ -175,7 +175,7 @@
         "Rarity": "Uncommon",
         "Type": "Item",
         "Name": "Toolbox",
-        "Description": "Metal box containing a set of basic tools. Even without training, can be used to repair or break various mechanical components.<br><li><b>20 charges.</b></li><li><b>Increases</b> repair speed by <b>50%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><li><b>Increases</b> sabotage speed by <b>10%</b>.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>80</b> charges.</span><br>\n<span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\"It is unclear as to where these tools come from. Were they brought in by one of us or did they belong to one of the monsters?\"</span>",
+        "Description": "Metal box containing a set of basic tools. Even without training, can be used to repair or break various mechanical components.<br><li><b>20 charges.</b></li><li><b>Increases</b> repair speed by <b>50%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><li><b>Increases</b> sabotage speed by <b>10%</b>.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>90</b> charges.</span><br><span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\"It is unclear as to where these tools come from. Were they brought in by one of us or did they belong to one of the monsters?\"</span>",
         "IconFilePathList": "UI/Icons/Items/iconItems_toolbox.png",
         "ID": "Item_Camper_Toolbox"
     },
@@ -185,7 +185,7 @@
         "Rarity": "Common",
         "Type": "Item",
         "Name": "Worn-out Tools",
-        "Description": "Metal box containing out of condition tools that could break at any moment. Even without training, can be used to repair or break various mechanical components.<br><li><b>16 charges</b>.</li><li><b>Increases</b> repair speed by <b>50%</b>.</li><li><b>Decreases</b> Skill Check success zone size by <b>10%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><br>\n<span class=\"ReminderText\">Repairing a generator requires <b>80</b> charges.</span><br>\n<span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\"You call these tools?\u2026 Really?\"</span>",
+        "Description": "Metal box containing out of condition tools that could break at any moment. Even without training, can be used to repair or break various mechanical components.<br><li><b>16 charges</b>.</li><li><b>Increases</b> repair speed by <b>50%</b>.</li><li><b>Decreases</b> Skill Check success zone size by <b>10%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>90</b> charges.</span><br><span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\"You call these tools?\u2026 Really?\"</span>",
         "IconFilePathList": "UI/Icons/Items/iconItems_toolboxWornOut.png",
         "ID": "Item_Camper_WornoutToolbox"
     },
@@ -265,7 +265,7 @@
         "Rarity": "SpecialEvent",
         "Type": "Item",
         "Name": "Anniversary Toolbox",
-        "Description": "A toolbox that\u2019s slightly explosive.<br><li><b>32 charges</b>.</li><li><b>Increases</b> repair speed by <b>50%</b>.</li><li>Unlocks the sabotage action.</li><li>Detonates a firework once depleted. Yay!</li><br><span class=\"ReminderText\">Repairing a generator requires <b>80</b> charges.</span><br><span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\u201cNothing says happy anniversary like detonating a firework and praying the Killer doesn\u2019t notice. Good luck and thank you for celebrating with us!\u201d \u2014The Dead by Daylight Team</span>",
+        "Description": "A toolbox that\u2019s slightly explosive.<br><li><b>32 charges</b>.</li><li><b>Increases</b> repair speed by <b>50%</b>.</li><li>Unlocks the sabotage action.</li><li>Detonates a firework once depleted. Yay!</li><br><span class=\"ReminderText\">Repairing a generator requires <b>90</b> charges.</span><br><span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\u201cNothing says happy anniversary like detonating a firework and praying the Killer doesn\u2019t notice. Good luck and thank you for celebrating with us!\u201d \u2014The Dead by Daylight Team</span>",
         "IconFilePathList": "UI/Icons/items/Anniversary/iconItems_toolbox_anniversary2021.png",
         "ID": "Item_Camper_AnniversaryToolbox"
     },
@@ -475,7 +475,7 @@
         "Rarity": "SpecialEvent",
         "Type": "Item",
         "Name": "Festive Toolbox",
-        "Description": "A Toolbox packed to the brim with fireworks, it's prepared to celebrate all your life\u2019s successes... and failures.<br><li><b>32 charges</b>.</li><li><b>Increases</b> repair speed by <b>50%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><li><b>Great Skill Checks</b> detonate a small cluster of firecrackers.</li><li><b>Failed Skill Checks</b> detonate fireworks.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>80</b> charges.</span><br>\n<span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span>",
+        "Description": "A Toolbox packed to the brim with fireworks, it's prepared to celebrate all your life\u2019s successes... and failures.<br><li><b>32 charges</b>.</li><li><b>Increases</b> repair speed by <b>50%</b>.</li><li>Unlocks the <b>sabotage</b> action.</li><li><b>Great Skill Checks</b> detonate a small cluster of firecrackers.</li><li><b>Failed Skill Checks</b> detonate fireworks.</li><br><span class=\"ReminderText\">Repairing a generator requires <b>90</b> charges.</span><br><span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span>",
         "IconFilePathList": "UI/Icons/Items/LunarEvent/iconItems_toolboxLunar.png",
         "ID": "Item_Camper_LunarToolbox"
     },
@@ -615,7 +615,7 @@
         "Rarity": "SpecialEvent",
         "Type": "Item",
         "Name": "Masquerade Toolbox",
-        "Description": "A Toolbox with all of the standard gadgets: wrenches, screwdrivers, fireworks, a hammer...<br><li><b>32 charges</b>.</li><li>Increases repair speed by <b>50%.</b></li><li>Unlocks the <b>sabotage</b> action.</li><li>Detonates a firework once depleted. Yay!</li><br><span class=\"ReminderText\">Repairing a generator requires <b>80</b> charges.</span><br>\n<span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\"Happy Anniversary! We're fixin' to have a big party!\" <br>- The Dead by Daylight Team</span>",
+        "Description": "A Toolbox with all of the standard gadgets: wrenches, screwdrivers, fireworks, a hammer...<br><li><b>32 charges</b>.</li><li>Increases repair speed by <b>50%.</b></li><li>Unlocks the <b>sabotage</b> action.</li><li>Detonates a firework once depleted. Yay!</li><br><span class=\"ReminderText\">Repairing a generator requires <b>90</b> charges.</span><br><span class=\"ReminderText\">Sabotaging a hook requires <b>6</b> charges.</span><br><br><span class=\"FlavorText\">\"Happy Anniversary! We're fixin' to have a big party!\" <br>- The Dead by Daylight Team</span>",
         "IconFilePathList": "UI/Icons/items/Anniversary/iconItems_toolbox_anniversary2022.png",
         "ID": "Item_Camper_Toolbox_Anniversary2022"
     }

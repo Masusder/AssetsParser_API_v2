@@ -26064,7 +26064,7 @@
                         "IsCommunityChallenge": false,
                         "CommunityProgression": "",
                         "Name": "Monstrous Mayhem",
-                        "Description": "Hook a Survivor in the basement while another Survivor is on a basement hook <b>1 time(s)</b> while using the perk <b>Monstrous Shrine</b>.",
+                        "Description": "Hook a Survivor in the basement while another Survivor is on a basement hook <b>1 time(s)</b> while using the perk <b>Scourge Hook: Monstrous Shrine</b>.",
                         "RulesDescription": "<i><li>Complete this challenge in a single trial.</li></i>",
                         "PlayerRole": "Killer",
                         "IconPath": "images/UI/Icons/Archive/questIcons_killer.png",

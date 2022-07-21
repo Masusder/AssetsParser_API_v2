@@ -1,15 +1,51 @@
 # Lib imports
 import json
+import glob
+from jsonmerge import merge
 
 # Local imports
 from utils.format import Format
 
 class TomesDB:
     # Create Tomes
+
+    objectiveDatabase_list = []
+    objectiveDatabase_list.extend(glob.glob("DeadByDaylight\Content\Data\Archives\ArchiveQuestObjectiveDB.json"))
+    objectiveDatabase_list.extend(glob.glob("DeadByDaylight\Content\Data\Archives\*\ArchiveQuestObjectiveDB.json"))
+
+    objectiveDatabase = {}
+    for file in objectiveDatabase_list:
+        try:
+            with open(file, 'r', encoding='utf-8') as file:
+                json_ = json.load(file)
+                for i, value in json_[0]['Rows'].items():
+                    objectiveDatabase[i] = value
+        except Exception as e :
+            print(e)
+    with open("components\questObjectiveDatabase.json", "w+") as text_file:
+            text_file.write(json.dumps(objectiveDatabase, indent=4))
+
+    nodeDatabase_list = []
+    nodeDatabase_list.extend(glob.glob("DeadByDaylight\Content\Data\Archives\ArchiveNodeDB.json"))
+    nodeDatabase_list.extend(glob.glob("DeadByDaylight\Content\Data\Archives\*\ArchiveNodeDB.json"))
+
+    nodeDatabase = {}
+    for file in nodeDatabase_list:
+        try:
+            with open(file, 'r', encoding='utf-8') as file:
+                json_ = json.load(file)
+                
+                for i, value in json_[0]['Rows'].items():
+                    nodeDatabase[i] = value
+        except Exception as e :
+            print(e)
+    with open("components\questNodeDatabase.json", "w+") as text_file:
+            text_file.write(json.dumps(nodeDatabase, indent=4))
+
     def TomeNodesData(parsedValues, nodeID, objectiveID, level):
-        with open('DeadByDaylight\Content\Data\Archives\ArchiveNodeDB.json', 'r') as archiveNode:
+        with open('components\questNodeDatabase.json', 'r') as archiveNode:
             parsedArchiveNode = json.load(archiveNode)
-        with open('DeadByDaylight\Content\Data\Archives\ArchiveQuestObjectiveDB.json', 'r') as archiveQuestObjective:
+        with open('components\questObjectiveDatabase.json', 'r') as archiveQuestObjective:
             parsedQuestObjective = json.load(archiveQuestObjective)
         with open('output\Perks.json', 'r') as perksJson:
             parsedPerks = json.load(perksJson)
@@ -20,7 +56,7 @@ class TomesDB:
         with open('output\Cosmetics.json', 'r') as cosmeticsJson:
             parsedCosmetics = json.load(cosmeticsJson)
 
-        for nodeKey in parsedArchiveNode[0]['Rows']:
+        for nodeKey in parsedArchiveNode:
             if parsedValues['level'][level]['nodes'][nodeID]['clientInfoId'] == 'reward':
                 nodeName = 'Reward'
                 if parsedValues['level'][level]['nodes'][nodeID]['reward'][0]['type'] == 'inventory':
@@ -29,28 +65,28 @@ class TomesDB:
                             iconPath = cosmeticValue['IconFilePathList']
                 else:
                     iconPath = ''
-                playerRole = Format.PrettyRole(parsedArchiveNode[0]['Rows'][nodeKey]['PlayerRole'])
+                playerRole = Format.PrettyRole(parsedArchiveNode[nodeKey]['PlayerRole'])
             if parsedValues['level'][level]['nodes'][nodeID]['clientInfoId'] == 'End':
                 nodeName = 'Epilogue'
                 iconPath = 'images/Archives/StartEndNode.png'
-                playerRole = Format.PrettyRole(parsedArchiveNode[0]['Rows'][nodeKey]['PlayerRole'])
+                playerRole = Format.PrettyRole(parsedArchiveNode[nodeKey]['PlayerRole'])
             if parsedValues['level'][level]['nodes'][nodeID]['clientInfoId'] == 'Start':
                 nodeName = 'Prologue'
                 iconPath = 'images/Archives/StartEndNode.png'
-                playerRole = Format.PrettyRole(parsedArchiveNode[0]['Rows'][nodeKey]['PlayerRole'])
+                playerRole = Format.PrettyRole(parsedArchiveNode[nodeKey]['PlayerRole'])
             if (str(nodeKey).lower() == str(parsedValues['level'][level]['nodes'][nodeID]['clientInfoId']).lower() and parsedValues['level'][level]['nodes'][nodeID]['clientInfoId'] != 'reward'):
-                nodeName = parsedArchiveNode[0]['Rows'][nodeKey]['DisplayName']['SourceString']
-                iconPath = parsedArchiveNode[0]['Rows'][nodeKey]['IconPath']
-                playerRole = Format.PrettyRole(parsedArchiveNode[0]['Rows'][nodeKey]['PlayerRole'])
+                nodeName = parsedArchiveNode[nodeKey]['DisplayName']['SourceString']
+                iconPath = parsedArchiveNode[nodeKey]['IconPath']
+                playerRole = Format.PrettyRole(parsedArchiveNode[nodeKey]['PlayerRole'])
 
         if objectiveID != 'ignore':
-            for objectiveKey in parsedQuestObjective[0]['Rows']:
+            for objectiveKey in parsedQuestObjective:
                 if parsedValues['level'][level]['nodes'][nodeID]['clientInfoId'] == 'reward':
                     objectiveDescription = ''
                 if str(objectiveKey).lower() == str(objectiveID).lower() and parsedValues['level'][level]['nodes'][nodeID]['clientInfoId'] != 'reward':
-                    description = parsedQuestObjective[0]['Rows'][objectiveKey]['Description']['SourceString']
+                    description = parsedQuestObjective[objectiveKey]['Description']['SourceString']
                     try:
-                        rulesDescription = parsedQuestObjective[0]['Rows'][objectiveKey]['RulesDescription']['SourceString']
+                        rulesDescription = parsedQuestObjective[objectiveKey]['RulesDescription']['SourceString']
                     except:
                         rulesDescription = None
                     if objectiveKey == 'RedGlyph':
@@ -68,13 +104,13 @@ class TomesDB:
                     elif objectiveKey == 'OrangeGlyph':
                         description = str(description).replace('_GFX::CQGOIcon', '<img src="images/Archives/Glyphs/ChallengeIcon_orangeGlyph.png" style="vertical-align:middle;" height="25px" width="25px">')
 
-                    objectiveParams = parsedQuestObjective[0]['Rows'][objectiveKey]['DescriptionParameters']
+                    objectiveParams = parsedQuestObjective[objectiveKey]['DescriptionParameters']
                     for i in range(len(objectiveParams)):
                         try:
                             if objectiveParams[i] == 'maxProgression' and not objectiveID == 'HarvestHalloweenPlant':
                                 paramValueRaw = parsedValues['level'][level]['nodes'][nodeID]['objectives'][objectiveID]['neededProgression']
                                 try:
-                                    if parsedQuestObjective[0]['Rows'][objectiveID]['IsProgressionPercentage'] == True:
+                                    if parsedQuestObjective[objectiveID]['IsProgressionPercentage'] == True:
                                         paramValue = int(paramValueRaw / 100)
                                         objectiveParams[i] = paramValue
                                     else:
@@ -112,15 +148,15 @@ class TomesDB:
                             print('Failed')
                         objectiveDescription = description.format(*objectiveParams)
         else:
-            for objectiveKey in parsedQuestObjective[0]['Rows']:
+            for objectiveKey in parsedQuestObjective:
                 if parsedValues['level'][level]['nodes'][nodeID]['clientInfoId'] == 'reward':
                     objectiveDescription = ''
                     rulesDescription = None
                 if parsedValues['level'][level]['nodes'][nodeID]['clientInfoId'] == 'End':
-                    objectiveDescription = parsedArchiveNode[0]['Rows']['End']['Description']['SourceString']
+                    objectiveDescription = parsedArchiveNode['End']['Description']['SourceString']
                     rulesDescription = None
                 if parsedValues['level'][level]['nodes'][nodeID]['clientInfoId'] == 'Start':
-                    objectiveDescription = parsedArchiveNode[0]['Rows']['Start']['Description']['SourceString']
+                    objectiveDescription = parsedArchiveNode['Start']['Description']['SourceString']
                     rulesDescription = None
 
 

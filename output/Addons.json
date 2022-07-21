@@ -211,14 +211,7 @@
     },
     "ADDON_flashlight_highendsapphire": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "High-end Sapphire lens",
         "Description": "A wide lens made of unscratchable sapphire that optimises the power and range of the light beam.<br><li><b>Increases</b> the range of the Flashlight beam by <b>25%</b>.</li><li><b>Increases</b> the width of the Flashlight beam by <b>25%</b>.</li><li><b>Increases</b> the brightness of\u00a0the Flashlight beam by <b>30%</b>.</li><li><b>Increases</b> Blindness duration by <b>15%</b>.</li>",
@@ -230,14 +223,7 @@
     },
     "ADDON_flashlight_intensehalogen": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Intense Halogen",
         "Description": "A chemical bulb that generates an intensely clear light.<br><li><b>Increases</b> the brightness of the Flashlight beam by <b>40%</b>.</li><li><b>Increases</b>\u00a0Blindness duration by <b>20%</b>.</li>",
@@ -249,14 +235,7 @@
     },
     "ADDON_flashlight_lonflifebattery": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Long Life Battery",
         "Description": "A recent model of battery that lasts longer.<br><li>Adds <b>6 seconds</b> of use to the Flashlight.</li>",
@@ -268,14 +247,7 @@
     },
     "ADDON_flashlight_oddbulb": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Odd Bulb",
         "Description": "A heavy and completely opaque bulb of unknown origin which emits a faint light even when turned off.<br><li><b>Increases</b> the brightness of the Flashlight beam by <b>50%</b>.</li><li><b>Increases</b>\u00a0Blindness duration by <b>25%</b>.</li><li><b>Increases</b>\u00a0Flashlight battery consumption by <b>14%</b>.</li>",
@@ -287,14 +259,7 @@
     },
     "ADDON_flashlight_rubbergrip": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Rubber Grip",
         "Description": "A rubber grip specifically fitting Flashlights for more grip.<br><li><b>Increases</b> the accuracy of the Flashlight beam by <b>40%</b>.</li>",
@@ -306,15 +271,7 @@
     },
     "ADDON_medkit_abdominaldressing": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Abdominal Dressing",
         "Description": "A highly absorbent pad that prevents bodily fluid leakage when applied to large abdominal wounds.<br><li><b>Increases</b> healing speed by <b>25%</b>.</li><li><b>Decreases</b> Med-kit charges by <b>8</b>.</li>",
@@ -326,15 +283,7 @@
     },
     "ADDON_medkit_gauzeroll": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Gauze Roll",
         "Description": "A sterile gauze used for a variety of wounds. Part of a total wound care system.<br><li>Adds <b>12 charges</b> to the Med-kit.</li>",
@@ -346,15 +295,7 @@
     },
     "ADDON_medkit_needleandthread": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Needle & Thread",
         "Description": "Not exactly a medical device, however it can be used to quickly and painfully close up a wound.<br><li><b>Increases</b> the chances of triggering a Skill Check by <b>10%</b>.</li><li><b>100% Bonus Bloodpoints</b> granted for succeeding Great Skill Checks.</li><li><b>Increases</b> healing speed by <b>15%</b>.</li>",
@@ -366,15 +307,7 @@
     },
     "ADDON_medkit_selfadherentwrap": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Self Adherent Wrap",
         "Description": "A pack of bandages that sticks to themselves without the need of clips for a faster patch-up that requires less readjustments.<br><li>Adds <b>8 charges</b> to the Med-kit.</li><li><b>Increases</b> healing speed by <b>5%</b>.</li>",
@@ -386,15 +319,7 @@
     },
     "ADDON_medkit_surgicalsuture": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Surgical Suture",
         "Description": "A medical device used to close and hold body tissue. Even though it's very effective, the surgical suture is challenging to use.<br><li><b>Increases</b> the chances of triggering a Skill Check by <b>15%</b>.</li><li><b>150% Bonus Bloodpoints</b> granted for succeeding Great Skill Checks.</li><li><b>Increases</b> healing speed by <b>15%</b>.</li>",
@@ -406,17 +331,7 @@
     },
     "ADDON_toolbox_cuttingwire": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_WornoutToolbox",
-            "Item_Camper_Toolbox",
-            "Item_Camper_MechanicsToolbox",
-            "Item_Camper_CommodiousToolbox",
-            "Item_Camper_EngineerToolbox",
-            "Item_Camper_AlexsToolbox",
-            "Item_Camper_LunarToolbox",
-            "Item_Camper_AnniversaryToolbox",
-            "Item_Camper_Toolbox_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Cutting Wire",
         "Description": "A rudimentary cutting tool made from a jagged metal wire and two wooden handles.<br><li><b>Increases</b> the Toolbox's sabotage speed by <b>15%</b>.</li>",
@@ -428,17 +343,7 @@
     },
     "ADDON_toolbox_socketswivels": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_WornoutToolbox",
-            "Item_Camper_Toolbox",
-            "Item_Camper_MechanicsToolbox",
-            "Item_Camper_CommodiousToolbox",
-            "Item_Camper_EngineerToolbox",
-            "Item_Camper_AlexsToolbox",
-            "Item_Camper_LunarToolbox",
-            "Item_Camper_AnniversaryToolbox",
-            "Item_Camper_Toolbox_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Socket Swivels",
         "Description": "Swivels provide bend and flexibility for bolts that are out of reach, deep within mechanical devices.<br><li><b>Increases</b> the Toolbox repair speed by <b>30%</b>.</li>",
@@ -450,17 +355,7 @@
     },
     "ADDON_toolbox_springclamp": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_WornoutToolbox",
-            "Item_Camper_Toolbox",
-            "Item_Camper_MechanicsToolbox",
-            "Item_Camper_CommodiousToolbox",
-            "Item_Camper_EngineerToolbox",
-            "Item_Camper_AlexsToolbox",
-            "Item_Camper_LunarToolbox",
-            "Item_Camper_AnniversaryToolbox",
-            "Item_Camper_Toolbox_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Spring Clamp",
         "Description": "Useful tool to clamp hoses or hold wires in place and prevent damage or injury.<br><li>The distance at which your repairs can be heard is reduced by <b>8 meters</b>.</li>",
@@ -1104,8 +999,8 @@
         "Type": "ItemAddOn",
         "ParentItem": [],
         "KillerAbility": "None",
-        "Name": "@#ADDON_firecracker_blackpowder_NAME",
-        "Description": "@#ADDON_firecracker_blackpowder_DESC",
+        "Name": "ADDON_firecracker_blackpowder_NAME",
+        "Description": "ADDON_firecracker_blackpowder_DESC",
         "Role": "Camper",
         "Rarity": "Rare",
         "CanBeUsedAfterEvent": false,
@@ -1116,8 +1011,8 @@
         "Type": "ItemAddOn",
         "ParentItem": [],
         "KillerAbility": "None",
-        "Name": "@#ADDON_firecracker_buckshot_NAME",
-        "Description": "@#ADDON_firecracker_buckshot_DESC",
+        "Name": "ADDON_firecracker_buckshot_NAME",
+        "Description": "ADDON_firecracker_buckshot_DESC",
         "Role": "Camper",
         "Rarity": "Common",
         "CanBeUsedAfterEvent": false,
@@ -1128,8 +1023,8 @@
         "Type": "ItemAddOn",
         "ParentItem": [],
         "KillerAbility": "None",
-        "Name": "@#ADDON_firecracker_flashpowder_NAME",
-        "Description": "@#ADDON_firecracker_flashpowder_DESC",
+        "Name": "ADDON_firecracker_flashpowder_NAME",
+        "Description": "ADDON_firecracker_flashpowder_DESC",
         "Role": "Camper",
         "Rarity": "Common",
         "CanBeUsedAfterEvent": false,
@@ -1140,8 +1035,8 @@
         "Type": "ItemAddOn",
         "ParentItem": [],
         "KillerAbility": "None",
-        "Name": "@#ADDON_firecracker_gunpowder_NAME",
-        "Description": "@#ADDON_firecracker_gunpowder_DESC",
+        "Name": "ADDON_firecracker_gunpowder_NAME",
+        "Description": "ADDON_firecracker_gunpowder_DESC",
         "Role": "Camper",
         "Rarity": "Uncommon",
         "CanBeUsedAfterEvent": false,
@@ -1152,8 +1047,8 @@
         "Type": "ItemAddOn",
         "ParentItem": [],
         "KillerAbility": "None",
-        "Name": "@#ADDON_firecracker_largepack_NAME",
-        "Description": "@#ADDON_firecracker_largepack_DESC",
+        "Name": "ADDON_firecracker_largepack_NAME",
+        "Description": "ADDON_firecracker_largepack_DESC",
         "Role": "Camper",
         "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
@@ -1164,8 +1059,8 @@
         "Type": "ItemAddOn",
         "ParentItem": [],
         "KillerAbility": "None",
-        "Name": "@#ADDON_firecracker_longfuse_NAME",
-        "Description": "@#ADDON_firecracker_longfuse_DESC",
+        "Name": "ADDON_firecracker_longfuse_NAME",
+        "Description": "ADDON_firecracker_longfuse_DESC",
         "Role": "Camper",
         "Rarity": "Uncommon",
         "CanBeUsedAfterEvent": false,
@@ -1176,8 +1071,8 @@
         "Type": "ItemAddOn",
         "ParentItem": [],
         "KillerAbility": "None",
-        "Name": "@#ADDON_firecracker_magnesiumpowder_NAME",
-        "Description": "@#ADDON_firecracker_magnesiumpowder_DESC",
+        "Name": "ADDON_firecracker_magnesiumpowder_NAME",
+        "Description": "ADDON_firecracker_magnesiumpowder_DESC",
         "Role": "Camper",
         "Rarity": "Uncommon",
         "CanBeUsedAfterEvent": false,
@@ -1188,8 +1083,8 @@
         "Type": "ItemAddOn",
         "ParentItem": [],
         "KillerAbility": "None",
-        "Name": "@#ADDON_firecracker_mediumfuse_NAME",
-        "Description": "@#ADDON_firecracker_mediumfuse_DESC",
+        "Name": "ADDON_firecracker_mediumfuse_NAME",
+        "Description": "ADDON_firecracker_mediumfuse_DESC",
         "Role": "Camper",
         "Rarity": "Common",
         "CanBeUsedAfterEvent": false,
@@ -1198,14 +1093,7 @@
     },
     "Addon_Flashlight_001": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Battery",
         "Description": "A standard battery of unknown brand.<br><li>Adds <b>2 seconds</b> of use to the Flashlight.</li><br><span class=\"FlavorText\">\"Another nearly empty battery.\"</span>",
@@ -1217,14 +1105,7 @@
     },
     "Addon_Flashlight_002": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Heavy Duty Battery",
         "Description": "A battery marked as \"industrial strength.\"<br><li>Adds <b>4 seconds</b> of use to the Flashlight.</li><br><span class=\"FlavorText\">\"A battery advertised as \"long-lasting\" lasts only a few of seconds in The Black Fog.\"</span>",
@@ -1236,14 +1117,7 @@
     },
     "Addon_Flashlight_003": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Focus Lens",
         "Description": "A thick glass lens that focuses the Flashlight beam to increase its intensity.<br><li><b>Increases</b> the range of the Flashlight beam by <b>25%</b>.</li><li><b>Decreases</b> the width of the Flashlight beam by <b>15%</b>.</li><li><b>Increases</b> the brightness of the Flashlight beam by <b>20%</b>.</li><li><b>Increases</b>\u00a0Blindness duration by <b>10%</b>.</li>",
@@ -1255,14 +1129,7 @@
     },
     "Addon_Flashlight_004": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Wide Lens",
         "Description": "A thin wide lens in perfect condition. Designed to spread the Flashlight beam at the cost of reducing its range of effectiveness.<br><li><b>Decreases</b> the range of the Flashlight beam by <b>25%</b>.</li><li><b>Increases</b> the width of the Flashlight beam by <b>25%</b>.</li>",
@@ -1274,14 +1141,7 @@
     },
     "Addon_Flashlight_005": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Power Bulb",
         "Description": "A tiny Flashlight bulb that packs more wattage for a brighter, more powerful light beam.<br><li><b>Increases</b> the brightness of the Flashlight beam by <b>20%</b>.</li><li><b>Increases</b>\u00a0Blindness duration by <b>10%</b>.</li><br><span class=\"FlavorText\">\"Even the most powerful light cannot pierce through The Black Fog's darkness.\"</span>",
@@ -1293,14 +1153,7 @@
     },
     "Addon_Flashlight_006": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "TIR Optic",
         "Description": "A lens and reflector combo which can magnify a Flashlight's beam.<br><li><b>Increases</b> the brightness of the Flashlight beam by <b>30%</b>.</li><li><b>Increases</b>\u00a0Blindness duration by <b>15%</b>.</li><br><span class=\"FlavorText\">\"Let the light burn them out of their dark shroud.\"</span>",
@@ -1312,14 +1165,7 @@
     },
     "Addon_Flashlight_007": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Low Amp Filament",
         "Description": "A filament bulb designed to extend a Flashlight battery's life.<br><li><b>Decreases</b> Flashlight battery consumption by <b>20%</b>.</li>",
@@ -1331,14 +1177,7 @@
     },
     "Addon_Flashlight_008": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Leather Grip",
         "Description": "A leather strip wrapped around the Flashlight for more grip.<br><li><b>Increases</b> the accuracy of the Flashlight beam by <b>20%</b>.</li><br><span class=\"FlavorText\">\"Too many have fallen due to sweaty hands.\"</span>",
@@ -1350,11 +1189,7 @@
     },
     "Addon_Key_001": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Key",
-            "Item_Camper_DullKey",
-            "Item_Camper_BrokenKey"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Prayer Rope",
         "Description": "Tightly knitted rope used in praying rituals. Can be attached to the Key.<br><li>Adds <b>10 seconds</b> of use to the Key.</li><br><span class=\"FlavorText\">\"Pray all you want, your words are getting lost somewhere up there, in The Fog.\"</span>",
@@ -1366,11 +1201,7 @@
     },
     "Addon_Key_002": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Key",
-            "Item_Camper_DullKey",
-            "Item_Camper_BrokenKey"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Prayer Beads",
         "Description": "A chain of matte beads of various sizes used in praying rituals. Can be attached to the Key.<br><li>Adds <b>15 seconds</b> of use to the Key.</li>",
@@ -1382,11 +1213,7 @@
     },
     "Addon_Key_003": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Key",
-            "Item_Camper_DullKey",
-            "Item_Camper_BrokenKey"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Eroded Token",
         "Description": "A heavily worn out token made of brass. If an inscription or drawing was once engraved in it, it has today completely disappeared. Can be attached to the Key using its jump ring to channel the Key's aura reading ability.<br><li>Reveals Survivor auras when within <b>24 meters</b>.</li>",
@@ -1398,11 +1225,7 @@
     },
     "Addon_Key_004": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Key",
-            "Item_Camper_DullKey",
-            "Item_Camper_BrokenKey"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Gold Token",
         "Description": "A gold token with a dull appearance. Both faces are smooth and void of any inscriptions. Can be attached to the Key using its jump ring to channel the key's aura reading ability.<br><li>Reveals <b>Survivor auras</b> when within a <b>48 meter</b> range.</li>",
@@ -1414,11 +1237,7 @@
     },
     "Addon_Key_005": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Key",
-            "Item_Camper_DullKey",
-            "Item_Camper_BrokenKey"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Blood Amber",
         "Description": "A blood-red amber striped with black veins. The amber is warm to the touch. Can be attached to the Key using its jump ring to channel the key's aura reading ability.<br><li>Reveals the Killer's aura within a <b>32 meter</b> range.</li><li><b>Increases</b> the Key's energy usage by <b>100%</b>.</li>",
@@ -1430,11 +1249,7 @@
     },
     "Addon_Key_006": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Key",
-            "Item_Camper_DullKey",
-            "Item_Camper_BrokenKey"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Milky Glass",
         "Description": "This opaque piece of glass emits a dull vibrating noise. When the Key is used to unlock the Hatch, the glass token protects the Key from breaking, channeling The Fog's energy into the glass.<br><li>Do not lose the Key when unlocking the Hatch, lose this add-on instead.</li>",
@@ -1446,11 +1261,7 @@
     },
     "Addon_Key_007": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Key",
-            "Item_Camper_DullKey",
-            "Item_Camper_BrokenKey"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Weaved Ring",
         "Description": "A mundane key ring in appearance with an unusual bluish dark sheen. The ring binds the Key to the user, preventing its loss even in the darkest of times.<br><li>Do not lose the Key on death, lose this add-on instead.</li>",
@@ -1462,11 +1273,7 @@
     },
     "Addon_Key_008": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Key",
-            "Item_Camper_DullKey",
-            "Item_Camper_BrokenKey"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Scratched Pearl",
         "Description": "A porous and scratched white pearl. A minuscule jump ring allows the pearl to be attached to the Key.<br><li><b>Increases</b> the range of the Key's aura reading ability by <b>12 meters</b>.</li>",
@@ -1478,11 +1285,7 @@
     },
     "Addon_Key_WeddingRing": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Key",
-            "Item_Camper_DullKey",
-            "Item_Camper_BrokenKey"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Unique Wedding Ring",
         "Description": "An engraved wedding ring that emerged from The Fog and resonates with an indescribable and incomprehensible energy. <li>Reveals the <b>Obsession's aura</b> at all times, without the need to channel the Key's energy.</li><li><b>Decreases</b> your chances to be The Killer\u2019s Obsession.</li>",
@@ -1494,10 +1297,7 @@
     },
     "Addon_Map_001": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_BeigeMap",
-            "Item_Camper_RainbowMap"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Map Addendum",
         "Description": "A fragmented piece of a thick fibrous material. A partial and faded Map is drawn on it which by itself is useless.<br><li>Adds a <b>5 second charge</b> to any Map.</li>",
@@ -1509,10 +1309,7 @@
     },
     "Addon_Map_002": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_BeigeMap",
-            "Item_Camper_RainbowMap"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Retardant Jelly",
         "Description": "A slimy, translucent substance with a ghastly lavender shade. This jelly from unknown origin is highly resistant to heat.<br><li><b>Slows down</b> the burning rate of the Map by <b>20%</b>.</li>",
@@ -1524,10 +1321,7 @@
     },
     "Addon_Map_003": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_BeigeMap",
-            "Item_Camper_RainbowMap"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Glass Bead",
         "Description": "A strange bead circled with gold that can be used to magnify the Map and mark a specific position. The bead emits an energy which can be felt and seen by Survivors.<br><li>Unlocks the marker ability on the <i>Secondary Action</i> button</i>.</li><li>Creates a marker that can be seen by all Survivors.</li>",
@@ -1539,10 +1333,7 @@
     },
     "Addon_Map_004": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_BeigeMap",
-            "Item_Camper_RainbowMap"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Crystal Bead",
         "Description": "An intricate set of lenses wrapped up in an astonishingly complex apparatus. The gears controlling the lenses' focus move by themselves as to focus on something invisible to humans.<br><li>Every Survivor sees the aura generated by the Map when the owner activates it.</li>",
@@ -1554,10 +1345,7 @@
     },
     "Addon_Map_005": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_BeigeMap",
-            "Item_Camper_RainbowMap"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Odd Stamp",
         "Description": "A stamp carved out of sturdy blonde wood. The text found at the base is incomprehensible: \"kw'zvre'od\". Can be used with a Map.<br><li><b>Increases</b> the range of the Map tracking ability by <b>12 meters</b>.</li>",
@@ -1569,10 +1357,7 @@
     },
     "Addon_Map_006": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_BeigeMap",
-            "Item_Camper_RainbowMap"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Unusual Stamp",
         "Description": "A wooden stamp with a crosshatched rubber pad used to mark documents. It is unclear as to how or by whom this stamp was originally used. Can be used with a Map.<br><li><b>Increases</b> the range of the Map tracking ability by <b>8 meters</b>.</li>",
@@ -1584,10 +1369,7 @@
     },
     "Addon_Map_007": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_BeigeMap",
-            "Item_Camper_RainbowMap"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Black Silk Cord",
         "Description": "A smooth black cord with a soft appearance. Can be tied around a Map to enhance its aura reading ability.<br><li>Unlocks the ability to <b>track the Hatch</b>.</li>",
@@ -1599,10 +1381,7 @@
     },
     "Addon_Map_008": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_BeigeMap",
-            "Item_Camper_RainbowMap"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Red Twine",
         "Description": "A bristly and rough piece of twine of a deep red color. Can be tied around a Map to enhance its aura reading ability.<br><li>Unlocks the ability to <b>track the Killer's belongings</b>.</li>",
@@ -1614,10 +1393,7 @@
     },
     "Addon_Map_009": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_BeigeMap",
-            "Item_Camper_RainbowMap"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Yellow Wire",
         "Description": "A small electrical wire. Both ends are heavily damaged like it has been forcefully torn out of its intended location. Can be tied around a Map to enhance its aura reading ability.<br><li>Unlocks the ability to <b>track exit gates</b>.</li>",
@@ -1629,15 +1405,7 @@
     },
     "Addon_Medkit_001": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Bandages",
         "Description": "A pack of bandages usually found in first aid kits.<br><li>Adds <b>8 charges</b> to the Med-kit.</li>",
@@ -1649,15 +1417,7 @@
     },
     "Addon_Medkit_002": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Gel Dressings",
         "Description": "A pack of gel forming pads used to patch up heavily exudating wounds.<br><li>Adds <b>16 charges</b> to the Med-kit.</li>",
@@ -1669,15 +1429,7 @@
     },
     "Addon_Medkit_003": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Medical Scissors",
         "Description": "Scissors designed to easily cut through textiles.<br><li><b>Increases</b> healing speed by <b>15%</b>.</li>",
@@ -1689,15 +1441,7 @@
     },
     "Addon_Medkit_004": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Butterfly Tape",
         "Description": "Medical quality tape used to close small wounds.<br><li><b>Increases</b> healing speed by <b>5%</b>.</li>",
@@ -1709,15 +1453,7 @@
     },
     "Addon_Medkit_005": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Sponge",
         "Description": "A mundane sponge used to soak up extra blood, providing easier access to wounds.<br><li><b>Increases</b> progression bonus for succeeding Great Skill Checks by <b>5%</b>.</li>",
@@ -1729,15 +1465,7 @@
     },
     "Addon_Medkit_006": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Rubber Gloves",
         "Description": "Disposable medical gloves to avoid cross-contamination.<br><li><b>Increases</b> progression bonus for succeeding Great Skill Checks by <b>3%</b>.</li>",
@@ -1749,15 +1477,7 @@
     },
     "Addon_Medkit_007": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Styptic Agent",
         "Description": "A white powder with coagulant properties. Apply the agent to a wound to stop it from hemorrhaging.<br><li>Press the <i>Secondary Action</i> button while healing with the Med-kit to use the Styptic Agent.</li><li>When the <i>Styptic Agent</i> is used on an injured Survivor, they gain <b>Endurance</b> for <b>8 seconds</b>.</li><li>Consumes the Med-kit on use.</li><br><span class=\"ReminderText\">Endurance prevents a Survivor from being downed, inflicting Deep Wound instead.<br>Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out.</span>",
@@ -1769,15 +1489,7 @@
     },
     "Addon_Medkit_008": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Anti-Hemorrhagic Syringe",
         "Description": "An anti-hemorrhagic substance that stops the bleeding in a matter of seconds.<br><li>Press the <i>Secondary Action</i> button while healing with the Med-kit to use the Anti-Hemorrhagic Syringe.</li><li>The affected Survivor will gain a health state <b>16 seconds</b> after use.</li><li>The time required is modified by perks, items and add-ons that affect <i>Healing Speeds</i>.</li><li>This effect is canceled when the affected Survivor changes health state or is picked up.</li><li>Consumes the Med-kit on use.</li>",
@@ -2069,17 +1781,7 @@
     },
     "Addon_Toolbox_001": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_WornoutToolbox",
-            "Item_Camper_Toolbox",
-            "Item_Camper_MechanicsToolbox",
-            "Item_Camper_CommodiousToolbox",
-            "Item_Camper_EngineerToolbox",
-            "Item_Camper_AlexsToolbox",
-            "Item_Camper_LunarToolbox",
-            "Item_Camper_AnniversaryToolbox",
-            "Item_Camper_Toolbox_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Scraps",
         "Description": "Springs, screws and gears. Mostly unusable junk.<br><li>Adds <b>8 charges</b> to the Toolbox.</li>",
@@ -2091,17 +1793,7 @@
     },
     "Addon_Toolbox_002": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_WornoutToolbox",
-            "Item_Camper_Toolbox",
-            "Item_Camper_MechanicsToolbox",
-            "Item_Camper_CommodiousToolbox",
-            "Item_Camper_EngineerToolbox",
-            "Item_Camper_AlexsToolbox",
-            "Item_Camper_LunarToolbox",
-            "Item_Camper_AnniversaryToolbox",
-            "Item_Camper_Toolbox_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Wire Spool",
         "Description": "A portable but heavy spool of copper wire.<br><li>Adds <b>12 charges</b> to the Toolbox.</li>",
@@ -2113,17 +1805,7 @@
     },
     "Addon_Toolbox_003": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_WornoutToolbox",
-            "Item_Camper_Toolbox",
-            "Item_Camper_MechanicsToolbox",
-            "Item_Camper_CommodiousToolbox",
-            "Item_Camper_EngineerToolbox",
-            "Item_Camper_AlexsToolbox",
-            "Item_Camper_LunarToolbox",
-            "Item_Camper_AnniversaryToolbox",
-            "Item_Camper_Toolbox_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Clean Rag",
         "Description": "A mundane rag. Suspiciously clean.<br><li><b>Increases</b> the Toolbox's repair speed by <b>20%</b>.</li>",
@@ -2135,17 +1817,7 @@
     },
     "Addon_Toolbox_004": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_WornoutToolbox",
-            "Item_Camper_Toolbox",
-            "Item_Camper_MechanicsToolbox",
-            "Item_Camper_CommodiousToolbox",
-            "Item_Camper_EngineerToolbox",
-            "Item_Camper_AlexsToolbox",
-            "Item_Camper_LunarToolbox",
-            "Item_Camper_AnniversaryToolbox",
-            "Item_Camper_Toolbox_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Grip Wrench",
         "Description": "An adjustable wrench with a tough grip. Essential in any Toolbox.<br><li>Hooks sabotaged using the Toolbox take an extra <b>15 seconds</b> to respawn.</li>",
@@ -2157,17 +1829,7 @@
     },
     "Addon_Toolbox_005": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_WornoutToolbox",
-            "Item_Camper_Toolbox",
-            "Item_Camper_MechanicsToolbox",
-            "Item_Camper_CommodiousToolbox",
-            "Item_Camper_EngineerToolbox",
-            "Item_Camper_AlexsToolbox",
-            "Item_Camper_LunarToolbox",
-            "Item_Camper_AnniversaryToolbox",
-            "Item_Camper_Toolbox_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Hacksaw",
         "Description": "A small hand saw mounted with a metal cutting blade.<br><li><b>Increases</b> the Toolbox's sabotage speed by <b>20%</b>.</li>",
@@ -2179,17 +1841,7 @@
     },
     "Addon_Toolbox_006": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_WornoutToolbox",
-            "Item_Camper_Toolbox",
-            "Item_Camper_MechanicsToolbox",
-            "Item_Camper_CommodiousToolbox",
-            "Item_Camper_EngineerToolbox",
-            "Item_Camper_AlexsToolbox",
-            "Item_Camper_LunarToolbox",
-            "Item_Camper_AnniversaryToolbox",
-            "Item_Camper_Toolbox_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Protective Gloves",
         "Description": "Thick gloves which reduce manual dexterity but protect hands from injury.<br><li>Prevents the Killer from being notified when sabotaging a hook with the Toolbox.</li>",
@@ -2201,17 +1853,7 @@
     },
     "Addon_Toolbox_007": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_WornoutToolbox",
-            "Item_Camper_Toolbox",
-            "Item_Camper_MechanicsToolbox",
-            "Item_Camper_CommodiousToolbox",
-            "Item_Camper_EngineerToolbox",
-            "Item_Camper_AlexsToolbox",
-            "Item_Camper_LunarToolbox",
-            "Item_Camper_AnniversaryToolbox",
-            "Item_Camper_Toolbox_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Brand New Part",
         "Description": "This intricate mechanical part feels oddly out of place. It is clean and shiny as if straight out of the factory.<br><li><b>Toolbox Repair</b> action is replaced with <b>Install Brand New Part</b>.</li><li>Installing the <i>Brand New Part</i> will automatically repair <b>15%</b> of a generator over <b>5 seconds</b>.</li><li>During the installation, you will be faced with <b>2 difficult Skill Checks</b>.</li><li>Successfully hitting a Skill Check will result in an additional <b>5% generator repair progress</b>, up to a total of <b>25% generator repair progress</b>.</li><li><i>This add-on is consumed after use.</i></li>",
@@ -2223,17 +1865,7 @@
     },
     "Addon_Toolbox_008": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_WornoutToolbox",
-            "Item_Camper_Toolbox",
-            "Item_Camper_MechanicsToolbox",
-            "Item_Camper_CommodiousToolbox",
-            "Item_Camper_EngineerToolbox",
-            "Item_Camper_AlexsToolbox",
-            "Item_Camper_LunarToolbox",
-            "Item_Camper_AnniversaryToolbox",
-            "Item_Camper_Toolbox_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Instructions",
         "Description": "Someone quickly painted what seems to be repair instructions on this piece of bark.<br><li>Eliminates Skill Checks while repairing with the Toolbox.</li>",
@@ -2502,7 +2134,7 @@
         ],
         "KillerAbility": "K22Power",
         "Name": "Silencing Cloth",
-        "Description": "A coarse strip of cloth that a five-year-old Charlotte would put in her mouth. Stopped her from screaming when witch hunters were nearby.<br><li><b>Charlotte</b> gains <b>Undetectable</b> for <b>20 seconds</b> after waking from her dormant state.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red stain.</span><br><br><span class=\"FlavorText\">\"I don\u2019t like this game anymore, Mother...\" \u2014 Charlotte Deshayes</span>",
+        "Description": "A coarse strip of cloth that a five-year-old Charlotte would put in her mouth. Stopped her from screaming when witch hunters were nearby.<br><li><b>Charlotte</b> gains <b>Undetectable</b> for <b>20 seconds</b> after waking from her dormant state.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span><br><br><span class=\"FlavorText\">\"I don\u2019t like this game anymore, Mother...\" \u2014 Charlotte Deshayes</span>",
         "Role": "Killer",
         "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
@@ -2880,7 +2512,7 @@
         ],
         "KillerAbility": "ThrowingKnives",
         "Name": "On Target Single",
-        "Description": "An underground single produced by Ji-Woon before achieving fame. Only the biggest NO SPIN fans collected this hidden gem.<br><li><b>Increases</b> time before Laceration starts decaying by <b>1 seconds</b>.</li>",
+        "Description": "An underground single produced by Ji-Woon before achieving fame. Only the biggest NO SPIN fans collected this hidden gem.<br><li><b>Increases</b> time before Laceration starts decaying by <b>2 seconds</b>.</li>",
         "Role": "Killer",
         "Rarity": "Uncommon",
         "CanBeUsedAfterEvent": false,
@@ -3636,7 +3268,7 @@
         ],
         "KillerAbility": "Killer07Ability",
         "Name": "Iridescent King",
-        "Description": "A glass-like king chess piece molded from The Fog Itself. The Entity's trace reverberating within can break the most powerful minds.<br>Survivors with <b>Madness</b> status effect suffer from the following <i>Afflictions: Calm, Discipline, Order,</i> and <i>Restraint</i>.<li><b>Intermittently</b> causes Survivors to hear a distant <i>illusionary Terror Radius</i>.</li><li>While in a chase, Survivors perceive an <i>illusionary Red Stain</i> and <i>Terror Radiu</i>s as though <b>The Doctor</b> were directly behind them. This effect persists for <b>6 seconds</b> after the chase ends in <b>Madness II</b> and is constantly active in <b>Madness III</b>.</li><li>Broken pallets may appear to be replaced with <i>illusionary pallets</i> that persist until approached. A new <i>illusionary pallets</i> is generated at the location of a random broken pallet every <b>20 seconds</b>.</li><li><b>Increases</b> the duration of <i>illusionary Doctor hallucinations</i> by <b>6 seconds</b>.</li><li><b>The Doctor</b> sees <i>illusionary Red Stains</i> as well as the auras of <i>illusionary Doctors and illusionary pallets</i>.</li><br><span class=\"FlavorText\">\"Gazing in the iridescent glass is plunging oneself into madness\" -Unsigned Notes</span>",
+        "Description": "A glass-like king chess piece molded from The Fog Itself. The Entity's trace reverberating within can break the most powerful minds.<br>Survivors with <b>Madness</b> status effect suffer from the following <i>Afflictions: Calm, Discipline, Order,</i> and <i>Restraint</i>.<li>Causes Survivors to hear a distant <i>illusionary Terror Radius</i>. The effect is intermittent in <b>Madness II</b> and constant in <b>Madness III</b>.</li><li>While in a chase, Survivors perceive an <i>illusionary Red Stain</i> and <i>Terror Radiu</i>s as though <b>The Doctor</b> were directly behind them. This effect persists for <b>6 seconds</b> after the chase ends in <b>Madness II</b> and is constantly active in <b>Madness III</b>.</li><li>Broken pallets may appear to be replaced with <i>illusionary pallets</i> that persist until approached. A new <i>illusionary pallets</i> is generated at the location of a random broken pallet every <b>20 seconds</b>.</li><li><b>Increases</b> the duration of <i>illusionary Doctor hallucinations</i> by <b>6 seconds</b>.</li><li><b>The Doctor</b> sees <i>illusionary Red Stains</i> as well as the auras of <i>illusionary Doctors and illusionary pallets</i>.</li><br><span class=\"FlavorText\">\"Gazing in the iridescent glass is plunging oneself into madness\" -Unsigned Notes</span>",
         "Role": "Killer",
         "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
@@ -4126,7 +3758,7 @@
         ],
         "KillerAbility": "K24Power",
         "Name": "NE-\u03b1 Parasite",
-        "Description": "A parasite used in the development of Nemesis T-Types, it\u2019s capable of hijacking its host\u2019s brain.<li>Becoming Contaminated inflicts <b>Oblivious</b> for <b>60 seconds</b>.</li><br><span class = \"ReminderText\">Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.</span>",
+        "Description": "A parasite used in the development of Nemesis T-Types, it\u2019s capable of hijacking its host\u2019s brain.<li>Becoming Contaminated inflicts <b>Oblivious</b> for <b>60 seconds</b>, or until the Survivor receives a Vaccine.</li><br><span class = \"ReminderText\">Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.</span>",
         "Role": "Killer",
         "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
@@ -5820,7 +5452,7 @@
         ],
         "KillerAbility": "K26Power",
         "Name": "Thorny Nest",
-        "Description": "A nest that remained empty near Carmina's home. There are sharp thorns embedded in it.<br><li>Survivors damaged by a <b>Dire Crow</b> are afflicted with the <b>Hemorrhage</b> and <b>Mangled</b> status effects.</li><br><span class=\"ReminderText\">Hemorrhage\u00a0regresses healing progress when not healing, and increases blood trails left by injured survivors.<br>Mangled increases time required to heal by 25% and lasts until fully healed.</span>",
+        "Description": "A nest that remained empty near Carmina's home. There are sharp thorns embedded in it.<br><li>Survivors damaged by a <b>Dire Crow</b> are afflicted with the <b>Hemorrhage</b> and <b>Mangled</b> status effects.</li><br><span class=\"ReminderText\">Hemorrhage\u00a0regresses healing progress when not healing, and increases blood trails left by injured Survivors.<br>Mangled increases time required to heal by 25% and lasts until fully healed.</span>",
         "Role": "Killer",
         "Rarity": "Rare",
         "CanBeUsedAfterEvent": false,
@@ -6170,7 +5802,7 @@
         ],
         "KillerAbility": "Frenzy",
         "Name": "Stab Wounds Study",
-        "Description": "A printed medical article stolen from Ormond's public library vulgarizing a study on lesions and stab wounds.<br><li>The auras of Survivors who self-mend a <b>Deep Wound</b> from <b>Feral Frenzy</b> are shown for <b>4 seconds</b> afterward.</li><br><span class = \"ReminderText\">Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out.</span>",
+        "Description": "A printed medical article stolen from Ormond's public library vulgarizing a study on lesions and stab wounds.<br><li>The auras of Survivors who self-mend a Deep Wound from <b>Feral Frenzy</b> are shown for <b>4 seconds</b> afterward.</li><br><span class = \"ReminderText\">Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out.</span>",
         "Role": "Killer",
         "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
@@ -6856,7 +6488,7 @@
         ],
         "KillerAbility": "K28Power",
         "Name": "Haddie\u2019s Calendar",
-        "Description": "She planned to cross out each day until her parents took her to India, but when tragedy struck, she abandoned her calendar.<br><li><b>Decreases</b> the time to exit a locker by <b>1 second</b>.</li>",
+        "Description": "She planned to cross out each day until her parents took her to India, but when tragedy struck, she abandoned her calendar.<br><li><b>Decreases</b> the time to exit a locked locker by <b>1 second</b>.</li>",
         "Role": "Killer",
         "Rarity": "Uncommon",
         "CanBeUsedAfterEvent": false,
@@ -6982,7 +6614,7 @@
         ],
         "KillerAbility": "K28Power",
         "Name": "Boat Key",
-        "Description": "Only one boat allowed people on and off the island, and the keys were hidden away to prevent deserters.<br><li><b>Increases</b> <b>Teleport</b> speed by <b>25%</b> while not in <b>Nightfall</b>.</li><li>When the generators are powered up, all active Locks are instantly broken.</li>",
+        "Description": "Only one boat allowed people on and off the island, and the keys were hidden away to prevent deserters.<br><li><b>Increases</b> <b>Teleport</b> speed by <b>25%</b> while not in <b>Nightfall</b>.</li><li>When the generators are powered up, all active locks are instantly broken.</li>",
         "Role": "Killer",
         "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
@@ -7066,7 +6698,7 @@
         ],
         "KillerAbility": "GhostStalker",
         "Name": "Driver's License",
-        "Description": "A driver\u2019s license revealing Olsen\u2019s true identity: Danny Johnson.<br><li><b>Decreases</b> the maximum range at which <b>The Ghost Face</b> can be revealed while <b>Night Shroud</b> is active by <b>8 meters</b>.</li><br><span class=\"FlavorText\">\"They all want to know who The Ghost Face is. But what they should ask is, who\u2019s next.\" -The Ghost Face</span>",
+        "Description": "A driver\u2019s license revealing Olsen\u2019s true identity: Danny Johnson.<br><li>When Marking a Survivor repairing a generator, the generator explodes and loses <b>20% progress</b>.</li><li>The affected generator becomes blocked for <b>15 seconds</b>.</li><li>When Marking multiple Survivors at the same time, the loss of progress only applies once.</li><br><span class=\"FlavorText\">\"They all want to know who The Ghost Face is. But what they should ask is, who\u2019s next.\" -The Ghost Face</span>",
         "Role": "Killer",
         "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
@@ -8704,7 +8336,7 @@
         ],
         "KillerAbility": "TormentMode",
         "Name": "Obsidian Goblet\u00a0",
-        "Description": "An ancient looking goblet carved from pure obsidian.<li>Grants <b>Undetectable</b> while standing on a <b>Rites of Judgment</b> trail.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, terror radius, and red stain.</span><Br><br><span class=\"FlavorText\">\u201cForgive me for waking you. But without you, I just can\u2019t go on.\u201d -James Sunderland</span> ",
+        "Description": "An ancient looking goblet carved from pure obsidian.<li>Grants <b>Undetectable</b> while standing on a <b>Rites of Judgment</b> trail.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span><Br><br><span class=\"FlavorText\">\u201cForgive me for waking you. But without you, I just can\u2019t go on.\u201d -James Sunderland</span> ",
         "Role": "Killer",
         "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
@@ -8998,7 +8630,7 @@
         ],
         "KillerAbility": "K21Power",
         "Name": "Iridescent Blight Tag",
-        "Description": "A glass-like laboratory tag, molded from The Fog itself. Either a gift from The Entity or a cruel jest to tag The Blight as he once did to others.<br><li>While all <b>Rush</b> tokens have been used, a <b>Lethal Rush</b> attack hit will put a Survivor into the Dying State.</li><br><br><span class=\"FlavorText\">\"Progress requires drastic change.\" \u2014Talbot Grimes</span>",
+        "Description": "A glass-like laboratory tag, molded from The Fog itself. Either a gift from The Entity or a cruel jest to tag The Blight as he once did to others.<br><li>While all <b>Rush</b> tokens have been used, a <b>Lethal Rush</b> attack hit will put a Survivor into the dying state.</li><br><br><span class=\"FlavorText\">\"Progress requires drastic change.\" \u2014Talbot Grimes</span>",
         "Role": "Killer",
         "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
@@ -9019,14 +8651,7 @@
     },
     "Addon_Flashlight_BrokenBulb": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_Flashlight",
-            "Item_Camper_Flashlight02",
-            "Item_Camper_Flashlight03",
-            "Item_Camper_Flashlight04",
-            "Item_Camper_Flashlight_Anniversary2020",
-            "Item_Camper_Flashlight_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Broken Bulb",
         "Description": "A damaged bulb that causes a spooky flickering effect.<br><br><li>Causes the Flashlight to flicker.</li><li><b>Increases</b> the brightness of the Flashlight beam by <b>15%</b>.</li><li><b>Increases</b> Blindness duration by <b>30%</b>.</li><li><b>Increases</b> the spookiness just a little.</li>",
@@ -9038,15 +8663,7 @@
     },
     "Addon_Medkit_BlightedSyringe": {
         "Type": "ItemAddOn",
-        "ParentItem": [
-            "Item_Camper_MedKit",
-            "Item_Camper_MedKit02",
-            "Item_Camper_MedKit03",
-            "Item_Camper_MedKit04",
-            "Item_Camper_MedKit05",
-            "Item_Camper_Medkit_Anniversary2020",
-            "Item_Camper_Medkit_Anniversary2022"
-        ],
+        "ParentItem": [],
         "KillerAbility": "None",
         "Name": "Refined Serum",
         "Description": "A refined version of the putrid serum that\u2019s mostly safe for human consumption. Mostly.<br><br><li>Press the <i>Secondary Action button</i> while healing with the Med-kit to use the Refined Serum.</li><li><b>Increases</b> the speed of the Survivor by <b>5%</b> for <b>20 seconds</b>.</li><li>Creates a blight trail behind the Survivor.</li><li>Consumes the Med-kit on use.</li>",

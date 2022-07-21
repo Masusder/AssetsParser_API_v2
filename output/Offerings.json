@@ -131,7 +131,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Cattle Tag-28",
         "Description": "<b>Slightly increases</b> the chances of being sent to Coldwind Farm when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A bloodstained cattle tag identified with the number '28'.\"</span>",
         "Role": "None",
@@ -184,7 +184,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Coldwind Cattle Tag-81",
         "Description": "<b>Considerably increases</b> the chances of being sent to Coldwind Farm when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A bloodstained cattle tag identified with 'Coldwind Farm' and the number '81'.\"</span>",
         "Role": "None",
@@ -540,7 +540,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Lunacy Ticket",
         "Description": "<b>Slightly increases</b> the chances of being sent to Crotus Prenn Asylum when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A worn and faded-out ticket of paper with unreadable information.\"</span>",
         "Role": "None",
@@ -554,7 +554,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "MacMillan Ledger Page",
         "Description": "<b>Slightly increases</b> the chances of being sent to the MacMillan Estate when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A torn and faded-out ledger page with unreadable information except for the MacMillan stamp.\"</span>",
         "Role": "None",
@@ -616,7 +616,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "P.Elliott Lunacy Ticket",
         "Description": "<b>Considerably increases</b> the chances of being sent to Crotus Prenn Asylum when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A pink paper ticket identifying Philip Elliott as to be transferred to Crotus Prenn Asylum.\"</span>",
         "Role": "None",
@@ -762,7 +762,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Shredded Plate",
         "Description": "<b>Slightly increases</b> the chances of being sent to the Autohaven Wreckers when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A heavily rusted, bent and torn metal sheet.\"</span>",
         "Role": "None",
@@ -829,7 +829,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Signed Ledger Page",
         "Description": "<b>Considerably increases</b> the chances of being sent to the MacMillan Estate when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A faded-out ledger page referring to mining related equipment and other transactions. Signed by Archie MacMillan.\"</span>",
         "Role": "None",
@@ -913,7 +913,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Virginia Plate",
         "Description": "<b>Considerably increases</b> the chances of being sent to the Autohaven Wreckers when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A rusted and bent license plate from the state of Virginia.\"</span>",
         "Role": "None",
@@ -969,7 +969,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Fuming Cordage",
         "Description": "<b>Slightly increases</b> the chances of being sent to Backwater Swamp when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A burnt piece of marine rope still emitting a warm smoke.\"</span>",
         "Role": "None",
@@ -983,7 +983,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Fuming Welcome Sign",
         "Description": "<b>Considerably increases</b> the chances of being sent to Backwater Swamp when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A welcome sign made from a coarse piece of water polished cypress board. The sign is charred and still fuming.\"</span>",
         "Role": "None",
@@ -1054,7 +1054,7 @@
         ],
         "Available": "Available",
         "Name": "Gruesome Gateau",
-        "Description": "A terrific stomach-churning cake to mark our three years together. Grants <b>103%</b> bonus Bloodpoints in all categories for all players this trial.<br><li>Stacks</li><br><span class=\"FlavorText\">\u201cHappy Anniversary! Here's to our three years together!\"<br>\u2013 The Dead by Daylight Team</span>",
+        "Description": "A terrific stomach-churning cake to mark our three years together. Grants <b>103%</b> bonus Bloodpoints in all categories for all players this trial.<br><li>Stacks.</li><br><span class=\"FlavorText\">\u201cHappy Anniversary! Here's to our three years together!\"<br>\u2013 The Dead by Daylight Team</span>",
         "Role": "None",
         "Rarity": "SpecialEvent",
         "Image": "images/UI/Icons/Favors/Anniversary/iconFavors_gruesomeGateau.png"
@@ -1067,7 +1067,7 @@
         ],
         "Available": "Available",
         "Name": "Ghastly Gateau",
-        "Description": "A spectacularly grim cake to mark our four years together. 1% tastier than a Gruesome Gateau. Grants <b>104%</b> bonus Bloodpoints in all categories for all players this trial.<br><li>Stacks</li><br><span class=\"FlavorText\">\"Happy Anniversary! Here's to many more!\"<br>- The Dead by Daylight Team</span>",
+        "Description": "A spectacularly grim cake to mark our four years together. 1% tastier than a Gruesome Gateau. Grants <b>104%</b> bonus Bloodpoints in all categories for all players this trial.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Happy Anniversary! Here's to many more!\"<br>- The Dead by Daylight Team</span>",
         "Role": "None",
         "Rarity": "SpecialEvent",
         "Image": "images/UI/Icons/Favors/Anniversary/iconFavors_4thAnniversary.png"
@@ -1080,7 +1080,7 @@
         ],
         "Available": "Available",
         "Name": "Sacrificial Cake",
-        "Description": "A revolting cake that marks our five years together. The slightest taste fills you with an incomprehensible energy, reaching out to something beyond. Grants <b>105%</b> bonus Bloodpoints in all categories for all players this trial.<li>Stacks</li><br><span class=\"FlavorText\">\"Happy anniversary! We\u2019re dying to celebrate many more with you!\" <br>- The Dead by Daylight Team</span>",
+        "Description": "A revolting cake that marks our five years together. The slightest taste fills you with an incomprehensible energy, reaching out to something beyond. Grants <b>105%</b> bonus Bloodpoints in all categories for all players this trial.<li>Stacks.</li><br><span class=\"FlavorText\">\"Happy anniversary! We\u2019re dying to celebrate many more with you!\" <br>- The Dead by Daylight Team</span>",
         "Role": "None",
         "Rarity": "SpecialEvent",
         "Image": "images/UI/Icons/Favors/Anniversary/iconsFavors_5thAnniversary.png"
@@ -1135,7 +1135,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Decrepit Clapboard",
         "Description": "<b>Considerably increases</b> the chances of being sent to Haddonfield when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A moldy and rotten beaded oak clapboard like the ones found on most houses of Haddonfield.\"</span>",
         "Role": "None",
@@ -1149,7 +1149,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Harvest Festival Leaflet",
         "Description": "<b>Slightly increases</b> the chances of being sent to Haddonfield when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A washed out informational leaflet for the '78 Haddonfield Harvest Festival. A large cartoon pumpkin is depicted on the front.\"</span>",
         "Role": "None",
@@ -1178,7 +1178,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Emergency Certificate",
         "Description": "<b>Slightly increases</b> the chances of being sent to L\u00e9ry's Memorial Institute when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A yellow carbon-copy certificate which admits a patient into immediate detention for emergency treatment. Copied information are smudged and unreadable.\"</span>",
         "Role": "None",
@@ -1192,7 +1192,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Psychiatric Assessment Report",
         "Description": "<b>Considerably increases</b> the chances of being sent to L\u00e9ry's Memorial Institute when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A Psychiatric report signed by Herman Carter. It describes the memory deterioration of a patient and contains suggestions for next steps in the procedure.\"</span>",
         "Role": "None",
@@ -1219,7 +1219,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Painted River Rock",
         "Description": "<b>Slightly increases</b> the chances of being sent to Red Forest when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A slick and soft rock, polished by a stream. Decorated with red, black and white paint to depict a serious looking bear.\"</span>",
         "Role": "None",
@@ -1233,7 +1233,7 @@
             "Theme",
             "NotAvailableInPartyMode"
         ],
-        "Available": "Available",
+        "Available": "Retired",
         "Name": "Children's Book",
         "Description": "<b>Considerably increases</b> the chances of being sent to Red Forest when burnt.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"An ancient and decrepit story book, the pages of which have been lost to the elements.\"</span>",
         "Role": "None",
